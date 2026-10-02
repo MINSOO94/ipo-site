@@ -1,5 +1,18 @@
 [
  {
+  "name": "케이엠에프",
+  "no": "2340",
+  "sub_start": "2026-11-24",
+  "sub_end": "2026-11-25",
+  "offer_price": null,
+  "band": [
+   15000,
+   17800
+  ],
+  "sub_competition": null,
+  "underwriter": "IBK투자증권"
+ },
+ {
   "name": "하나에어로다이내믹스",
   "no": "2334",
   "sub_start": "2026-11-10",
@@ -282,7 +295,7 @@
    10700,
    12300
   ],
-  "sub_competition": null,
+  "sub_competition": 1741.48,
   "underwriter": "대신증권"
  },
  {
@@ -9735,18 +9748,5 @@
   ],
   "sub_competition": 0.37,
   "underwriter": "하이투자증권"
- },
- {
-  "name": "메드팩토",
-  "no": "1488",
-  "sub_start": "2019-12-10",
-  "sub_end": "2019-12-11",
-  "offer_price": 40000,
-  "band": [
-   34000,
-   43000
-  ],
-  "sub_competition": 18.84,
-  "underwriter": "삼성증권"
  }
 ]
