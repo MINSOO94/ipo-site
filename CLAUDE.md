@@ -22,6 +22,10 @@ python scripts/update.py pipeline     # 수집 없이 화면 데이터만 재생
 python -m http.server 8000            # 로컬 미리보기 (file:// 로 열면 fetch 가 안 됨)
 ```
 
+## 배포
+- 저장소: https://github.com/MINSOO94/ipo-site · 사이트: https://minsoo94.github.io/ipo-site/
+- GitHub Actions 봇이 평일마다 `data/`를 커밋한다 → **작업 시작 전 항상 `git pull --rebase`**, 수정 후 커밋·push 하면 자동 배포.
+
 ## 규칙
 - 답변은 한국어로.
 - API 키는 `.env`(로컬) / GitHub Secrets `DART_API_KEY`(Actions)에만. 코드·커밋에 절대 넣지 않는다.
