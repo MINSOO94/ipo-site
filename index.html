@@ -43,6 +43,7 @@
   --shadow: none;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html, body { margin: 0; }
 body {
   background: var(--page); color: var(--ink);
@@ -156,7 +157,24 @@ footer { margin-top: 32px; color: var(--muted); font-size: 12px; line-height: 1.
 
   <div class="stages" id="stages" role="group" aria-label="진행 단계"></div>
 
-  <section class="card" style="margin-top:16px">
+  <section id="listsec" style="scroll-margin-top:12px">
+    <h2 id="listtitle" style="margin:20px 0 0"></h2>
+    <div class="filters" id="filters">
+      <div class="seg" id="f-market" role="group" aria-label="시장">
+        <button data-v="all" aria-pressed="true">전체</button><button data-v="KOSDAQ" aria-pressed="false">코스닥</button><button data-v="KOSPI" aria-pressed="false">코스피</button>
+      </div>
+      <button class="chipbtn" data-m="general" aria-pressed="true">일반상장</button>
+      <button class="chipbtn" data-m="spac_merge" aria-pressed="true">스팩합병</button>
+      <button class="chipbtn" data-m="spac" aria-pressed="false">스팩·리츠</button>
+      <button class="chipbtn" id="f-special" aria-pressed="false" title="상장 1년 이내, 공모가 대비 30% 이상 올랐다가 현재 공모가 -10%~+15% 구간">급등 후 공모가 근접</button>
+      <span class="spacer"></span>
+      <input type="search" id="f-q" placeholder="회사명·주관사 검색" aria-label="검색">
+    </div>
+    <div class="tablewrap"><table id="list"></table></div>
+    <button class="btn more" id="more" hidden>더 보기</button>
+  </section>
+
+  <section class="card" style="margin-top:24px">
     <h2>다가오는 일정 <span class="muted" style="font-weight:400;font-size:13px">향후 3주</span></h2>
     <div class="desc">수요예측 · 청약 · 상장 일정. 회사명을 누르면 상세 정보가 열립니다.</div>
     <div class="events" id="events"></div>
@@ -176,20 +194,6 @@ footer { margin-top: 32px; color: var(--muted); font-size: 12px; line-height: 1.
     </section>
   </div>
 
-  <div class="filters" id="filters">
-    <div class="seg" id="f-market" role="group" aria-label="시장">
-      <button data-v="all" aria-pressed="true">전체</button><button data-v="KOSDAQ" aria-pressed="false">코스닥</button><button data-v="KOSPI" aria-pressed="false">코스피</button>
-    </div>
-    <button class="chipbtn" data-m="general" aria-pressed="true">일반상장</button>
-    <button class="chipbtn" data-m="spac_merge" aria-pressed="true">스팩합병</button>
-    <button class="chipbtn" data-m="spac" aria-pressed="false">스팩·리츠</button>
-    <button class="chipbtn" id="f-special" aria-pressed="false" title="상장 1년 이내, 공모가 대비 30% 이상 올랐다가 현재 공모가 -10%~+15% 구간">급등 후 공모가 근접</button>
-    <span class="spacer"></span>
-    <input type="search" id="f-q" placeholder="회사명·주관사 검색" aria-label="검색">
-  </div>
-  <div class="tablewrap"><table id="list"></table></div>
-  <button class="btn more" id="more" hidden>더 보기</button>
-
   <footer>
     데이터 출처: <a href="https://kind.krx.co.kr" target="_blank" rel="noopener">KIND(한국거래소)</a> ·
     <a href="http://www.38.co.kr" target="_blank" rel="noopener">38커뮤니케이션</a> ·
@@ -207,7 +211,7 @@ footer { margin-top: 32px; color: var(--muted); font-size: 12px; line-height: 1.
 const STAGES = [["review","심사중"],["approved","승인"],["offering","공모중"],["listed","상장"],["withdrawn","철회·미승인"]];
 const METHOD = {general:"일반", transfer:"이전상장", spac_merge:"스팩합병", spac:"스팩", reit:"리츠"};
 const BANDPOS = {above:"상단 초과", top:"상단", within:"밴드 내", bottom:"하단", below:"하단 미만"};
-const S = { stage: "listed", market: "all", methods: new Set(["general","spac_merge"]), special: false, q: "", sort: null, dir: -1, limit: 100 };
+const S = { stage: "listed", market: "all", methods: new Set(["general","spac_merge"]), special: false, q: "", sort: null, dir: -1, limit: 30 };
 let ITEMS = [], META = {}, BYID = {};
 
 const $ = s => document.querySelector(s);
@@ -234,7 +238,10 @@ function renderStages() {
     `<button class="stage" data-k="${k}" aria-pressed="${S.stage===k}"><span class="n">${(META.counts[k]||0).toLocaleString()}</span><span class="l">${l}</span></button>`).join("");
   $("#stages").onclick = e => {
     const b = e.target.closest(".stage"); if (!b) return;
-    S.stage = b.dataset.k; S.sort = null; S.limit = 100; renderStages(); renderList();
+    S.stage = b.dataset.k; S.sort = null; S.limit = 30; renderStages(); renderList();
+    // 목록 제목이 화면 밖이면 목록 위치로 이동
+    const top = $("#listsec").getBoundingClientRect().top;
+    if (top < 0 || top > innerHeight * 0.6) $("#listsec").scrollIntoView({ behavior: "smooth", block: "start" });
   };
 }
 
@@ -341,6 +348,8 @@ function renderList() {
     rows.sort((a, b) => { const va = get(a), vb = get(b); if (va == null) return 1; if (vb == null) return -1; return (va > vb ? 1 : va < vb ? -1 : 0) * S.dir; });
   } else if (S.stage === "offering") rows.sort((a, b) => (a.sub_start || "9").localeCompare(b.sub_start || "9"));
   const total = rows.length; rows = rows.slice(0, S.limit);
+  const label = Object.fromEntries(STAGES)[S.stage];
+  $("#listtitle").innerHTML = `${label} 기업 <span class="muted" style="font-weight:400;font-size:13px">${total.toLocaleString()}개${total !== (META.counts[S.stage]||0) ? ` (필터 적용 · 전체 ${(META.counts[S.stage]||0).toLocaleString()}개)` : ""}</span>`;
   $("#list").innerHTML = `<thead><tr>${cols.map(([k, l, , c]) => `<th class="${c||""}" data-k="${k}" ${S.sort===k?`data-dir="${S.dir>0?"asc":"desc"}"`:""}>${l}</th>`).join("")}</tr></thead><tbody>` +
     (rows.length ? rows.map(x => `<tr data-id="${x.id}">${cols.map(([, , f, c]) => `<td class="${c||""}">${f(x)}</td>`).join("")}</tr>`).join("")
                  : `<tr><td colspan="${cols.length}" class="empty" style="position:static">조건에 맞는 기업이 없습니다</td></tr>`) + `</tbody>`;
@@ -364,7 +373,7 @@ $("#f-special").onclick = e => {
   if (S.special && S.stage !== "listed") { S.stage = "listed"; renderStages(); }
   renderList();
 };
-$("#f-q").oninput = e => { S.q = e.target.value; S.limit = 100; renderList(); };
+$("#f-q").oninput = e => { S.q = e.target.value; S.limit = 30; renderList(); };
 
 /* ---------- 상세 ---------- */
 const dlg = $("#detail");
