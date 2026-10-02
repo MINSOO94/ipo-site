@@ -1,0 +1,543 @@
+{
+ "updated": "2026-10-02 15:04",
+ "today": "2026-10-02",
+ "counts": {
+  "review": 46,
+  "approved": 8,
+  "offering": 22,
+  "listed": 821,
+  "withdrawn": 174
+ },
+ "monthly": {
+  "2024-11": {
+   "KOSPI": 2,
+   "KOSDAQ": 12
+  },
+  "2024-12": {
+   "KOSPI": 1,
+   "KOSDAQ": 6
+  },
+  "2025-01": {
+   "KOSPI": 0,
+   "KOSDAQ": 4
+  },
+  "2025-02": {
+   "KOSPI": 1,
+   "KOSDAQ": 10
+  },
+  "2025-03": {
+   "KOSPI": 2,
+   "KOSDAQ": 6
+  },
+  "2025-04": {
+   "KOSPI": 0,
+   "KOSDAQ": 3
+  },
+  "2025-05": {
+   "KOSPI": 1,
+   "KOSDAQ": 7
+  },
+  "2025-06": {
+   "KOSPI": 0,
+   "KOSDAQ": 4
+  },
+  "2025-07": {
+   "KOSPI": 1,
+   "KOSDAQ": 7
+  },
+  "2025-08": {
+   "KOSPI": 1,
+   "KOSDAQ": 7
+  },
+  "2025-09": {
+   "KOSPI": 0,
+   "KOSDAQ": 1
+  },
+  "2025-10": {
+   "KOSPI": 1,
+   "KOSDAQ": 0
+  },
+  "2025-11": {
+   "KOSPI": 0,
+   "KOSDAQ": 9
+  },
+  "2025-12": {
+   "KOSPI": 1,
+   "KOSDAQ": 11
+  },
+  "2026-01": {
+   "KOSPI": 0,
+   "KOSDAQ": 1
+  },
+  "2026-02": {
+   "KOSPI": 0,
+   "KOSDAQ": 0
+  },
+  "2026-03": {
+   "KOSPI": 1,
+   "KOSDAQ": 7
+  },
+  "2026-04": {
+   "KOSPI": 0,
+   "KOSDAQ": 2
+  },
+  "2026-05": {
+   "KOSPI": 0,
+   "KOSDAQ": 3
+  },
+  "2026-06": {
+   "KOSPI": 0,
+   "KOSDAQ": 3
+  },
+  "2026-07": {
+   "KOSPI": 0,
+   "KOSDAQ": 4
+  },
+  "2026-08": {
+   "KOSPI": 0,
+   "KOSDAQ": 6
+  },
+  "2026-09": {
+   "KOSPI": 0,
+   "KOSDAQ": 6
+  },
+  "2026-10": {
+   "KOSPI": 0,
+   "KOSDAQ": 1
+  }
+ },
+ "quarterly": [
+  {
+   "q": "2020Q1",
+   "n": 9,
+   "inst_comp": 832.0,
+   "top_ratio": 0.778,
+   "d1_avg": 0.1311,
+   "d1_med": 0.0333,
+   "m3_win": 1.0,
+   "temp": "냉각"
+  },
+  {
+   "q": "2020Q2",
+   "n": 4,
+   "inst_comp": 822.8,
+   "top_ratio": 0.75,
+   "d1_avg": 0.9301,
+   "d1_med": 1.1235,
+   "m3_win": 0.75,
+   "temp": "과열"
+  },
+  {
+   "q": "2020Q3",
+   "n": 29,
+   "inst_comp": 856.1,
+   "top_ratio": 0.759,
+   "d1_avg": 0.4906,
+   "d1_med": 0.372,
+   "m3_win": 0.704,
+   "temp": "보통"
+  },
+  {
+   "q": "2020Q4",
+   "n": 29,
+   "inst_comp": 902.7,
+   "top_ratio": 0.862,
+   "d1_avg": 0.7365,
+   "d1_med": 0.6853,
+   "m3_win": 0.862,
+   "temp": "활황"
+  },
+  {
+   "q": "2021Q1",
+   "n": 24,
+   "inst_comp": 1319.1,
+   "top_ratio": 1.0,
+   "d1_avg": 0.8557,
+   "d1_med": 0.8188,
+   "m3_win": 0.818,
+   "temp": "활황"
+  },
+  {
+   "q": "2021Q2",
+   "n": 16,
+   "inst_comp": 1306.6,
+   "top_ratio": 0.875,
+   "d1_avg": 0.5291,
+   "d1_med": 0.4556,
+   "m3_win": 0.812,
+   "temp": "보통"
+  },
+  {
+   "q": "2021Q3",
+   "n": 25,
+   "inst_comp": 1106.8,
+   "top_ratio": 0.92,
+   "d1_avg": 0.5228,
+   "d1_med": 0.2,
+   "m3_win": 0.48,
+   "temp": "보통"
+  },
+  {
+   "q": "2021Q4",
+   "n": 24,
+   "inst_comp": 1079.2,
+   "top_ratio": 0.667,
+   "d1_avg": 0.4069,
+   "d1_med": 0.3385,
+   "m3_win": 0.625,
+   "temp": "보통"
+  },
+  {
+   "q": "2022Q1",
+   "n": 20,
+   "inst_comp": 962.9,
+   "top_ratio": 0.55,
+   "d1_avg": 0.4258,
+   "d1_med": 0.4112,
+   "m3_win": 0.55,
+   "temp": "보통"
+  },
+  {
+   "q": "2022Q2",
+   "n": 10,
+   "inst_comp": 899.1,
+   "top_ratio": 0.6,
+   "d1_avg": 0.3495,
+   "d1_med": 0.1987,
+   "m3_win": 0.5,
+   "temp": "보통"
+  },
+  {
+   "q": "2022Q3",
+   "n": 16,
+   "inst_comp": 968.0,
+   "top_ratio": 0.562,
+   "d1_avg": 0.2451,
+   "d1_med": 0.224,
+   "m3_win": 0.438,
+   "temp": "보통"
+  },
+  {
+   "q": "2022Q4",
+   "n": 25,
+   "inst_comp": 662.1,
+   "top_ratio": 0.52,
+   "d1_avg": 0.1679,
+   "d1_med": 0.181,
+   "m3_win": 0.375,
+   "temp": "보통"
+  },
+  {
+   "q": "2023Q1",
+   "n": 15,
+   "inst_comp": 1042.5,
+   "top_ratio": 0.733,
+   "d1_avg": 1.084,
+   "d1_med": 1.2923,
+   "m3_win": 1.0,
+   "temp": "과열"
+  },
+  {
+   "q": "2023Q2",
+   "n": 15,
+   "inst_comp": 1055.0,
+   "top_ratio": 0.6,
+   "d1_avg": 0.5225,
+   "d1_med": 0.449,
+   "m3_win": 0.4,
+   "temp": "보통"
+  },
+  {
+   "q": "2023Q3",
+   "n": 19,
+   "inst_comp": 1276.6,
+   "top_ratio": 0.842,
+   "d1_avg": 0.4838,
+   "d1_med": 0.3088,
+   "m3_win": 0.263,
+   "temp": "보통"
+  },
+  {
+   "q": "2023Q4",
+   "n": 32,
+   "inst_comp": 573.1,
+   "top_ratio": 0.812,
+   "d1_avg": 0.8484,
+   "d1_med": 0.5801,
+   "m3_win": 0.688,
+   "temp": "활황"
+  },
+  {
+   "q": "2024Q1",
+   "n": 14,
+   "inst_comp": 918.3,
+   "top_ratio": 1.0,
+   "d1_avg": 1.1993,
+   "d1_med": 1.0037,
+   "m3_win": 0.429,
+   "temp": "과열"
+  },
+  {
+   "q": "2024Q2",
+   "n": 15,
+   "inst_comp": 827.6,
+   "top_ratio": 1.0,
+   "d1_avg": 0.6483,
+   "d1_med": 0.2539,
+   "m3_win": 0.333,
+   "temp": "보통"
+  },
+  {
+   "q": "2024Q3",
+   "n": 18,
+   "inst_comp": 758.1,
+   "top_ratio": 0.889,
+   "d1_avg": 0.2471,
+   "d1_med": 0.1386,
+   "m3_win": 0.222,
+   "temp": "냉각"
+  },
+  {
+   "q": "2024Q4",
+   "n": 30,
+   "inst_comp": 692.9,
+   "top_ratio": 0.667,
+   "d1_avg": 0.0532,
+   "d1_med": -0.17,
+   "m3_win": 0.267,
+   "temp": "냉각"
+  },
+  {
+   "q": "2025Q1",
+   "n": 23,
+   "inst_comp": 785.0,
+   "top_ratio": 0.652,
+   "d1_avg": 0.4318,
+   "d1_med": 0.2308,
+   "m3_win": 0.565,
+   "temp": "보통"
+  },
+  {
+   "q": "2025Q2",
+   "n": 15,
+   "inst_comp": 1065.2,
+   "top_ratio": 0.933,
+   "d1_avg": 0.7328,
+   "d1_med": 0.6606,
+   "m3_win": 0.867,
+   "temp": "활황"
+  },
+  {
+   "q": "2025Q3",
+   "n": 16,
+   "inst_comp": 862.9,
+   "top_ratio": 0.938,
+   "d1_avg": 0.5165,
+   "d1_med": 0.5,
+   "m3_win": 0.688,
+   "temp": "활황"
+  },
+  {
+   "q": "2025Q4",
+   "n": 22,
+   "inst_comp": 924.8,
+   "top_ratio": 1.0,
+   "d1_avg": 1.2724,
+   "d1_med": 0.8565,
+   "m3_win": 0.857,
+   "temp": "활황"
+  },
+  {
+   "q": "2026Q1",
+   "n": 9,
+   "inst_comp": 971.5,
+   "top_ratio": 0.889,
+   "d1_avg": 1.6592,
+   "d1_med": 1.53,
+   "m3_win": 0.444,
+   "temp": "과열"
+  },
+  {
+   "q": "2026Q2",
+   "n": 8,
+   "inst_comp": 966.4,
+   "top_ratio": 0.75,
+   "d1_avg": 1.3247,
+   "d1_med": 1.1235,
+   "m3_win": 0.25,
+   "temp": "과열"
+  },
+  {
+   "q": "2026Q3",
+   "n": 16,
+   "inst_comp": 647.5,
+   "top_ratio": 0.688,
+   "d1_avg": 0.4692,
+   "d1_med": 0.1527,
+   "m3_win": 0.5,
+   "temp": "보통"
+  },
+  {
+   "q": "2026Q4",
+   "n": 1,
+   "inst_comp": 1187.7,
+   "top_ratio": 1.0,
+   "d1_avg": 0.5949,
+   "d1_med": 0.5949,
+   "m3_win": null,
+   "temp": "활황"
+  }
+ ],
+ "events": [
+  {
+   "id": "C01028933",
+   "name": "멜콘",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-01",
+   "end": "2026-10-02",
+   "method": "general"
+  },
+  {
+   "id": "250030",
+   "name": "진코스텍",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-02",
+   "end": "2026-10-06",
+   "method": "transfer"
+  },
+  {
+   "id": "C01754737",
+   "name": "엘리스그룹",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-07",
+   "end": "2026-10-08",
+   "method": "general"
+  },
+  {
+   "id": "C01749559",
+   "name": "엠에스바이오",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-12",
+   "end": "2026-10-13",
+   "method": "general"
+  },
+  {
+   "id": "C00534729",
+   "name": "디티에스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-13",
+   "end": "2026-10-14",
+   "method": "general"
+  },
+  {
+   "id": "C01028933",
+   "name": "멜콘",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-15",
+   "end": "2026-10-15",
+   "method": "general"
+  },
+  {
+   "id": "250030",
+   "name": "진코스텍",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-15",
+   "end": "2026-10-15",
+   "method": "transfer"
+  },
+  {
+   "id": "C02032951",
+   "name": "에스케이증권제14호기업인수목적",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-15",
+   "end": "2026-10-16",
+   "method": "spac"
+  },
+  {
+   "id": "C01706509",
+   "name": "다비오",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-19",
+   "end": "2026-10-20",
+   "method": "general"
+  },
+  {
+   "id": "C01540903",
+   "name": "크리에이츠",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "method": "general"
+  },
+  {
+   "id": "C01965157",
+   "name": "한화플러스제6호스팩",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "method": "spac"
+  },
+  {
+   "id": "C01543043",
+   "name": "티앤이코리아",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-20",
+   "end": "2026-10-21",
+   "method": "general"
+  },
+  {
+   "id": "C01649408",
+   "name": "인텔리빅스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-21",
+   "end": "2026-10-22",
+   "method": "general"
+  },
+  {
+   "id": "C01956751",
+   "name": "래블업",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-22",
+   "end": "2026-10-23",
+   "method": "general"
+  },
+  {
+   "id": "C00579342",
+   "name": "영광",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-22",
+   "end": "2026-10-23",
+   "method": "general"
+  },
+  {
+   "id": "C01378005",
+   "name": "이에스티",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-22",
+   "end": "2026-10-23",
+   "method": "general"
+  }
+ ],
+ "backtest": {
+  "n": 124,
+  "brier": 0.2271,
+  "acc": 0.653,
+  "base": 0.565
+ }
+}

@@ -1,0 +1,2586 @@
+[
+ {
+  "name": "뉴엔AI",
+  "market": "KOSDAQ",
+  "filing_date": "2025-04-22",
+  "forecast": [
+   "2025-06-12",
+   "2025-06-18"
+  ],
+  "subscription": [
+   "2025-06-23",
+   "2025-06-24"
+  ],
+  "payment_date": "2025-06-26",
+  "offer_price": 15000,
+  "offer_amount_mil": 33300,
+  "listing_date": "2025-07-04",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20240930000175"
+ },
+ {
+  "name": "대한조선",
+  "market": "KOSPI",
+  "filing_date": "2025-06-24",
+  "forecast": [
+   "2025-07-11",
+   "2025-07-17"
+  ],
+  "subscription": [
+   "2025-07-22",
+   "2025-07-23"
+  ],
+  "payment_date": "2025-07-25",
+  "offer_price": 50000,
+  "offer_amount_mil": 500000,
+  "listing_date": "2025-08-01",
+  "underwriter": "KB증권(주),엔에이치투자증권(주),신영증권(주)",
+  "kind_id": "20250109000190"
+ },
+ {
+  "name": "바이오비쥬",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-24",
+  "forecast": [
+   "2025-04-23",
+   "2025-04-29"
+  ],
+  "subscription": [
+   "2025-05-08",
+   "2025-05-09"
+  ],
+  "payment_date": "2025-05-13",
+  "offer_price": 9100,
+  "offer_amount_mil": 27300,
+  "listing_date": "2025-05-20",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20240731000130"
+ },
+ {
+  "name": "이노테크",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-08",
+  "forecast": [
+   "2025-10-16",
+   "2025-10-22"
+  ],
+  "subscription": [
+   "2025-10-27",
+   "2025-10-28"
+  ],
+  "payment_date": "2025-10-30",
+  "offer_price": 14700,
+  "offer_amount_mil": 25872,
+  "listing_date": "2025-11-07",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250327000213"
+ },
+ {
+  "name": "뉴로핏",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-29",
+  "forecast": [
+   "2025-07-04",
+   "2025-07-10"
+  ],
+  "subscription": [
+   "2025-07-15",
+   "2025-07-16"
+  ],
+  "payment_date": "2025-07-18",
+  "offer_price": 14000,
+  "offer_amount_mil": 28000,
+  "listing_date": "2025-07-25",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20240328000230"
+ },
+ {
+  "name": "하나35호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-26",
+  "forecast": [
+   "2025-07-21",
+   "2025-07-22"
+  ],
+  "subscription": [
+   "2025-07-25",
+   "2025-07-28"
+  ],
+  "payment_date": "2025-07-30",
+  "offer_price": 2000,
+  "offer_amount_mil": 11000,
+  "listing_date": "2025-08-06",
+  "underwriter": "하나증권주식회사",
+  "kind_id": "20250414000112"
+ },
+ {
+  "name": "그래피",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-24",
+  "forecast": [
+   "2025-07-31",
+   "2025-08-06"
+  ],
+  "subscription": [
+   "2025-08-11",
+   "2025-08-12"
+  ],
+  "payment_date": "2025-08-14",
+  "offer_price": 15000,
+  "offer_amount_mil": 29250,
+  "listing_date": "2025-08-25",
+  "underwriter": "KB증권(주),신한투자증권 주식회사",
+  "kind_id": "20240527000390"
+ },
+ {
+  "name": "세나테크놀로지",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-08",
+  "forecast": [
+   "2025-10-23",
+   "2025-10-29"
+  ],
+  "subscription": [
+   "2025-11-04",
+   "2025-11-05"
+  ],
+  "payment_date": "2025-11-07",
+  "offer_price": 56800,
+  "offer_amount_mil": 31808,
+  "listing_date": "2025-11-14",
+  "underwriter": "KB증권(주),신한투자증권 주식회사",
+  "kind_id": "20250324000194"
+ },
+ {
+  "name": "에스팀",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-19",
+  "forecast": [
+   "2026-02-09",
+   "2026-02-13"
+  ],
+  "subscription": [
+   "2026-02-23",
+   "2026-02-24"
+  ],
+  "payment_date": "2026-02-26",
+  "offer_price": 8500,
+  "offer_amount_mil": 15300,
+  "listing_date": "2026-03-06",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20250123000269"
+ },
+ {
+  "name": "대신밸류리츠",
+  "market": "KOSPI",
+  "filing_date": "2025-05-09",
+  "forecast": [
+   "2025-06-12",
+   "2025-06-13"
+  ],
+  "subscription": [
+   "2025-06-23",
+   "2025-06-24"
+  ],
+  "payment_date": "2025-06-26",
+  "offer_price": 5000,
+  "offer_amount_mil": 96500,
+  "listing_date": "2025-07-10",
+  "underwriter": "한국투자증권(주),대신증권(주)",
+  "kind_id": "20250626000674"
+ },
+ {
+  "name": "제이피아이헬스케어",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-27",
+  "forecast": [
+   "2025-08-01",
+   "2025-08-07"
+  ],
+  "subscription": [
+   "2025-08-11",
+   "2025-08-12"
+  ],
+  "payment_date": "2025-08-14",
+  "offer_price": 20000,
+  "offer_amount_mil": 31600,
+  "listing_date": "2025-08-21",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20250117000221"
+ },
+ {
+  "name": "에스투더블유",
+  "market": "KOSDAQ",
+  "filing_date": "2025-08-12",
+  "forecast": [
+   "2025-09-02",
+   "2025-09-08"
+  ],
+  "subscription": [
+   "2025-09-10",
+   "2025-09-11"
+  ],
+  "payment_date": "2025-09-15",
+  "offer_price": 13200,
+  "offer_amount_mil": 20856,
+  "listing_date": "2025-09-19",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20241127000471"
+ },
+ {
+  "name": "KB제33호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-08-26",
+  "forecast": [
+   "2025-09-16",
+   "2025-09-17"
+  ],
+  "subscription": [
+   "2025-09-22",
+   "2025-09-23"
+  ],
+  "payment_date": "2025-09-25",
+  "offer_price": 2000,
+  "offer_amount_mil": 15000,
+  "listing_date": "2025-09-30",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250612000572"
+ },
+ {
+  "name": "삼성스팩11호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-08-25",
+  "forecast": [
+   "2025-09-15",
+   "2025-09-16"
+  ],
+  "subscription": [
+   "2025-09-19",
+   "2025-09-22"
+  ],
+  "payment_date": "2025-09-24",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-09-30",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250616000510"
+ },
+ {
+  "name": "인벤테라",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-30",
+  "forecast": [
+   "2026-03-11",
+   "2026-03-17"
+  ],
+  "subscription": [
+   "2026-03-23",
+   "2026-03-24"
+  ],
+  "payment_date": "2026-03-26",
+  "offer_price": 16600,
+  "offer_amount_mil": 19588,
+  "listing_date": "2026-04-02",
+  "underwriter": "엔에이치투자증권(주),유진투자증권(주)",
+  "kind_id": "20250124000282"
+ },
+ {
+  "name": "코스모로보틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-02-11",
+  "forecast": [
+   "2026-04-16",
+   "2026-04-22"
+  ],
+  "subscription": [
+   "2026-04-27",
+   "2026-04-28"
+  ],
+  "payment_date": "2026-04-30",
+  "offer_price": 6000,
+  "offer_amount_mil": 25020,
+  "listing_date": "2026-05-11",
+  "underwriter": "유진투자증권(주),엔에이치투자증권(주)",
+  "kind_id": "20250827000564"
+ },
+ {
+  "name": "삼양컴텍",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-16",
+  "forecast": [
+   "2025-07-24",
+   "2025-07-30"
+  ],
+  "subscription": [
+   "2025-08-05",
+   "2025-08-06"
+  ],
+  "payment_date": "2025-08-08",
+  "offer_price": 7700,
+  "offer_amount_mil": 111650,
+  "listing_date": "2025-08-18",
+  "underwriter": "신한투자증권 주식회사,엔에이치투자증권(주)",
+  "kind_id": "20240528000091"
+ },
+ {
+  "name": "그린광학",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-17",
+  "forecast": [
+   "2025-10-28",
+   "2025-11-03"
+  ],
+  "subscription": [
+   "2025-11-06",
+   "2025-11-07"
+  ],
+  "payment_date": "2025-11-11",
+  "offer_price": 16000,
+  "offer_amount_mil": 32000,
+  "listing_date": "2025-11-17",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20250701000153"
+ },
+ {
+  "name": "더핑크퐁컴퍼니",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-22",
+  "forecast": [
+   "2025-10-28",
+   "2025-11-03"
+  ],
+  "subscription": [
+   "2025-11-06",
+   "2025-11-07"
+  ],
+  "payment_date": "2025-11-11",
+  "offer_price": 38000,
+  "offer_amount_mil": 76000,
+  "listing_date": "2025-11-18",
+  "underwriter": "미래에셋증권 주식회사,삼성증권(주)",
+  "kind_id": "20250508000175"
+ },
+ {
+  "name": "신영스팩11호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-17",
+  "forecast": [
+   "2025-11-10",
+   "2025-11-11"
+  ],
+  "subscription": [
+   "2025-11-13",
+   "2025-11-14"
+  ],
+  "payment_date": "2025-11-18",
+  "offer_price": 2000,
+  "offer_amount_mil": 11600,
+  "listing_date": "2025-11-24",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20250805000151"
+ },
+ {
+  "name": "삼성스팩12호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-21",
+  "forecast": [
+   "2025-11-12",
+   "2025-11-13"
+  ],
+  "subscription": [
+   "2025-11-19",
+   "2025-11-20"
+  ],
+  "payment_date": "2025-11-24",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2025-11-28",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250819000163"
+ },
+ {
+  "name": "교보19호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-04",
+  "forecast": [
+   "2025-11-26",
+   "2025-11-27"
+  ],
+  "subscription": [
+   "2025-12-02",
+   "2025-12-03"
+  ],
+  "payment_date": "2025-12-05",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-12-12",
+  "underwriter": "교보증권(주)",
+  "kind_id": "20250825000204"
+ },
+ {
+  "name": "이지스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-14",
+  "forecast": [
+   "2025-11-21",
+   "2025-11-27"
+  ],
+  "subscription": [
+   "2025-12-02",
+   "2025-12-03"
+  ],
+  "payment_date": "2025-12-05",
+  "offer_price": 15000,
+  "offer_amount_mil": 22500,
+  "listing_date": "2025-12-11",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20250131000066"
+ },
+ {
+  "name": "유진스팩12호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-05",
+  "forecast": [
+   "2025-11-27",
+   "2025-11-28"
+  ],
+  "subscription": [
+   "2025-12-02",
+   "2025-12-03"
+  ],
+  "payment_date": "2025-12-05",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-12-11",
+  "underwriter": "유진투자증권(주)",
+  "kind_id": "20250911000605"
+ },
+ {
+  "name": "메리츠제1호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-28",
+  "forecast": [
+   "2025-11-26",
+   "2025-11-27"
+  ],
+  "subscription": [
+   "2025-12-04",
+   "2025-12-05"
+  ],
+  "payment_date": "2025-12-09",
+  "offer_price": 2000,
+  "offer_amount_mil": 11000,
+  "listing_date": "2025-12-15",
+  "underwriter": "메리츠증권 주식회사",
+  "kind_id": "20251010000349"
+ },
+ {
+  "name": "미래에셋비전스팩11호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-11",
+  "forecast": [
+   "2025-12-04",
+   "2025-12-05"
+  ],
+  "subscription": [
+   "2025-12-10",
+   "2025-12-11"
+  ],
+  "payment_date": "2025-12-15",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2025-12-22",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250829000228"
+ },
+ {
+  "name": "메쥬",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-20",
+  "forecast": [
+   "2026-03-05",
+   "2026-03-11"
+  ],
+  "subscription": [
+   "2026-03-16",
+   "2026-03-17"
+  ],
+  "payment_date": "2026-03-19",
+  "offer_price": 21600,
+  "offer_amount_mil": 29052,
+  "listing_date": "2026-03-26",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20250930000346"
+ },
+ {
+  "name": "한국피아이엠",
+  "market": "KOSDAQ",
+  "filing_date": "2025-02-14",
+  "forecast": [
+   "2025-03-17",
+   "2025-03-21"
+  ],
+  "subscription": [
+   "2025-03-25",
+   "2025-03-26"
+  ],
+  "payment_date": "2025-03-28",
+  "offer_price": 11200,
+  "offer_amount_mil": 14560,
+  "listing_date": "2025-04-04",
+  "underwriter": "IBK투자증권(주)",
+  "kind_id": "20240730000146"
+ },
+ {
+  "name": "리센스메디컬",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-09",
+  "forecast": [
+   "2026-03-09",
+   "2026-03-13"
+  ],
+  "subscription": [
+   "2026-03-19",
+   "2026-03-20"
+  ],
+  "payment_date": "2026-03-24",
+  "offer_price": 11000,
+  "offer_amount_mil": 15400,
+  "listing_date": "2026-03-31",
+  "underwriter": "KB증권(주),한국투자증권(주)",
+  "kind_id": "20250115000165"
+ },
+ {
+  "name": "폴레드",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-02",
+  "forecast": [
+   "2026-04-22",
+   "2026-04-28"
+  ],
+  "subscription": [
+   "2026-05-04",
+   "2026-05-06"
+  ],
+  "payment_date": "2026-05-08",
+  "offer_price": 5000,
+  "offer_amount_mil": 13000,
+  "listing_date": "2026-05-14",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20250926000682"
+ },
+ {
+  "name": "KB제32호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-26",
+  "forecast": [
+   "2025-06-18",
+   "2025-06-19"
+  ],
+  "subscription": [
+   "2025-06-24",
+   "2025-06-25"
+  ],
+  "payment_date": "2025-06-27",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2025-07-04",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250325000387"
+ },
+ {
+  "name": "디비금융제14호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-13",
+  "forecast": [
+   "2025-07-07",
+   "2025-07-08"
+  ],
+  "subscription": [
+   "2025-07-10",
+   "2025-07-11"
+  ],
+  "payment_date": "2025-07-15",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-07-22",
+  "underwriter": "DB증권주식회사",
+  "kind_id": "20250408000185"
+ },
+ {
+  "name": "페스카로",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-15",
+  "forecast": [
+   "2025-11-20",
+   "2025-11-26"
+  ],
+  "subscription": [
+   "2025-12-01",
+   "2025-12-02"
+  ],
+  "payment_date": "2025-12-04",
+  "offer_price": 15500,
+  "offer_amount_mil": 20150,
+  "listing_date": "2025-12-10",
+  "underwriter": "엔에이치투자증권(주),한화투자증권(주)",
+  "kind_id": "20250124000279"
+ },
+ {
+  "name": "씨케이솔루션",
+  "market": "KOSPI",
+  "filing_date": "2025-02-04",
+  "forecast": [
+   "2025-02-20",
+   "2025-02-26"
+  ],
+  "subscription": [
+   "2025-03-04",
+   "2025-03-05"
+  ],
+  "payment_date": "2025-03-07",
+  "offer_price": 15000,
+  "offer_amount_mil": 22500,
+  "listing_date": "2025-03-17",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20240531000121"
+ },
+ {
+  "name": "KB제34호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-13",
+  "forecast": [
+   "2026-09-04",
+   "2026-09-07"
+  ],
+  "subscription": [
+   "2026-09-10",
+   "2026-09-11"
+  ],
+  "payment_date": "2026-09-15",
+  "offer_price": 2000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2026-09-22",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20260605000248"
+ },
+ {
+  "name": "와이즈플래닛컴퍼니",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-29",
+  "forecast": [
+   "2026-09-04",
+   "2026-09-10"
+  ],
+  "subscription": [
+   "2026-09-14",
+   "2026-09-15"
+  ],
+  "payment_date": "2026-09-17",
+  "offer_price": 12000,
+  "offer_amount_mil": 19200,
+  "listing_date": "2026-09-23",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000220"
+ },
+ {
+  "name": "마키나락스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-03-25",
+  "forecast": [
+   "2026-04-28",
+   "2026-05-06"
+  ],
+  "subscription": [
+   "2026-05-11",
+   "2026-05-12"
+  ],
+  "payment_date": "2026-05-14",
+  "offer_price": 15000,
+  "offer_amount_mil": 39525,
+  "listing_date": "2026-05-20",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250930000202"
+ },
+ {
+  "name": "네오사피엔스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-23",
+  "forecast": [
+   "2026-09-02",
+   "2026-09-08"
+  ],
+  "subscription": [
+   "2026-09-10",
+   "2026-09-11"
+  ],
+  "payment_date": "2026-09-15",
+  "offer_price": 10000,
+  "offer_amount_mil": 20000,
+  "listing_date": "2026-09-21",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000219"
+ },
+ {
+  "name": "테라뷰",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-14",
+  "forecast": [
+   "2025-11-13",
+   "2025-11-19"
+  ],
+  "subscription": [
+   "2025-11-21",
+   "2025-11-24"
+  ],
+  "payment_date": "2025-11-26",
+  "offer_price": 8000,
+  "offer_amount_mil": 40000,
+  "listing_date": "2025-12-09",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250121000231"
+ },
+ {
+  "name": "딜리셔스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-24",
+  "forecast": [
+   "2026-07-23",
+   "2026-07-29"
+  ],
+  "subscription": [
+   "2026-08-03",
+   "2026-08-04"
+  ],
+  "payment_date": "2026-08-06",
+  "offer_price": 7000,
+  "offer_amount_mil": 15400,
+  "listing_date": "2026-08-12",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20251125000262"
+ },
+ {
+  "name": "해치텍",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-26",
+  "forecast": [
+   "2026-08-03",
+   "2026-08-07"
+  ],
+  "subscription": [
+   "2026-08-12",
+   "2026-08-13"
+  ],
+  "payment_date": "2026-08-18",
+  "offer_price": 23000,
+  "offer_amount_mil": 23000,
+  "listing_date": "2026-08-25",
+  "underwriter": "DB증권주식회사",
+  "kind_id": "20260123000294"
+ },
+ {
+  "name": "인투셀",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-24",
+  "forecast": [
+   "2025-04-29",
+   "2025-05-08"
+  ],
+  "subscription": [
+   "2025-05-13",
+   "2025-05-14"
+  ],
+  "payment_date": "2025-05-16",
+  "offer_price": 17000,
+  "offer_amount_mil": 25500,
+  "listing_date": "2025-05-23",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20240130000036"
+ },
+ {
+  "name": "신한제18호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-03-23",
+  "forecast": [
+   "2026-04-14",
+   "2026-04-15"
+  ],
+  "subscription": [
+   "2026-04-20",
+   "2026-04-21"
+  ],
+  "payment_date": "2026-04-23",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2026-04-30",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20251106000819"
+ },
+ {
+  "name": "채비",
+  "market": "KOSDAQ",
+  "filing_date": "2026-03-04",
+  "forecast": [
+   "2026-04-10",
+   "2026-04-16"
+  ],
+  "subscription": [
+   "2026-04-20",
+   "2026-04-21"
+  ],
+  "payment_date": "2026-04-23",
+  "offer_price": 12300,
+  "offer_amount_mil": 110700,
+  "listing_date": "2026-04-29",
+  "underwriter": "KB증권(주),삼성증권(주),대신증권(주),하나증권주식회사",
+  "kind_id": "20250530000123"
+ },
+ {
+  "name": "덕산넵코어스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-24",
+  "forecast": [
+   "2026-09-08",
+   "2026-09-14"
+  ],
+  "subscription": [
+   "2026-09-16",
+   "2026-09-17"
+  ],
+  "payment_date": "2026-09-21",
+  "offer_price": 14600,
+  "offer_amount_mil": 43800,
+  "listing_date": "2026-09-30",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20250929000071"
+ },
+ {
+  "name": "한화플러스제5호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-02-07",
+  "forecast": [
+   "2025-03-05",
+   "2025-03-06"
+  ],
+  "subscription": [
+   "2025-03-11",
+   "2025-03-12"
+  ],
+  "payment_date": "2025-03-14",
+  "offer_price": 2000,
+  "offer_amount_mil": 9500,
+  "listing_date": "2025-03-20",
+  "underwriter": "한화투자증권(주)",
+  "kind_id": "20241203000097"
+ },
+ {
+  "name": "메리츠제2호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-05-07",
+  "forecast": [
+   "2026-06-01",
+   "2026-06-02"
+  ],
+  "subscription": [
+   "2026-06-09",
+   "2026-06-10"
+  ],
+  "payment_date": "2026-06-12",
+  "offer_price": 2000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2026-06-19",
+  "underwriter": "메리츠증권 주식회사",
+  "kind_id": "20260224000360"
+ },
+ {
+  "name": "매드업",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-13",
+  "forecast": [
+   "2026-06-12",
+   "2026-06-18"
+  ],
+  "subscription": [
+   "2026-06-23",
+   "2026-06-24"
+  ],
+  "payment_date": "2026-06-26",
+  "offer_price": 8000,
+  "offer_amount_mil": 16000,
+  "listing_date": "2026-07-01",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250328000374"
+ },
+ {
+  "name": "인제니아테라퓨틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-10",
+  "forecast": [
+   "2026-07-20",
+   "2026-07-24"
+  ],
+  "subscription": [
+   "2026-07-30",
+   "2026-07-31"
+  ],
+  "payment_date": "2026-08-04",
+  "offer_price": 12000,
+  "offer_amount_mil": 60000,
+  "listing_date": "2026-08-18",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250923000002"
+ },
+ {
+  "name": "한국제16호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-05-26",
+  "forecast": [
+   "2026-06-17",
+   "2026-06-18"
+  ],
+  "subscription": [
+   "2026-06-22",
+   "2026-06-23"
+  ],
+  "payment_date": "2026-06-25",
+  "offer_price": 2000,
+  "offer_amount_mil": 11000,
+  "listing_date": "2026-06-30",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260223000234"
+ },
+ {
+  "name": "케이앤에스아이앤씨",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-12",
+  "forecast": [
+   "2026-07-27",
+   "2026-07-31"
+  ],
+  "subscription": [
+   "2026-08-04",
+   "2026-08-05"
+  ],
+  "payment_date": "2026-08-07",
+  "offer_price": 11000,
+  "offer_amount_mil": 26400,
+  "listing_date": "2026-08-13",
+  "underwriter": "IBK투자증권(주)",
+  "kind_id": "20250930000130"
+ },
+ {
+  "name": "미래에셋비전스팩8호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-17",
+  "forecast": [
+   "2025-11-11",
+   "2025-11-12"
+  ],
+  "subscription": [
+   "2025-11-17",
+   "2025-11-18"
+  ],
+  "payment_date": "2025-11-20",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2025-11-27",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250808000629"
+ },
+ {
+  "name": "레메디",
+  "market": "KOSDAQ",
+  "filing_date": "2026-05-22",
+  "forecast": [
+   "2026-06-17",
+   "2026-06-23"
+  ],
+  "subscription": [
+   "2026-07-01",
+   "2026-07-02"
+  ],
+  "payment_date": "2026-07-06",
+  "offer_price": 20700,
+  "offer_amount_mil": 24840,
+  "listing_date": "2026-07-13",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20251127000242"
+ },
+ {
+  "name": "니어스랩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-25",
+  "forecast": [
+   "2026-08-03",
+   "2026-08-07"
+  ],
+  "subscription": [
+   "2026-08-12",
+   "2026-08-13"
+  ],
+  "payment_date": "2026-08-18",
+  "offer_price": 41200,
+  "offer_amount_mil": 37492,
+  "listing_date": "2026-08-24",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20251114000430"
+ },
+ {
+  "name": "교보18호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-27",
+  "forecast": [
+   "2025-07-28",
+   "2025-07-29"
+  ],
+  "subscription": [
+   "2025-08-05",
+   "2025-08-06"
+  ],
+  "payment_date": "2025-08-08",
+  "offer_price": 2000,
+  "offer_amount_mil": 9000,
+  "listing_date": "2025-08-14",
+  "underwriter": "교보증권(주)",
+  "kind_id": "20250408000309"
+ },
+ {
+  "name": "스카이랩스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-07",
+  "forecast": [
+   "2026-08-14",
+   "2026-08-21"
+  ],
+  "subscription": [
+   "2026-08-26",
+   "2026-08-27"
+  ],
+  "payment_date": "2026-08-31",
+  "offer_price": 10000,
+  "offer_amount_mil": 20000,
+  "listing_date": "2026-09-04",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20251203000592"
+ },
+ {
+  "name": "신한제17호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-02-13",
+  "forecast": [
+   "2026-03-13",
+   "2026-03-16"
+  ],
+  "subscription": [
+   "2026-03-19",
+   "2026-03-20"
+  ],
+  "payment_date": "2026-03-24",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2026-04-01",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20251106000006"
+ },
+ {
+  "name": "브릴스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-13",
+  "forecast": [
+   "2026-09-09",
+   "2026-09-15"
+  ],
+  "subscription": [
+   "2026-09-17",
+   "2026-09-18"
+  ],
+  "payment_date": "2026-09-22",
+  "offer_price": 19500,
+  "offer_amount_mil": 23400,
+  "listing_date": "2026-10-01",
+  "underwriter": "IBK투자증권(주)",
+  "kind_id": "20251128000485"
+ },
+ {
+  "name": "져스텍",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-16",
+  "forecast": [
+   "2026-06-08",
+   "2026-06-12"
+  ],
+  "subscription": [
+   "2026-06-18",
+   "2026-06-19"
+  ],
+  "payment_date": "2026-06-23",
+  "offer_price": 12500,
+  "offer_amount_mil": 20000,
+  "listing_date": "2026-06-29",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250124000429"
+ },
+ {
+  "name": "나라스페이스테크놀로지",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-26",
+  "forecast": [
+   "2025-11-26",
+   "2025-12-02"
+  ],
+  "subscription": [
+   "2025-12-08",
+   "2025-12-09"
+  ],
+  "payment_date": "2025-12-11",
+  "offer_price": 16500,
+  "offer_amount_mil": 28380,
+  "listing_date": "2025-12-17",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250326000590"
+ },
+ {
+  "name": "레몬헬스케어",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-17",
+  "forecast": [
+   "2026-06-15",
+   "2026-06-19"
+  ],
+  "subscription": [
+   "2026-06-24",
+   "2026-06-25"
+  ],
+  "payment_date": "2026-06-29",
+  "offer_price": 10000,
+  "offer_amount_mil": 20000,
+  "listing_date": "2026-07-06",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250120000182"
+ },
+ {
+  "name": "빅웨이브로보틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-01",
+  "forecast": [
+   "2026-09-07",
+   "2026-09-11"
+  ],
+  "subscription": [
+   "2026-09-15",
+   "2026-09-16"
+  ],
+  "payment_date": "2026-09-18",
+  "offer_price": 18000,
+  "offer_amount_mil": 28800,
+  "listing_date": "2026-09-29",
+  "underwriter": "유진투자증권(주),미래에셋증권 주식회사",
+  "kind_id": "20251002000228"
+ },
+ {
+  "name": "아크릴",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-20",
+  "forecast": [
+   "2025-11-25",
+   "2025-12-01"
+  ],
+  "subscription": [
+   "2025-12-04",
+   "2025-12-05"
+  ],
+  "payment_date": "2025-12-09",
+  "offer_price": 19500,
+  "offer_amount_mil": 42120,
+  "listing_date": "2025-12-16",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20250114000444"
+ },
+ {
+  "name": "이뮨온시아",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-14",
+  "forecast": [
+   "2025-04-22",
+   "2025-04-28"
+  ],
+  "subscription": [
+   "2025-05-07",
+   "2025-05-08"
+  ],
+  "payment_date": "2025-05-12",
+  "offer_price": 3600,
+  "offer_amount_mil": 32906,
+  "listing_date": "2025-05-19",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20240124000157"
+ },
+ {
+  "name": "엔에이치스팩32호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-27",
+  "forecast": [
+   "2025-11-18",
+   "2025-11-19"
+  ],
+  "subscription": [
+   "2025-11-24",
+   "2025-11-25"
+  ],
+  "payment_date": "2025-11-27",
+  "offer_price": 2000,
+  "offer_amount_mil": 10300,
+  "listing_date": "2025-12-05",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20250825000505"
+ },
+ {
+  "name": "한국제17호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-14",
+  "forecast": [
+   "2026-09-07",
+   "2026-09-08"
+  ],
+  "subscription": [
+   "2026-09-10",
+   "2026-09-11"
+  ],
+  "payment_date": "2026-09-15",
+  "offer_price": 2000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2026-09-22",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260527000849"
+ },
+ {
+  "name": "리브스메드",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-20",
+  "forecast": [
+   "2025-12-04",
+   "2025-02-10"
+  ],
+  "subscription": [
+   "2025-12-15",
+   "2025-12-16"
+  ],
+  "payment_date": "2025-12-18",
+  "offer_price": 55000,
+  "offer_amount_mil": 135850,
+  "listing_date": "2025-12-24",
+  "underwriter": "삼성증권(주),미래에셋증권 주식회사",
+  "kind_id": "20250327000318"
+ },
+ {
+  "name": "글로벌테크놀로지",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-28",
+  "forecast": [
+   "2026-09-07",
+   "2026-09-11"
+  ],
+  "subscription": [
+   "2026-09-16",
+   "2026-09-17"
+  ],
+  "payment_date": "2026-09-21",
+  "offer_price": 10000,
+  "offer_amount_mil": 40000,
+  "listing_date": "2026-09-29",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20251111000317"
+ },
+ {
+  "name": "디엔솔루션즈",
+  "market": "KOSPI",
+  "filing_date": "2025-03-14",
+  "forecast": [
+   "2025-04-22",
+   "2025-04-28"
+  ],
+  "subscription": [
+   "2025-05-07",
+   "2025-05-08"
+  ],
+  "payment_date": "2025-05-12",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2025-05-16",
+  "underwriter": "미래에셋증권 주식회사,삼성증권(주),유비에스증권 리미티드 서울지점,한국투자증권(주),메릴린치인터내셔날엘엘씨증권 서울지점",
+  "kind_id": "20240725000165"
+ },
+ {
+  "name": "롯데글로벌로지스",
+  "market": "KOSPI",
+  "filing_date": "2025-03-24",
+  "forecast": [
+   "2025-04-24",
+   "2025-04-30"
+  ],
+  "subscription": [
+   "2025-05-12",
+   "2025-05-13"
+  ],
+  "payment_date": "2025-05-15",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2025-05-21",
+  "underwriter": "한국투자증권(주),삼성증권(주),KB증권(주)",
+  "kind_id": "20240530000057"
+ },
+ {
+  "name": "알지노믹스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-30",
+  "forecast": [
+   "2025-11-27",
+   "2025-12-03"
+  ],
+  "subscription": [
+   "2025-12-09",
+   "2025-12-10"
+  ],
+  "payment_date": "2025-12-12",
+  "offer_price": 22500,
+  "offer_amount_mil": 46350,
+  "listing_date": "2025-12-18",
+  "underwriter": "엔에이치투자증권(주),삼성증권(주)",
+  "kind_id": "20250131000208"
+ },
+ {
+  "name": "IBKS제25호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-13",
+  "forecast": [
+   "2025-12-04",
+   "2025-12-05"
+  ],
+  "subscription": [
+   "2025-12-09",
+   "2025-12-10"
+  ],
+  "payment_date": "2025-12-12",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-12-19",
+  "underwriter": "IBK투자증권(주)",
+  "kind_id": "20250826000527"
+ },
+ {
+  "name": "엘케이켐",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-07",
+  "forecast": [
+   "2025-02-04",
+   "2025-02-10"
+  ],
+  "subscription": [
+   "2025-02-13",
+   "2025-02-14"
+  ],
+  "payment_date": "2025-02-18",
+  "offer_price": 21000,
+  "offer_amount_mil": 21000,
+  "listing_date": "2025-02-25",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20240729000220"
+ },
+ {
+  "name": "티엑스알로보틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-17",
+  "forecast": [
+   "2025-02-26",
+   "2025-03-05"
+  ],
+  "subscription": [
+   "2025-03-10",
+   "2025-03-11"
+  ],
+  "payment_date": "2025-03-13",
+  "offer_price": 13500,
+  "offer_amount_mil": 41518,
+  "listing_date": "2025-03-20",
+  "underwriter": "엔에이치투자증권(주),신한투자증권 주식회사",
+  "kind_id": "20240531000079"
+ },
+ {
+  "name": "더즌",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-20",
+  "forecast": [
+   "2025-02-28",
+   "2025-03-07"
+  ],
+  "subscription": [
+   "2025-03-12",
+   "2025-03-13"
+  ],
+  "payment_date": "2025-03-17",
+  "offer_price": 9000,
+  "offer_amount_mil": 22500,
+  "listing_date": "2025-03-24",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20240328000312"
+ },
+ {
+  "name": "아이에스티이",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-02",
+  "forecast": [
+   "2025-01-21",
+   "2025-01-24"
+  ],
+  "subscription": [
+   "2025-02-03",
+   "2025-02-04"
+  ],
+  "payment_date": "2025-02-06",
+  "offer_price": 11400,
+  "offer_amount_mil": 14820,
+  "listing_date": "2025-02-12",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20240108000170"
+ },
+ {
+  "name": "엠디바이스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-21",
+  "forecast": [
+   "2025-02-12",
+   "2025-02-18"
+  ],
+  "subscription": [
+   "2025-02-24",
+   "2025-02-25"
+  ],
+  "payment_date": "2025-02-27",
+  "offer_price": 8350,
+  "offer_amount_mil": 10521,
+  "listing_date": "2025-03-07",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20240325000231"
+ },
+ {
+  "name": "서울보증보험",
+  "market": "KOSPI",
+  "filing_date": "2025-01-24",
+  "forecast": [
+   "2025-02-20",
+   "2025-02-26"
+  ],
+  "subscription": [
+   "2025-03-05",
+   "2025-03-06"
+  ],
+  "payment_date": "2025-03-10",
+  "offer_price": 26000,
+  "offer_amount_mil": 181536,
+  "listing_date": "2025-03-14",
+  "underwriter": "삼성증권(주),미래에셋증권 주식회사",
+  "kind_id": "20240521000203"
+ },
+ {
+  "name": "한텍",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-13",
+  "forecast": [
+   "2025-02-24",
+   "2025-02-28"
+  ],
+  "subscription": [
+   "2025-03-06",
+   "2025-03-07"
+  ],
+  "payment_date": "2025-03-11",
+  "offer_price": 10800,
+  "offer_amount_mil": 35737,
+  "listing_date": "2025-03-20",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20240828000359"
+ },
+ {
+  "name": "로킷헬스케어",
+  "market": "KOSDAQ",
+  "filing_date": "2025-02-07",
+  "forecast": [
+   "2025-04-14",
+   "2025-04-18"
+  ],
+  "subscription": [
+   "2025-04-23",
+   "2025-04-24"
+  ],
+  "payment_date": "2025-04-28",
+  "offer_price": 11000,
+  "offer_amount_mil": 17160,
+  "listing_date": "2025-05-12",
+  "underwriter": "SK증권(주)",
+  "kind_id": "20240702000197"
+ },
+ {
+  "name": "쎄크",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-21",
+  "forecast": [
+   "2025-04-08",
+   "2025-04-14"
+  ],
+  "subscription": [
+   "2025-04-17",
+   "2025-04-18"
+  ],
+  "payment_date": "2025-04-22",
+  "offer_price": 15000,
+  "offer_amount_mil": 18000,
+  "listing_date": "2025-04-28",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20231214000275"
+ },
+ {
+  "name": "원일티엔아이",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-20",
+  "forecast": [
+   "2025-04-16",
+   "2025-04-22"
+  ],
+  "subscription": [
+   "2025-04-24",
+   "2025-04-25"
+  ],
+  "payment_date": "2025-04-29",
+  "offer_price": 13500,
+  "offer_amount_mil": 16200,
+  "listing_date": "2025-05-09",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20221130000114"
+ },
+ {
+  "name": "나우로보틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-02-20",
+  "forecast": [
+   "2025-03-11",
+   "2025-02-17"
+  ],
+  "subscription": [
+   "2025-03-21",
+   "2025-03-24"
+  ],
+  "payment_date": "2025-03-26",
+  "offer_price": 6800,
+  "offer_amount_mil": 17000,
+  "listing_date": "2025-05-08",
+  "underwriter": "대신증권(주),iM증권",
+  "kind_id": "20240131000015"
+ },
+ {
+  "name": "오가노이드사이언스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-17",
+  "forecast": [
+   "2025-04-16",
+   "2025-04-22"
+  ],
+  "subscription": [
+   "2025-04-25",
+   "2025-04-28"
+  ],
+  "payment_date": "2025-04-30",
+  "offer_price": 21000,
+  "offer_amount_mil": 25200,
+  "listing_date": "2025-05-09",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20240129000088"
+ },
+ {
+  "name": "달바글로벌",
+  "market": "KOSPI",
+  "filing_date": "2025-04-10",
+  "forecast": [
+   "2025-04-28",
+   "2025-05-07"
+  ],
+  "subscription": [
+   "2025-05-09",
+   "2025-05-12"
+  ],
+  "payment_date": "2025-05-14",
+  "offer_price": 66300,
+  "offer_amount_mil": 43360,
+  "listing_date": "2025-05-22",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20240531000085"
+ },
+ {
+  "name": "지에프씨생명과학",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-02",
+  "forecast": [
+   "2025-06-10",
+   "2025-06-16"
+  ],
+  "subscription": [
+   "2025-06-19",
+   "2025-06-20"
+  ],
+  "payment_date": "2025-06-24",
+  "offer_price": 15300,
+  "offer_amount_mil": 11995,
+  "listing_date": "2025-06-30",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20240731000133"
+ },
+ {
+  "name": "키스트론",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-28",
+  "forecast": [
+   "2025-05-12",
+   "2025-05-16"
+  ],
+  "subscription": [
+   "2025-05-22",
+   "2025-05-23"
+  ],
+  "payment_date": "2025-05-27",
+  "offer_price": 3600,
+  "offer_amount_mil": 22680,
+  "listing_date": "2025-06-02",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20240115000087"
+ },
+ {
+  "name": "링크솔루션",
+  "market": "KOSDAQ",
+  "filing_date": "2025-04-07",
+  "forecast": [
+   "2025-05-16",
+   "2025-05-22"
+  ],
+  "subscription": [
+   "2025-05-27",
+   "2025-05-28"
+  ],
+  "payment_date": "2025-05-30",
+  "offer_price": 23000,
+  "offer_amount_mil": 20700,
+  "listing_date": "2025-06-10",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20240709000303"
+ },
+ {
+  "name": "싸이닉솔루션",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-02",
+  "forecast": [
+   "2025-06-16",
+   "2025-06-20"
+  ],
+  "subscription": [
+   "2025-06-25",
+   "2025-06-26"
+  ],
+  "payment_date": "2025-06-30",
+  "offer_price": 4700,
+  "offer_amount_mil": 16450,
+  "listing_date": "2025-07-07",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20250106000326"
+ },
+ {
+  "name": "도우인시스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-04-30",
+  "forecast": [
+   "2025-07-03",
+   "2025-07-09"
+  ],
+  "subscription": [
+   "2025-07-14",
+   "2025-07-15"
+  ],
+  "payment_date": "2025-07-17",
+  "offer_price": 32000,
+  "offer_amount_mil": 44800,
+  "listing_date": "2025-07-23",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20240523000181"
+ },
+ {
+  "name": "아이티켐",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-12",
+  "forecast": [
+   "2025-07-17",
+   "2025-07-23"
+  ],
+  "subscription": [
+   "2025-07-28",
+   "2025-07-29"
+  ],
+  "payment_date": "2025-07-31",
+  "offer_price": 16100,
+  "offer_amount_mil": 32200,
+  "listing_date": "2025-08-07",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20240521000223"
+ },
+ {
+  "name": "한라캐스트",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-30",
+  "forecast": [
+   "2025-07-30",
+   "2025-08-05"
+  ],
+  "subscription": [
+   "2025-08-11",
+   "2025-08-12"
+  ],
+  "payment_date": "2025-08-14",
+  "offer_price": 5800,
+  "offer_amount_mil": 43500,
+  "listing_date": "2025-08-20",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20240530000160"
+ },
+ {
+  "name": "삼성스팩10호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-30",
+  "forecast": [
+   "2025-08-04",
+   "2025-08-05"
+  ],
+  "subscription": [
+   "2025-08-11",
+   "2025-08-12"
+  ],
+  "payment_date": "2025-08-14",
+  "offer_price": 2000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2025-08-21",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20250417000500"
+ },
+ {
+  "name": "지투지바이오",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-17",
+  "forecast": [
+   "2025-07-25",
+   "2025-07-31"
+  ],
+  "subscription": [
+   "2025-08-05",
+   "2025-08-06"
+  ],
+  "payment_date": "2025-08-08",
+  "offer_price": 58000,
+  "offer_amount_mil": 52200,
+  "listing_date": "2025-08-14",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20230404000201"
+ },
+ {
+  "name": "노타",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-22",
+  "forecast": [
+   "2025-10-14",
+   "2025-10-20"
+  ],
+  "subscription": [
+   "2025-10-23",
+   "2025-10-24"
+  ],
+  "payment_date": "2025-10-28",
+  "offer_price": 9100,
+  "offer_amount_mil": 26536,
+  "listing_date": "2025-11-03",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250131000143"
+ },
+ {
+  "name": "비엔케이제3호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-15",
+  "forecast": [
+   "2025-11-05",
+   "2025-11-06"
+  ],
+  "subscription": [
+   "2025-11-11",
+   "2025-11-12"
+  ],
+  "payment_date": "2025-11-14",
+  "offer_price": 2000,
+  "offer_amount_mil": 8000,
+  "listing_date": "2025-11-21",
+  "underwriter": "(주)비엔케이투자증권",
+  "kind_id": "20250611000280"
+ },
+ {
+  "name": "프로티나",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-19",
+  "forecast": [
+   "2025-07-08",
+   "2025-07-14"
+  ],
+  "subscription": [
+   "2025-07-18",
+   "2025-07-21"
+  ],
+  "payment_date": "2025-07-23",
+  "offer_price": 14000,
+  "offer_amount_mil": 21000,
+  "listing_date": "2025-07-29",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20240729000082"
+ },
+ {
+  "name": "큐리오시스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-08-22",
+  "forecast": [
+   "2025-10-27",
+   "2025-10-31"
+  ],
+  "subscription": [
+   "2025-11-04",
+   "2025-11-05"
+  ],
+  "payment_date": "2025-11-07",
+  "offer_price": 22000,
+  "offer_amount_mil": 26400,
+  "listing_date": "2025-11-13",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20250116000217"
+ },
+ {
+  "name": "씨엠티엑스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-01",
+  "forecast": [
+   "2025-10-29",
+   "2025-11-04"
+  ],
+  "subscription": [
+   "2025-11-10",
+   "2025-11-11"
+  ],
+  "payment_date": "2025-11-13",
+  "offer_price": 60500,
+  "offer_amount_mil": 60500,
+  "listing_date": "2025-11-20",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250124000310"
+ },
+ {
+  "name": "아로마티카",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-30",
+  "forecast": [
+   "2025-11-07",
+   "2025-11-13"
+  ],
+  "subscription": [
+   "2025-11-18",
+   "2025-11-19"
+  ],
+  "payment_date": "2025-11-21",
+  "offer_price": 8000,
+  "offer_amount_mil": 24000,
+  "listing_date": "2025-11-27",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20250124000271"
+ },
+ {
+  "name": "삼진식품",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-03",
+  "forecast": [
+   "2025-12-03",
+   "2025-12-09"
+  ],
+  "subscription": [
+   "2025-12-11",
+   "2025-12-12"
+  ],
+  "payment_date": "2025-12-16",
+  "offer_price": 7600,
+  "offer_amount_mil": 15200,
+  "listing_date": "2025-12-22",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20250123000556"
+ },
+ {
+  "name": "미래에셋비전스팩10호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-14",
+  "forecast": [
+   "2025-12-08",
+   "2025-12-09"
+  ],
+  "subscription": [
+   "2025-12-12",
+   "2025-12-15"
+  ],
+  "payment_date": "2025-12-17",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2025-12-23",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20251103000105"
+ },
+ {
+  "name": "하나36호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-07",
+  "forecast": [
+   "2025-12-03",
+   "2025-12-04"
+  ],
+  "subscription": [
+   "2025-12-11",
+   "2025-12-12"
+  ],
+  "payment_date": "2025-12-16",
+  "offer_price": 2000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2025-12-22",
+  "underwriter": "하나증권주식회사",
+  "kind_id": "20250827000528"
+ },
+ {
+  "name": "카나프테라퓨틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-05",
+  "forecast": [
+   "2026-02-23",
+   "2026-02-27"
+  ],
+  "subscription": [
+   "2026-03-05",
+   "2026-03-06"
+  ],
+  "payment_date": "2026-03-10",
+  "offer_price": 20000,
+  "offer_amount_mil": 40000,
+  "listing_date": "2026-03-16",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20250721000280"
+ },
+ {
+  "name": "아이엠바이오로직스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-01-19",
+  "forecast": [
+   "2026-02-27",
+   "2026-03-06"
+  ],
+  "subscription": [
+   "2026-03-11",
+   "2026-03-12"
+  ],
+  "payment_date": "2026-03-16",
+  "offer_price": 26000,
+  "offer_amount_mil": 52000,
+  "listing_date": "2026-03-20",
+  "underwriter": "한국투자증권(주),신한투자증권 주식회사",
+  "kind_id": "20250324000286"
+ },
+ {
+  "name": "미래에셋비전스팩9호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-22",
+  "forecast": [
+   "2025-11-13",
+   "2025-11-14"
+  ],
+  "subscription": [
+   "2025-11-19",
+   "2025-11-20"
+  ],
+  "payment_date": "2025-11-24",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-12-01",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250818000177"
+ },
+ {
+  "name": "에임드바이오",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-29",
+  "forecast": [
+   "2025-11-12",
+   "2025-11-18"
+  ],
+  "subscription": [
+   "2025-11-21",
+   "2025-11-24"
+  ],
+  "payment_date": "2025-11-26",
+  "offer_price": 11000,
+  "offer_amount_mil": 70730,
+  "listing_date": "2025-12-04",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250124000291"
+ },
+ {
+  "name": "세미파이브",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-17",
+  "forecast": [
+   "2025-12-10",
+   "2025-12-16"
+  ],
+  "subscription": [
+   "2025-12-18",
+   "2025-12-19"
+  ],
+  "payment_date": "2025-12-22",
+  "offer_price": 24000,
+  "offer_amount_mil": 129600,
+  "listing_date": "2025-12-29",
+  "underwriter": "삼성증권(주),유비에스증권 리미티드 서울지점",
+  "kind_id": "20250321000279"
+ },
+ {
+  "name": "덕양에너젠",
+  "market": "KOSDAQ",
+  "filing_date": "2025-12-01",
+  "forecast": [
+   "2026-01-12",
+   "2026-01-16"
+  ],
+  "subscription": [
+   "2026-01-20",
+   "2026-01-21"
+  ],
+  "payment_date": "2026-01-23",
+  "offer_price": 10000,
+  "offer_amount_mil": 75000,
+  "listing_date": "2026-01-30",
+  "underwriter": "미래에셋증권 주식회사,엔에이치투자증권(주)",
+  "kind_id": "20250326000483"
+ },
+ {
+  "name": "한패스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-02-02",
+  "forecast": [
+   "2026-03-06",
+   "2026-03-12"
+  ],
+  "subscription": [
+   "2026-03-16",
+   "2026-03-17"
+  ],
+  "payment_date": "2026-03-19",
+  "offer_price": 19000,
+  "offer_amount_mil": 20900,
+  "listing_date": "2026-03-25",
+  "underwriter": "한국투자증권(주),대신증권(주)",
+  "kind_id": "20250527000093"
+ },
+ {
+  "name": "엔알비",
+  "market": "KOSDAQ",
+  "filing_date": "2025-05-28",
+  "forecast": [
+   "2025-07-08",
+   "2025-07-14"
+  ],
+  "subscription": [
+   "2025-07-17",
+   "2025-07-18"
+  ],
+  "payment_date": "2025-07-22",
+  "offer_price": 21000,
+  "offer_amount_mil": 44100,
+  "listing_date": "2025-07-28",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20241129000242"
+ },
+ {
+  "name": "에이치엘지노믹스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-16",
+  "forecast": [
+   "2026-07-02",
+   "2026-07-08"
+  ],
+  "subscription": [
+   "2026-07-13",
+   "2026-07-14"
+  ],
+  "payment_date": "2026-07-16",
+  "offer_price": 21500,
+  "offer_amount_mil": 55148,
+  "listing_date": "2026-07-24",
+  "underwriter": "KB증권(주),IBK투자증권(주)",
+  "kind_id": "20260120000416"
+ },
+ {
+  "name": "에스엔시스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-25",
+  "forecast": [
+   "2025-07-28",
+   "2025-08-01"
+  ],
+  "subscription": [
+   "2025-08-07",
+   "2025-08-08"
+  ],
+  "payment_date": "2025-08-12",
+  "offer_price": 30000,
+  "offer_amount_mil": 57000,
+  "listing_date": "2025-08-19",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20250120000139"
+ },
+ {
+  "name": "엔에이치스팩33호",
+  "market": "KOSDAQ",
+  "filing_date": "2026-02-11",
+  "forecast": [
+   "2026-03-11",
+   "2026-03-12"
+  ],
+  "subscription": [
+   "2026-03-17",
+   "2026-03-18"
+  ],
+  "payment_date": "2026-03-20",
+  "offer_price": 2000,
+  "offer_amount_mil": 12700,
+  "listing_date": "2026-03-27",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20251103000255"
+ },
+ {
+  "name": "멜콘",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-21",
+  "forecast": [
+   "2026-09-16",
+   "2026-09-22"
+  ],
+  "subscription": [
+   "2026-10-01",
+   "2026-10-02"
+  ],
+  "payment_date": "2026-10-07",
+  "offer_price": 12300,
+  "offer_amount_mil": 30750,
+  "listing_date": "2026-10-15",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000275"
+ },
+ {
+  "name": "피스피스스튜디오",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-07",
+  "forecast": [
+   "2026-05-14",
+   "2026-05-20"
+  ],
+  "subscription": [
+   "2026-05-26",
+   "2026-05-27"
+  ],
+  "payment_date": "2026-05-29",
+  "offer_price": 21500,
+  "offer_amount_mil": 48862,
+  "listing_date": "2026-06-08",
+  "underwriter": "엔에이치투자증권(주),미래에셋증권 주식회사",
+  "kind_id": "20250930000252"
+ },
+ {
+  "name": "스트라드비젼",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-11",
+  "forecast": [
+   "2026-06-09",
+   "2026-06-15"
+  ],
+  "subscription": [
+   "2026-06-18",
+   "2026-06-19"
+  ],
+  "payment_date": "2026-06-23",
+  "offer_price": 12000,
+  "offer_amount_mil": 84000,
+  "listing_date": "2026-06-30",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250730000176"
+ },
+ {
+  "name": "에이유브랜즈",
+  "market": "KOSDAQ",
+  "filing_date": "2025-02-07",
+  "forecast": [
+   "2025-03-13",
+   "2025-03-19"
+  ],
+  "subscription": [
+   "2025-03-25",
+   "2025-03-26"
+  ],
+  "payment_date": "2025-03-28",
+  "offer_price": 16000,
+  "offer_amount_mil": 32000,
+  "listing_date": "2025-04-03",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20240530000194"
+ },
+ {
+  "name": "기도산업",
+  "market": "KOSDAQ",
+  "filing_date": "2026-06-26",
+  "forecast": [
+   "2026-07-31",
+   "2026-08-06"
+  ],
+  "subscription": [
+   "2026-08-11",
+   "2026-08-12"
+  ],
+  "payment_date": "2026-08-14",
+  "offer_price": 28400,
+  "offer_amount_mil": 48280,
+  "listing_date": "2026-08-21",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260129000214"
+ },
+ {
+  "name": "지씨지놈",
+  "market": "KOSDAQ",
+  "filing_date": "2025-04-08",
+  "forecast": [
+   "2025-05-19",
+   "2025-05-23"
+  ],
+  "subscription": [
+   "2025-05-29",
+   "2025-05-30"
+  ],
+  "payment_date": "2025-06-04",
+  "offer_price": 10500,
+  "offer_amount_mil": 42000,
+  "listing_date": "2025-06-11",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20240329000226"
+ },
+ {
+  "name": "대신밸런스제20호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-04-08",
+  "forecast": [
+   "2026-05-18",
+   "2026-05-19"
+  ],
+  "subscription": [
+   "2026-05-22",
+   "2026-05-26"
+  ],
+  "payment_date": "2026-05-28",
+  "offer_price": 2000,
+  "offer_amount_mil": 13000,
+  "listing_date": "2026-06-05",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260106000356"
+ },
+ {
+  "name": "엘에스스팩1호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-06-11",
+  "forecast": [
+   "2025-07-03",
+   "2025-07-04"
+  ],
+  "subscription": [
+   "2025-07-08",
+   "2025-07-09"
+  ],
+  "payment_date": "2025-07-11",
+  "offer_price": 2000,
+  "offer_amount_mil": 8000,
+  "listing_date": "2025-07-22",
+  "underwriter": "엘에스증권 주식회사",
+  "kind_id": "20250404000027"
+ },
+ {
+  "name": "아우토크립트",
+  "market": "KOSDAQ",
+  "filing_date": "2025-04-18",
+  "forecast": [
+   "2025-06-24",
+   "2025-06-30"
+  ],
+  "subscription": [
+   "2025-07-03",
+   "2025-07-04"
+  ],
+  "payment_date": "2025-07-08",
+  "offer_price": 22000,
+  "offer_amount_mil": 30800,
+  "listing_date": "2025-07-15",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20240530000098"
+ },
+ {
+  "name": "엔에이치스팩34호",
+  "market": "KOSDAQ",
+  "filing_date": "2026-07-29",
+  "forecast": [
+   "2026-08-24",
+   "2026-08-25"
+  ],
+  "subscription": [
+   "2026-09-01",
+   "2026-09-02"
+  ],
+  "payment_date": "2026-09-04",
+  "offer_price": 2000,
+  "offer_amount_mil": 17000,
+  "listing_date": "2026-09-10",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20260513000472"
+ },
+ {
+  "name": "명인제약",
+  "market": "KOSPI",
+  "filing_date": "2025-08-21",
+  "forecast": [
+   "2025-09-09",
+   "2025-09-15"
+  ],
+  "subscription": [
+   "2025-09-18",
+   "2025-09-19"
+  ],
+  "payment_date": "2025-09-23",
+  "offer_price": 58000,
+  "offer_amount_mil": 197200,
+  "listing_date": "2025-10-01",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20250116000450"
+ },
+ {
+  "name": "교보20호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-02-12",
+  "forecast": [
+   "2026-03-16",
+   "2026-03-17"
+  ],
+  "subscription": [
+   "2026-03-23",
+   "2026-03-24"
+  ],
+  "payment_date": "2026-03-26",
+  "offer_price": 2000,
+  "offer_amount_mil": 10800,
+  "listing_date": "2026-04-02",
+  "underwriter": "교보증권(주)",
+  "kind_id": "20251108000001"
+ },
+ {
+  "name": "티엠씨",
+  "market": "KOSPI",
+  "filing_date": "2025-10-15",
+  "forecast": [
+   "2025-11-21",
+   "2025-11-27"
+  ],
+  "subscription": [
+   "2025-12-03",
+   "2025-12-04"
+  ],
+  "payment_date": "2025-12-08",
+  "offer_price": 9300,
+  "offer_amount_mil": 56730,
+  "listing_date": "2025-12-15",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250327000162"
+ },
+ {
+  "name": "케이뱅크",
+  "market": "KOSPI",
+  "filing_date": "2026-01-13",
+  "forecast": [
+   "2026-02-04",
+   "2026-02-10"
+  ],
+  "subscription": [
+   "2026-02-20",
+   "2026-02-23"
+  ],
+  "payment_date": "2026-02-25",
+  "offer_price": 8300,
+  "offer_amount_mil": 498000,
+  "listing_date": "2026-03-05",
+  "underwriter": "엔에이치투자증권(주),삼성증권(주)",
+  "kind_id": "20250728000549"
+ },
+ {
+  "name": "비츠로넥스텍",
+  "market": "KOSDAQ",
+  "filing_date": "2025-09-22",
+  "forecast": [
+   "2025-10-31",
+   "2025-11-06"
+  ],
+  "subscription": [
+   "2025-11-11",
+   "2025-11-12"
+  ],
+  "payment_date": "2025-11-14",
+  "offer_price": 6900,
+  "offer_amount_mil": 30360,
+  "listing_date": "2025-11-21",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20250131000159"
+ },
+ {
+  "name": "액스비스",
+  "market": "KOSDAQ",
+  "filing_date": "2025-12-23",
+  "forecast": [
+   "2026-02-06",
+   "2026-02-12"
+  ],
+  "subscription": [
+   "2026-02-23",
+   "2026-02-24"
+  ],
+  "payment_date": "2026-02-26",
+  "offer_price": 11500,
+  "offer_amount_mil": 26450,
+  "listing_date": "2026-03-09",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20250804000142"
+ },
+ {
+  "name": "키움히어로제2호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-03-10",
+  "forecast": [
+   "2026-04-09",
+   "2026-04-10"
+  ],
+  "subscription": [
+   "2026-04-14",
+   "2026-04-15"
+  ],
+  "payment_date": "2026-04-17",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2026-04-23",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20251204000247"
+ },
+ {
+  "name": "심플랫폼",
+  "market": "KOSDAQ",
+  "filing_date": "2025-01-17",
+  "forecast": [
+   "2025-02-27",
+   "2025-03-06"
+  ],
+  "subscription": [
+   "2025-03-11",
+   "2025-03-12"
+  ],
+  "payment_date": "2025-03-14",
+  "offer_price": 15000,
+  "offer_amount_mil": 13800,
+  "listing_date": "2025-03-21",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20221121000092"
+ },
+ {
+  "name": "신한제16호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-03-19",
+  "forecast": [
+   "2025-05-12",
+   "2025-05-13"
+  ],
+  "subscription": [
+   "2025-05-19",
+   "2025-05-20"
+  ],
+  "payment_date": "2025-05-22",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2025-05-29",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20241025000272"
+ },
+ {
+  "name": "키움히어로제1호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-04",
+  "forecast": [
+   "2025-11-26",
+   "2025-11-27"
+  ],
+  "subscription": [
+   "2025-12-01",
+   "2025-12-02"
+  ],
+  "payment_date": "2025-12-04",
+  "offer_price": 2000,
+  "offer_amount_mil": 9000,
+  "listing_date": "2025-12-12",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20250609000225"
+ },
+ {
+  "name": "쿼드메디슨",
+  "market": "KOSDAQ",
+  "filing_date": "2025-10-02",
+  "forecast": [
+   "2025-11-24",
+   "2025-11-28"
+  ],
+  "subscription": [
+   "2025-12-02",
+   "2025-12-03"
+  ],
+  "payment_date": "2025-12-05",
+  "offer_price": 15000,
+  "offer_amount_mil": 25500,
+  "listing_date": "2025-12-12",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20250527000141"
+ },
+ {
+  "name": "삼성스팩13호",
+  "market": "KOSDAQ",
+  "filing_date": "2025-11-18",
+  "forecast": [
+   "2026-01-06",
+   "2026-01-07"
+  ],
+  "subscription": [
+   "2026-01-12",
+   "2026-01-13"
+  ],
+  "payment_date": "2026-01-15",
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "listing_date": "2026-01-21",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20251029000781"
+ }
+]

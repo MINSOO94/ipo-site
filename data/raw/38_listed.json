@@ -1,0 +1,5922 @@
+[
+ {
+  "name": "멜콘(구.에스앤에프솔루션)",
+  "no": "2315",
+  "listing_date": "2026-10-15",
+  "offer_price": 12300,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "진코스텍",
+  "no": "2320",
+  "listing_date": "2026-10-15",
+  "offer_price": 23500,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "브릴스",
+  "no": "2307",
+  "listing_date": "2026-10-01",
+  "offer_price": 19500,
+  "open_price": 61800,
+  "first_close": 31350
+ },
+ {
+  "name": "덕산넵코어스(구.넵코어스)",
+  "no": "2309",
+  "listing_date": "2026-09-30",
+  "offer_price": 14600,
+  "open_price": 27100,
+  "first_close": 16830
+ },
+ {
+  "name": "빅웨이브로보틱스",
+  "no": "2294",
+  "listing_date": "2026-09-29",
+  "offer_price": 18000,
+  "open_price": 56000,
+  "first_close": 27050
+ },
+ {
+  "name": "글로벌테크놀로지",
+  "no": "2310",
+  "listing_date": "2026-09-29",
+  "offer_price": 10000,
+  "open_price": 21150,
+  "first_close": 14500
+ },
+ {
+  "name": "와이즈플래닛컴퍼니",
+  "no": "2311",
+  "listing_date": "2026-09-23",
+  "offer_price": 12000,
+  "open_price": 42750,
+  "first_close": 45700
+ },
+ {
+  "name": "KB스팩34호",
+  "no": "2313",
+  "listing_date": "2026-09-22",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 1905
+ },
+ {
+  "name": "한국스팩17호",
+  "no": "2314",
+  "listing_date": "2026-09-22",
+  "offer_price": 2000,
+  "open_price": 3415,
+  "first_close": 1937
+ },
+ {
+  "name": "네오사피엔스",
+  "no": "2308",
+  "listing_date": "2026-09-21",
+  "offer_price": 10000,
+  "open_price": 25250,
+  "first_close": 36900
+ },
+ {
+  "name": "NH스팩34호",
+  "no": "2312",
+  "listing_date": "2026-09-10",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 2075
+ },
+ {
+  "name": "스카이랩스",
+  "no": "2306",
+  "listing_date": "2026-09-04",
+  "offer_price": 10000,
+  "open_price": 8500,
+  "first_close": 23500
+ },
+ {
+  "name": "해치텍",
+  "no": "2304",
+  "listing_date": "2026-08-25",
+  "offer_price": 23000,
+  "open_price": 20500,
+  "first_close": 13930
+ },
+ {
+  "name": "니어스랩",
+  "no": "2303",
+  "listing_date": "2026-08-24",
+  "offer_price": 41200,
+  "open_price": 40500,
+  "first_close": 28650
+ },
+ {
+  "name": "기도산업",
+  "no": "2305",
+  "listing_date": "2026-08-21",
+  "offer_price": 28400,
+  "open_price": 28000,
+  "first_close": 18580
+ },
+ {
+  "name": "인제니아테라퓨틱스",
+  "no": "2298",
+  "listing_date": "2026-08-18",
+  "offer_price": 12000,
+  "open_price": 10960,
+  "first_close": 17990
+ },
+ {
+  "name": "케이앤에스아이앤씨",
+  "no": "2299",
+  "listing_date": "2026-08-13",
+  "offer_price": 11000,
+  "open_price": 21000,
+  "first_close": 15380
+ },
+ {
+  "name": "딜리셔스",
+  "no": "2302",
+  "listing_date": "2026-08-12",
+  "offer_price": 7000,
+  "open_price": 6000,
+  "first_close": 5140
+ },
+ {
+  "name": "에이치엘지노믹스",
+  "no": "2301",
+  "listing_date": "2026-07-24",
+  "offer_price": 21500,
+  "open_price": 21500,
+  "first_close": 14790
+ },
+ {
+  "name": "레메디",
+  "no": "2296",
+  "listing_date": "2026-07-13",
+  "offer_price": 20700,
+  "open_price": 30750,
+  "first_close": 22000
+ },
+ {
+  "name": "레몬헬스케어",
+  "no": "2293",
+  "listing_date": "2026-07-06",
+  "offer_price": 10000,
+  "open_price": 16560,
+  "first_close": 9850
+ },
+ {
+  "name": "매드업",
+  "no": "2290",
+  "listing_date": "2026-07-01",
+  "offer_price": 8000,
+  "open_price": 22250,
+  "first_close": 10080
+ },
+ {
+  "name": "한국스팩16호",
+  "no": "2297",
+  "listing_date": "2026-06-30",
+  "offer_price": 2000,
+  "open_price": 4090,
+  "first_close": 1941
+ },
+ {
+  "name": "스트라드비젼",
+  "no": "2289",
+  "listing_date": "2026-06-30",
+  "offer_price": 12000,
+  "open_price": 11020,
+  "first_close": 7200
+ },
+ {
+  "name": "져스텍",
+  "no": "2291",
+  "listing_date": "2026-06-29",
+  "offer_price": 12500,
+  "open_price": 35350,
+  "first_close": 17530
+ },
+ {
+  "name": "메리츠스팩2호",
+  "no": "2295",
+  "listing_date": "2026-06-19",
+  "offer_price": 2000,
+  "open_price": 3905,
+  "first_close": 1970
+ },
+ {
+  "name": "피스피스스튜디오",
+  "no": "2287",
+  "listing_date": "2026-06-08",
+  "offer_price": 21500,
+  "open_price": 32000,
+  "first_close": 13730
+ },
+ {
+  "name": "대신밸런스스팩20호",
+  "no": "2288",
+  "listing_date": "2026-06-05",
+  "offer_price": 2000,
+  "open_price": 6200,
+  "first_close": 1984
+ },
+ {
+  "name": "마키나락스",
+  "no": "2285",
+  "listing_date": "2026-05-20",
+  "offer_price": 15000,
+  "open_price": 60000,
+  "first_close": 60000
+ },
+ {
+  "name": "폴레드",
+  "no": "2286",
+  "listing_date": "2026-05-14",
+  "offer_price": 5000,
+  "open_price": 20000,
+  "first_close": 20000
+ },
+ {
+  "name": "코스모로보틱스(구.엑소아틀레트아시아)",
+  "no": "2278",
+  "listing_date": "2026-05-11",
+  "offer_price": 6000,
+  "open_price": 23500,
+  "first_close": 24000
+ },
+ {
+  "name": "신한스팩18호",
+  "no": "2284",
+  "listing_date": "2026-04-30",
+  "offer_price": 2000,
+  "open_price": 6070,
+  "first_close": 2355
+ },
+ {
+  "name": "채비(구.대영채비)",
+  "no": "2281",
+  "listing_date": "2026-04-29",
+  "offer_price": 12300,
+  "open_price": 15250,
+  "first_close": 22550
+ },
+ {
+  "name": "키움히어로스팩2호",
+  "no": "2282",
+  "listing_date": "2026-04-23",
+  "offer_price": 2000,
+  "open_price": 4790,
+  "first_close": 2735
+ },
+ {
+  "name": "인벤테라",
+  "no": "2275",
+  "listing_date": "2026-04-02",
+  "offer_price": 16600,
+  "open_price": 39150,
+  "first_close": 35250
+ },
+ {
+  "name": "교보스팩20호",
+  "no": "2279",
+  "listing_date": "2026-04-02",
+  "offer_price": 2000,
+  "open_price": 4900,
+  "first_close": 2020
+ },
+ {
+  "name": "신한스팩17호",
+  "no": "2280",
+  "listing_date": "2026-04-01",
+  "offer_price": 2000,
+  "open_price": 5760,
+  "first_close": 2045
+ },
+ {
+  "name": "리센스메디컬",
+  "no": "2270",
+  "listing_date": "2026-03-31",
+  "offer_price": 11000,
+  "open_price": 37600,
+  "first_close": 18450
+ },
+ {
+  "name": "NH스팩33호",
+  "no": "2277",
+  "listing_date": "2026-03-27",
+  "offer_price": 2000,
+  "open_price": 3460,
+  "first_close": 2660
+ },
+ {
+  "name": "메쥬",
+  "no": "2274",
+  "listing_date": "2026-03-26",
+  "offer_price": 21600,
+  "open_price": 66000,
+  "first_close": 39000
+ },
+ {
+  "name": "한패스",
+  "no": "2276",
+  "listing_date": "2026-03-25",
+  "offer_price": 19000,
+  "open_price": 37100,
+  "first_close": 27200
+ },
+ {
+  "name": "아이엠바이오로직스",
+  "no": "2272",
+  "listing_date": "2026-03-20",
+  "offer_price": 26000,
+  "open_price": 104000,
+  "first_close": 104000
+ },
+ {
+  "name": "카나프테라퓨틱스",
+  "no": "2269",
+  "listing_date": "2026-03-16",
+  "offer_price": 20000,
+  "open_price": 68100,
+  "first_close": 50600
+ },
+ {
+  "name": "액스비스",
+  "no": "2268",
+  "listing_date": "2026-03-09",
+  "offer_price": 11500,
+  "open_price": 46000,
+  "first_close": 46000
+ },
+ {
+  "name": "에스팀",
+  "no": "2273",
+  "listing_date": "2026-03-06",
+  "offer_price": 8500,
+  "open_price": 30650,
+  "first_close": 34000
+ },
+ {
+  "name": "케이뱅크 (유가)",
+  "no": "2271",
+  "listing_date": "2026-03-05",
+  "offer_price": 8300,
+  "open_price": 9000,
+  "first_close": 8330
+ },
+ {
+  "name": "덕양에너젠",
+  "no": "2267",
+  "listing_date": "2026-01-30",
+  "offer_price": 10000,
+  "open_price": 21050,
+  "first_close": 34850
+ },
+ {
+  "name": "삼성스팩13호",
+  "no": "2266",
+  "listing_date": "2026-01-21",
+  "offer_price": 2000,
+  "open_price": 4890,
+  "first_close": 7200
+ },
+ {
+  "name": "세미파이브",
+  "no": "2255",
+  "listing_date": "2025-12-29",
+  "offer_price": 24000,
+  "open_price": 47170,
+  "first_close": 27650
+ },
+ {
+  "name": "리브스메드",
+  "no": "2248",
+  "listing_date": "2025-12-24",
+  "offer_price": 55000,
+  "open_price": 66000,
+  "first_close": 49600
+ },
+ {
+  "name": "미래에셋비전스팩10호",
+  "no": "2265",
+  "listing_date": "2025-12-23",
+  "offer_price": 2000,
+  "open_price": 5050,
+  "first_close": 1991
+ },
+ {
+  "name": "하나스팩36호",
+  "no": "2262",
+  "listing_date": "2025-12-22",
+  "offer_price": 2000,
+  "open_price": 3000,
+  "first_close": 1977
+ },
+ {
+  "name": "삼진식품",
+  "no": "2252",
+  "listing_date": "2025-12-22",
+  "offer_price": 7600,
+  "open_price": 22900,
+  "first_close": 19210
+ },
+ {
+  "name": "미래에셋비전스팩11호",
+  "no": "2263",
+  "listing_date": "2025-12-22",
+  "offer_price": 2000,
+  "open_price": 3900,
+  "first_close": 2210
+ },
+ {
+  "name": "IBKS스팩25호",
+  "no": "2264",
+  "listing_date": "2025-12-19",
+  "offer_price": 2000,
+  "open_price": 4838,
+  "first_close": 2715
+ },
+ {
+  "name": "알지노믹스",
+  "no": "2258",
+  "listing_date": "2025-12-18",
+  "offer_price": 22500,
+  "open_price": 90000,
+  "first_close": 90000
+ },
+ {
+  "name": "나라스페이스테크놀로지",
+  "no": "2231",
+  "listing_date": "2025-12-17",
+  "offer_price": 16500,
+  "open_price": 34000,
+  "first_close": 27150
+ },
+ {
+  "name": "아크릴",
+  "no": "2247",
+  "listing_date": "2025-12-16",
+  "offer_price": 19500,
+  "open_price": 45900,
+  "first_close": 67000
+ },
+ {
+  "name": "메리츠스팩1호",
+  "no": "2257",
+  "listing_date": "2025-12-15",
+  "offer_price": 2000,
+  "open_price": 3000,
+  "first_close": 2045
+ },
+ {
+  "name": "티엠씨 (유가)",
+  "no": "2242",
+  "listing_date": "2025-12-15",
+  "offer_price": 9300,
+  "open_price": 22550,
+  "first_close": 16770
+ },
+ {
+  "name": "쿼드메디슨",
+  "no": "2237",
+  "listing_date": "2025-12-12",
+  "offer_price": 15000,
+  "open_price": 23950,
+  "first_close": 17630
+ },
+ {
+  "name": "교보스팩19호",
+  "no": "2259",
+  "listing_date": "2025-12-12",
+  "offer_price": 2000,
+  "open_price": 4525,
+  "first_close": 2030
+ },
+ {
+  "name": "키움히어로스팩1호",
+  "no": "2260",
+  "listing_date": "2025-12-12",
+  "offer_price": 2000,
+  "open_price": 3010,
+  "first_close": 1986
+ },
+ {
+  "name": "이지스",
+  "no": "2238",
+  "listing_date": "2025-12-11",
+  "offer_price": 15000,
+  "open_price": 32000,
+  "first_close": 20500
+ },
+ {
+  "name": "유진스팩12호",
+  "no": "2261",
+  "listing_date": "2025-12-11",
+  "offer_price": 2000,
+  "open_price": 3015,
+  "first_close": 1985
+ },
+ {
+  "name": "페스카로",
+  "no": "2240",
+  "listing_date": "2025-12-10",
+  "offer_price": 15500,
+  "open_price": 45000,
+  "first_close": 27100
+ },
+ {
+  "name": "테라뷰홀딩스",
+  "no": "2239",
+  "listing_date": "2025-12-09",
+  "offer_price": 8000,
+  "open_price": 12000,
+  "first_close": 16000
+ },
+ {
+  "name": "NH스팩32호",
+  "no": "2256",
+  "listing_date": "2025-12-05",
+  "offer_price": 2000,
+  "open_price": 4915,
+  "first_close": 3840
+ },
+ {
+  "name": "에임드바이오",
+  "no": "2232",
+  "listing_date": "2025-12-04",
+  "offer_price": 11000,
+  "open_price": 44000,
+  "first_close": 44000
+ },
+ {
+  "name": "미래에셋비전스팩9호",
+  "no": "2254",
+  "listing_date": "2025-12-01",
+  "offer_price": 2000,
+  "open_price": 4500,
+  "first_close": 3335
+ },
+ {
+  "name": "삼성스팩12호",
+  "no": "2253",
+  "listing_date": "2025-11-28",
+  "offer_price": 2000,
+  "open_price": 4330,
+  "first_close": 3030
+ },
+ {
+  "name": "아로마티카",
+  "no": "2233",
+  "listing_date": "2025-11-27",
+  "offer_price": 8000,
+  "open_price": 27500,
+  "first_close": 19920
+ },
+ {
+  "name": "미래에셋비전스팩8호",
+  "no": "2251",
+  "listing_date": "2025-11-27",
+  "offer_price": 2000,
+  "open_price": 3365,
+  "first_close": 1982
+ },
+ {
+  "name": "신영스팩11호",
+  "no": "2249",
+  "listing_date": "2025-11-24",
+  "offer_price": 2000,
+  "open_price": 3300,
+  "first_close": 2005
+ },
+ {
+  "name": "비츠로넥스텍",
+  "no": "2229",
+  "listing_date": "2025-11-21",
+  "offer_price": 6900,
+  "open_price": 12500,
+  "first_close": 12810
+ },
+ {
+  "name": "비엔케이스팩3호",
+  "no": "2241",
+  "listing_date": "2025-11-21",
+  "offer_price": 2000,
+  "open_price": 2980,
+  "first_close": 2100
+ },
+ {
+  "name": "씨엠티엑스",
+  "no": "2236",
+  "listing_date": "2025-11-20",
+  "offer_price": 60500,
+  "open_price": 152000,
+  "first_close": 131600
+ },
+ {
+  "name": "더핑크퐁컴퍼니(구.스마트스터디)",
+  "no": "2230",
+  "listing_date": "2025-11-18",
+  "offer_price": 38000,
+  "open_price": 58000,
+  "first_close": 41550
+ },
+ {
+  "name": "그린광학",
+  "no": "2228",
+  "listing_date": "2025-11-17",
+  "offer_price": 16000,
+  "open_price": 54000,
+  "first_close": 22850
+ },
+ {
+  "name": "세나테크놀로지",
+  "no": "2226",
+  "listing_date": "2025-11-14",
+  "offer_price": 56800,
+  "open_price": 122600,
+  "first_close": 80200
+ },
+ {
+  "name": "큐리오시스",
+  "no": "2235",
+  "listing_date": "2025-11-13",
+  "offer_price": 22000,
+  "open_price": 88000,
+  "first_close": 88000
+ },
+ {
+  "name": "이노테크",
+  "no": "2225",
+  "listing_date": "2025-11-07",
+  "offer_price": 14700,
+  "open_price": 50300,
+  "first_close": 58800
+ },
+ {
+  "name": "노타",
+  "no": "2227",
+  "listing_date": "2025-11-03",
+  "offer_price": 9100,
+  "open_price": 22500,
+  "first_close": 31000
+ },
+ {
+  "name": "명인제약 (유가)",
+  "no": "2220",
+  "listing_date": "2025-10-01",
+  "offer_price": 58000,
+  "open_price": 119800,
+  "first_close": 121900
+ },
+ {
+  "name": "삼성스팩11호",
+  "no": "2223",
+  "listing_date": "2025-09-30",
+  "offer_price": 2000,
+  "open_price": 2160,
+  "first_close": 1988
+ },
+ {
+  "name": "KB스팩33호",
+  "no": "2224",
+  "listing_date": "2025-09-30",
+  "offer_price": 2000,
+  "open_price": 1983,
+  "first_close": 1976
+ },
+ {
+  "name": "에스투더블유",
+  "no": "2219",
+  "listing_date": "2025-09-19",
+  "offer_price": 13200,
+  "open_price": 26000,
+  "first_close": 23950
+ },
+ {
+  "name": "그래피",
+  "no": "2209",
+  "listing_date": "2025-08-25",
+  "offer_price": 15000,
+  "open_price": 11600,
+  "first_close": 11260
+ },
+ {
+  "name": "제이피아이헬스케어(구.정원정밀공업)",
+  "no": "2213",
+  "listing_date": "2025-08-21",
+  "offer_price": 20000,
+  "open_price": 28000,
+  "first_close": 21700
+ },
+ {
+  "name": "삼성스팩10호",
+  "no": "2218",
+  "listing_date": "2025-08-21",
+  "offer_price": 2000,
+  "open_price": 2130,
+  "first_close": 1977
+ },
+ {
+  "name": "한라캐스트",
+  "no": "2217",
+  "listing_date": "2025-08-20",
+  "offer_price": 5800,
+  "open_price": 7840,
+  "first_close": 5920
+ },
+ {
+  "name": "에스엔시스",
+  "no": "2211",
+  "listing_date": "2025-08-19",
+  "offer_price": 30000,
+  "open_price": 51000,
+  "first_close": 45000
+ },
+ {
+  "name": "삼양컴텍",
+  "no": "2206",
+  "listing_date": "2025-08-18",
+  "offer_price": 7700,
+  "open_price": 16010,
+  "first_close": 16640
+ },
+ {
+  "name": "지투지바이오",
+  "no": "2207",
+  "listing_date": "2025-08-14",
+  "offer_price": 58000,
+  "open_price": 86500,
+  "first_close": 93800
+ },
+ {
+  "name": "교보스팩18호",
+  "no": "2212",
+  "listing_date": "2025-08-14",
+  "offer_price": 2000,
+  "open_price": 2310,
+  "first_close": 1984
+ },
+ {
+  "name": "아이티켐",
+  "no": "2204",
+  "listing_date": "2025-08-07",
+  "offer_price": 16100,
+  "open_price": 38800,
+  "first_close": 31050
+ },
+ {
+  "name": "하나스팩35호",
+  "no": "2215",
+  "listing_date": "2025-08-06",
+  "offer_price": 2000,
+  "open_price": 2565,
+  "first_close": 1985
+ },
+ {
+  "name": "대한조선 (유가)",
+  "no": "2210",
+  "listing_date": "2025-08-01",
+  "offer_price": 50000,
+  "open_price": 89100,
+  "first_close": 92400
+ },
+ {
+  "name": "프로티나",
+  "no": "2197",
+  "listing_date": "2025-07-29",
+  "offer_price": 14000,
+  "open_price": 23750,
+  "first_close": 17550
+ },
+ {
+  "name": "엔알비",
+  "no": "2199",
+  "listing_date": "2025-07-28",
+  "offer_price": 21000,
+  "open_price": 21300,
+  "first_close": 16660
+ },
+ {
+  "name": "뉴로핏",
+  "no": "2200",
+  "listing_date": "2025-07-25",
+  "offer_price": 14000,
+  "open_price": 28600,
+  "first_close": 20300
+ },
+ {
+  "name": "도우인시스",
+  "no": "2193",
+  "listing_date": "2025-07-23",
+  "offer_price": 32000,
+  "open_price": 54400,
+  "first_close": 44350
+ },
+ {
+  "name": "LS스팩1호",
+  "no": "2201",
+  "listing_date": "2025-07-22",
+  "offer_price": 2000,
+  "open_price": 2695,
+  "first_close": 2600
+ },
+ {
+  "name": "디비금융스팩14호",
+  "no": "2205",
+  "listing_date": "2025-07-22",
+  "offer_price": 2000,
+  "open_price": 2130,
+  "first_close": 1987
+ },
+ {
+  "name": "아우토크립트",
+  "no": "2196",
+  "listing_date": "2025-07-15",
+  "offer_price": 22000,
+  "open_price": 31750,
+  "first_close": 30850
+ },
+ {
+  "name": "대신밸류리츠 (유가)",
+  "no": "2203",
+  "listing_date": "2025-07-10",
+  "offer_price": 5000,
+  "open_price": 4750,
+  "first_close": 4520
+ },
+ {
+  "name": "싸이닉솔루션",
+  "no": "2194",
+  "listing_date": "2025-07-07",
+  "offer_price": 4700,
+  "open_price": 10080,
+  "first_close": 7960
+ },
+ {
+  "name": "뉴엔에이아이(구.알에스엔)",
+  "no": "2192",
+  "listing_date": "2025-07-04",
+  "offer_price": 15000,
+  "open_price": 36900,
+  "first_close": 38400
+ },
+ {
+  "name": "KB스팩32호",
+  "no": "2208",
+  "listing_date": "2025-07-04",
+  "offer_price": 2000,
+  "open_price": 2350,
+  "first_close": 1986
+ },
+ {
+  "name": "지에프씨생명과학",
+  "no": "2195",
+  "listing_date": "2025-06-30",
+  "offer_price": 15300,
+  "open_price": 29550,
+  "first_close": 32550
+ },
+ {
+  "name": "GC지놈(구.GC녹십자지놈)",
+  "no": "2189",
+  "listing_date": "2025-06-11",
+  "offer_price": 10500,
+  "open_price": 14300,
+  "first_close": 11100
+ },
+ {
+  "name": "링크솔루션",
+  "no": "2188",
+  "listing_date": "2025-06-10",
+  "offer_price": 23000,
+  "open_price": 30000,
+  "first_close": 26250
+ },
+ {
+  "name": "키스트론",
+  "no": "2186",
+  "listing_date": "2025-06-02",
+  "offer_price": 3600,
+  "open_price": 10670,
+  "first_close": 9660
+ },
+ {
+  "name": "신한스팩16호",
+  "no": "2179",
+  "listing_date": "2025-05-29",
+  "offer_price": 2000,
+  "open_price": 2695,
+  "first_close": 2080
+ },
+ {
+  "name": "인투셀",
+  "no": "2184",
+  "listing_date": "2025-05-23",
+  "offer_price": 17000,
+  "open_price": 37100,
+  "first_close": 33200
+ },
+ {
+  "name": "달바글로벌(구.비모뉴먼트) (유가)",
+  "no": "2185",
+  "listing_date": "2025-05-22",
+  "offer_price": 66300,
+  "open_price": 118000,
+  "first_close": 110100
+ },
+ {
+  "name": "바이오비쥬",
+  "no": "2183",
+  "listing_date": "2025-05-20",
+  "offer_price": 9100,
+  "open_price": 23000,
+  "first_close": 18380
+ },
+ {
+  "name": "이뮨온시아",
+  "no": "2178",
+  "listing_date": "2025-05-19",
+  "offer_price": 3600,
+  "open_price": 5600,
+  "first_close": 7500
+ },
+ {
+  "name": "로킷헬스케어",
+  "no": "2176",
+  "listing_date": "2025-05-12",
+  "offer_price": 11000,
+  "open_price": 16860,
+  "first_close": 14750
+ },
+ {
+  "name": "원일티엔아이",
+  "no": "2180",
+  "listing_date": "2025-05-09",
+  "offer_price": 13500,
+  "open_price": 23600,
+  "first_close": 35900
+ },
+ {
+  "name": "오가노이드사이언스",
+  "no": "2181",
+  "listing_date": "2025-05-09",
+  "offer_price": 21000,
+  "open_price": 25400,
+  "first_close": 32000
+ },
+ {
+  "name": "나우로보틱스(구.나우테크닉스)",
+  "no": "2175",
+  "listing_date": "2025-05-08",
+  "offer_price": 6800,
+  "open_price": 17000,
+  "first_close": 15400
+ },
+ {
+  "name": "쎄크",
+  "no": "2173",
+  "listing_date": "2025-04-28",
+  "offer_price": 15000,
+  "open_price": 20200,
+  "first_close": 13680
+ },
+ {
+  "name": "한국피아이엠",
+  "no": "2174",
+  "listing_date": "2025-04-04",
+  "offer_price": 11200,
+  "open_price": 15370,
+  "first_close": 16100
+ },
+ {
+  "name": "에이유브랜즈",
+  "no": "2170",
+  "listing_date": "2025-04-03",
+  "offer_price": 16000,
+  "open_price": 28000,
+  "first_close": 18050
+ },
+ {
+  "name": "더즌",
+  "no": "2165",
+  "listing_date": "2025-03-24",
+  "offer_price": 9000,
+  "open_price": 9270,
+  "first_close": 8080
+ },
+ {
+  "name": "심플랫폼",
+  "no": "2162",
+  "listing_date": "2025-03-21",
+  "offer_price": 15000,
+  "open_price": 21050,
+  "first_close": 14500
+ },
+ {
+  "name": "티엑스알로보틱스",
+  "no": "2164",
+  "listing_date": "2025-03-20",
+  "offer_price": 13500,
+  "open_price": 21300,
+  "first_close": 20700
+ },
+ {
+  "name": "한텍",
+  "no": "2161",
+  "listing_date": "2025-03-20",
+  "offer_price": 10800,
+  "open_price": 25000,
+  "first_close": 26400
+ },
+ {
+  "name": "한화플러스스팩5호",
+  "no": "2171",
+  "listing_date": "2025-03-20",
+  "offer_price": 2000,
+  "open_price": 2030,
+  "first_close": 1971
+ },
+ {
+  "name": "씨케이솔루션 (유가)",
+  "no": "2169",
+  "listing_date": "2025-03-17",
+  "offer_price": 15000,
+  "open_price": 27550,
+  "first_close": 18760
+ },
+ {
+  "name": "서울보증보험 (유가)",
+  "no": "2167",
+  "listing_date": "2025-03-14",
+  "offer_price": 26000,
+  "open_price": 28050,
+  "first_close": 32000
+ },
+ {
+  "name": "엠디바이스(구.메가일렉트로닉스)",
+  "no": "2166",
+  "listing_date": "2025-03-07",
+  "offer_price": 8350,
+  "open_price": 18000,
+  "first_close": 11100
+ },
+ {
+  "name": "대진첨단소재",
+  "no": "2157",
+  "listing_date": "2025-03-06",
+  "offer_price": 9000,
+  "open_price": 17830,
+  "first_close": 12110
+ },
+ {
+  "name": "엘케이켐",
+  "no": "2160",
+  "listing_date": "2025-02-25",
+  "offer_price": 21000,
+  "open_price": 64300,
+  "first_close": 58800
+ },
+ {
+  "name": "위너스",
+  "no": "2154",
+  "listing_date": "2025-02-24",
+  "offer_price": 8500,
+  "open_price": 23450,
+  "first_close": 34000
+ },
+ {
+  "name": "모티브링크(구.용인전자)",
+  "no": "2145",
+  "listing_date": "2025-02-20",
+  "offer_price": 6000,
+  "open_price": 16500,
+  "first_close": 17610
+ },
+ {
+  "name": "동국생명과학",
+  "no": "2155",
+  "listing_date": "2025-02-17",
+  "offer_price": 9000,
+  "open_price": 12900,
+  "first_close": 12530
+ },
+ {
+  "name": "오름테라퓨틱",
+  "no": "2156",
+  "listing_date": "2025-02-14",
+  "offer_price": 20000,
+  "open_price": 21000,
+  "first_close": 21800
+ },
+ {
+  "name": "동방메디컬",
+  "no": "2150",
+  "listing_date": "2025-02-13",
+  "offer_price": 10500,
+  "open_price": 14730,
+  "first_close": 9680
+ },
+ {
+  "name": "아이에스티이",
+  "no": "2158",
+  "listing_date": "2025-02-12",
+  "offer_price": 11400,
+  "open_price": 14430,
+  "first_close": 22500
+ },
+ {
+  "name": "LGCNS (유가)",
+  "no": "2149",
+  "listing_date": "2025-02-05",
+  "offer_price": 61900,
+  "open_price": 60500,
+  "first_close": 55800
+ },
+ {
+  "name": "아이지넷",
+  "no": "2138",
+  "listing_date": "2025-02-04",
+  "offer_price": 7000,
+  "open_price": 6110,
+  "first_close": 4355
+ },
+ {
+  "name": "피아이이",
+  "no": "2148",
+  "listing_date": "2025-02-04",
+  "offer_price": 5000,
+  "open_price": 5000,
+  "first_close": 4365
+ },
+ {
+  "name": "삼양엔씨켐(구.엔씨켐)",
+  "no": "2144",
+  "listing_date": "2025-02-03",
+  "offer_price": 18000,
+  "open_price": 23650,
+  "first_close": 17960
+ },
+ {
+  "name": "데이원컴퍼니(구.패스트캠퍼스)",
+  "no": "2133",
+  "listing_date": "2025-01-24",
+  "offer_price": 13000,
+  "open_price": 10760,
+  "first_close": 7800
+ },
+ {
+  "name": "아스테라시스",
+  "no": "2139",
+  "listing_date": "2025-01-24",
+  "offer_price": 4600,
+  "open_price": 7770,
+  "first_close": 6640
+ },
+ {
+  "name": "와이즈넛",
+  "no": "2146",
+  "listing_date": "2025-01-24",
+  "offer_price": 17000,
+  "open_price": 14020,
+  "first_close": 10800
+ },
+ {
+  "name": "미트박스글로벌",
+  "no": "2153",
+  "listing_date": "2025-01-23",
+  "offer_price": 19000,
+  "open_price": 18600,
+  "first_close": 14200
+ },
+ {
+  "name": "유안타스팩17호",
+  "no": "2152",
+  "listing_date": "2025-01-23",
+  "offer_price": 2000,
+  "open_price": 2160,
+  "first_close": 1914
+ },
+ {
+  "name": "파인메딕스",
+  "no": "2121",
+  "listing_date": "2024-12-26",
+  "offer_price": 10000,
+  "open_price": 25300,
+  "first_close": 16000
+ },
+ {
+  "name": "쓰리에이로직스",
+  "no": "2122",
+  "listing_date": "2024-12-24",
+  "offer_price": 11000,
+  "open_price": 14060,
+  "first_close": 9130
+ },
+ {
+  "name": "신한스팩14호",
+  "no": "2095",
+  "listing_date": "2024-12-23",
+  "offer_price": 2000,
+  "open_price": 2365,
+  "first_close": 1903
+ },
+ {
+  "name": "키움스팩10호",
+  "no": "2143",
+  "listing_date": "2024-12-20",
+  "offer_price": 2000,
+  "open_price": 3130,
+  "first_close": 1936
+ },
+ {
+  "name": "듀켐바이오",
+  "no": "2151",
+  "listing_date": "2024-12-20",
+  "offer_price": 8000,
+  "open_price": 12100,
+  "first_close": 9080
+ },
+ {
+  "name": "온코닉테라퓨틱스",
+  "no": "2127",
+  "listing_date": "2024-12-19",
+  "offer_price": 13000,
+  "open_price": 18000,
+  "first_close": 17300
+ },
+ {
+  "name": "온코크로스",
+  "no": "2147",
+  "listing_date": "2024-12-18",
+  "offer_price": 7300,
+  "open_price": 12650,
+  "first_close": 8960
+ },
+ {
+  "name": "벡트",
+  "no": "2128",
+  "listing_date": "2024-12-16",
+  "offer_price": 3900,
+  "open_price": 9960,
+  "first_close": 7730
+ },
+ {
+  "name": "엠앤씨솔루션 (유가)",
+  "no": "2140",
+  "listing_date": "2024-12-16",
+  "offer_price": 65000,
+  "open_price": 58000,
+  "first_close": 51800
+ },
+ {
+  "name": "KB스팩31호",
+  "no": "2135",
+  "listing_date": "2024-12-12",
+  "offer_price": 2000,
+  "open_price": 2900,
+  "first_close": 1912
+ },
+ {
+  "name": "키움스팩11호",
+  "no": "2132",
+  "listing_date": "2024-12-11",
+  "offer_price": 2000,
+  "open_price": 3700,
+  "first_close": 1954
+ },
+ {
+  "name": "케이비발해인프라투융자회사",
+  "no": "2136",
+  "listing_date": "2024-11-29",
+  "offer_price": 8400,
+  "open_price": 8400,
+  "first_close": 7960
+ },
+ {
+  "name": "디비금융스팩13호",
+  "no": "2129",
+  "listing_date": "2024-11-28",
+  "offer_price": 2000,
+  "open_price": 3170,
+  "first_close": 1990
+ },
+ {
+  "name": "교보스팩17호",
+  "no": "2125",
+  "listing_date": "2024-11-21",
+  "offer_price": 2000,
+  "open_price": 2150,
+  "first_close": 2160
+ },
+ {
+  "name": "위츠",
+  "no": "2106",
+  "listing_date": "2024-11-20",
+  "offer_price": 6400,
+  "open_price": 6780,
+  "first_close": 14690
+ },
+ {
+  "name": "대신밸런스스팩19호",
+  "no": "2123",
+  "listing_date": "2024-11-20",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 1993
+ },
+ {
+  "name": "하나스팩34호",
+  "no": "2120",
+  "listing_date": "2024-11-19",
+  "offer_price": 2000,
+  "open_price": 2155,
+  "first_close": 1999
+ },
+ {
+  "name": "사이냅소프트",
+  "no": "2124",
+  "listing_date": "2024-11-19",
+  "offer_price": 24500,
+  "open_price": 21000,
+  "first_close": 18490
+ },
+ {
+  "name": "엠오티",
+  "no": "2114",
+  "listing_date": "2024-11-18",
+  "offer_price": 10000,
+  "open_price": 8450,
+  "first_close": 7800
+ },
+ {
+  "name": "에스켐",
+  "no": "2118",
+  "listing_date": "2024-11-18",
+  "offer_price": 10000,
+  "open_price": 10730,
+  "first_close": 7090
+ },
+ {
+  "name": "신한스팩15호",
+  "no": "2117",
+  "listing_date": "2024-11-15",
+  "offer_price": 2000,
+  "open_price": 2350,
+  "first_close": 2000
+ },
+ {
+  "name": "쓰리빌리언",
+  "no": "2099",
+  "listing_date": "2024-11-14",
+  "offer_price": 4500,
+  "open_price": 5410,
+  "first_close": 4100
+ },
+ {
+  "name": "닷밀",
+  "no": "2104",
+  "listing_date": "2024-11-13",
+  "offer_price": 13000,
+  "open_price": 9520,
+  "first_close": 8610
+ },
+ {
+  "name": "노머스",
+  "no": "2109",
+  "listing_date": "2024-11-12",
+  "offer_price": 30200,
+  "open_price": 21500,
+  "first_close": 19400
+ },
+ {
+  "name": "에어레인",
+  "no": "2116",
+  "listing_date": "2024-11-08",
+  "offer_price": 23000,
+  "open_price": 16450,
+  "first_close": 17590
+ },
+ {
+  "name": "토모큐브",
+  "no": "2100",
+  "listing_date": "2024-11-07",
+  "offer_price": 16000,
+  "open_price": 12250,
+  "first_close": 10070
+ },
+ {
+  "name": "더본코리아 (유가)",
+  "no": "2103",
+  "listing_date": "2024-11-06",
+  "offer_price": 34000,
+  "open_price": 46350,
+  "first_close": 51400
+ },
+ {
+  "name": "에이치이엠파마(구.에이치이엠)",
+  "no": "2079",
+  "listing_date": "2024-11-05",
+  "offer_price": 23000,
+  "open_price": 20500,
+  "first_close": 16400
+ },
+ {
+  "name": "탑런토탈솔루션",
+  "no": "2102",
+  "listing_date": "2024-11-01",
+  "offer_price": 18000,
+  "open_price": 15120,
+  "first_close": 13740
+ },
+ {
+  "name": "에이럭스",
+  "no": "2113",
+  "listing_date": "2024-11-01",
+  "offer_price": 16000,
+  "open_price": 12460,
+  "first_close": 9880
+ },
+ {
+  "name": "성우",
+  "no": "2105",
+  "listing_date": "2024-10-31",
+  "offer_price": 32000,
+  "open_price": 32000,
+  "first_close": 28000
+ },
+ {
+  "name": "유진스팩11호",
+  "no": "2107",
+  "listing_date": "2024-10-31",
+  "offer_price": 2000,
+  "open_price": 2455,
+  "first_close": 2015
+ },
+ {
+  "name": "클로봇",
+  "no": "2098",
+  "listing_date": "2024-10-28",
+  "offer_price": 13000,
+  "open_price": 12500,
+  "first_close": 10070
+ },
+ {
+  "name": "웨이비스",
+  "no": "2096",
+  "listing_date": "2024-10-25",
+  "offer_price": 15000,
+  "open_price": 18010,
+  "first_close": 10890
+ },
+ {
+  "name": "에이치엔에스하이텍",
+  "no": "2108",
+  "listing_date": "2024-10-25",
+  "offer_price": 22000,
+  "open_price": 19390,
+  "first_close": 16980
+ },
+ {
+  "name": "씨메스",
+  "no": "2097",
+  "listing_date": "2024-10-24",
+  "offer_price": 30000,
+  "open_price": 35600,
+  "first_close": 23100
+ },
+ {
+  "name": "한켐",
+  "no": "2092",
+  "listing_date": "2024-10-22",
+  "offer_price": 18000,
+  "open_price": 32500,
+  "first_close": 22800
+ },
+ {
+  "name": "루미르",
+  "no": "2089",
+  "listing_date": "2024-10-21",
+  "offer_price": 12000,
+  "open_price": 14000,
+  "first_close": 14910
+ },
+ {
+  "name": "인스피언",
+  "no": "2091",
+  "listing_date": "2024-10-18",
+  "offer_price": 12000,
+  "open_price": 20000,
+  "first_close": 15820
+ },
+ {
+  "name": "와이제이링크",
+  "no": "2093",
+  "listing_date": "2024-10-18",
+  "offer_price": 12000,
+  "open_price": 12760,
+  "first_close": 21800
+ },
+ {
+  "name": "셀비온",
+  "no": "2094",
+  "listing_date": "2024-10-16",
+  "offer_price": 15000,
+  "open_price": 25400,
+  "first_close": 20650
+ },
+ {
+  "name": "제닉스",
+  "no": "2090",
+  "listing_date": "2024-09-30",
+  "offer_price": 40000,
+  "open_price": 59000,
+  "first_close": 46000
+ },
+ {
+  "name": "KB스팩30호",
+  "no": "2087",
+  "listing_date": "2024-09-25",
+  "offer_price": 2000,
+  "open_price": 2840,
+  "first_close": 2005
+ },
+ {
+  "name": "아이언디바이스",
+  "no": "2080",
+  "listing_date": "2024-09-23",
+  "offer_price": 7000,
+  "open_price": 18000,
+  "first_close": 10900
+ },
+ {
+  "name": "미래에셋비전스팩7호",
+  "no": "2085",
+  "listing_date": "2024-09-11",
+  "offer_price": 2000,
+  "open_price": 2740,
+  "first_close": 1984
+ },
+ {
+  "name": "아이스크림미디어(구.시공미디어)",
+  "no": "2083",
+  "listing_date": "2024-08-30",
+  "offer_price": 32000,
+  "open_price": 29700,
+  "first_close": 22500
+ },
+ {
+  "name": "이엔셀",
+  "no": "2064",
+  "listing_date": "2024-08-23",
+  "offer_price": 15300,
+  "open_price": 35100,
+  "first_close": 17200
+ },
+ {
+  "name": "엠83",
+  "no": "2084",
+  "listing_date": "2024-08-22",
+  "offer_price": 16000,
+  "open_price": 26000,
+  "first_close": 22300
+ },
+ {
+  "name": "대신밸런스스팩18호",
+  "no": "2086",
+  "listing_date": "2024-08-22",
+  "offer_price": 2000,
+  "open_price": 2620,
+  "first_close": 2025
+ },
+ {
+  "name": "티디에스팜",
+  "no": "2075",
+  "listing_date": "2024-08-21",
+  "offer_price": 13000,
+  "open_price": 27000,
+  "first_close": 52000
+ },
+ {
+  "name": "넥스트바이오메디컬",
+  "no": "2071",
+  "listing_date": "2024-08-20",
+  "offer_price": 29000,
+  "open_price": 27000,
+  "first_close": 23700
+ },
+ {
+  "name": "케이쓰리아이",
+  "no": "2077",
+  "listing_date": "2024-08-20",
+  "offer_price": 15500,
+  "open_price": 15800,
+  "first_close": 10550
+ },
+ {
+  "name": "전진건설로봇(구.전진중공업) (유가)",
+  "no": "2081",
+  "listing_date": "2024-08-19",
+  "offer_price": 16500,
+  "open_price": 27500,
+  "first_close": 20550
+ },
+ {
+  "name": "유라클",
+  "no": "2082",
+  "listing_date": "2024-08-16",
+  "offer_price": 21000,
+  "open_price": 27900,
+  "first_close": 21000
+ },
+ {
+  "name": "교보스팩16호",
+  "no": "2078",
+  "listing_date": "2024-08-13",
+  "offer_price": 2000,
+  "open_price": 2300,
+  "first_close": 2060
+ },
+ {
+  "name": "뱅크웨어글로벌",
+  "no": "2072",
+  "listing_date": "2024-08-12",
+  "offer_price": 16000,
+  "open_price": 15990,
+  "first_close": 15750
+ },
+ {
+  "name": "아이빔테크놀로지",
+  "no": "2068",
+  "listing_date": "2024-08-06",
+  "offer_price": 10000,
+  "open_price": 10000,
+  "first_close": 13360
+ },
+ {
+  "name": "피앤에스미캐닉스",
+  "no": "2069",
+  "listing_date": "2024-07-31",
+  "offer_price": 22000,
+  "open_price": 30000,
+  "first_close": 25050
+ },
+ {
+  "name": "산일전기 (유가)",
+  "no": "2076",
+  "listing_date": "2024-07-29",
+  "offer_price": 35000,
+  "open_price": 44900,
+  "first_close": 50200
+ },
+ {
+  "name": "NH스팩31호",
+  "no": "2073",
+  "listing_date": "2024-07-26",
+  "offer_price": 2000,
+  "open_price": 2700,
+  "first_close": 2020
+ },
+ {
+  "name": "SK증권스팩13호",
+  "no": "2074",
+  "listing_date": "2024-07-25",
+  "offer_price": 2000,
+  "open_price": 2885,
+  "first_close": 2065
+ },
+ {
+  "name": "엑셀세라퓨틱스",
+  "no": "2060",
+  "listing_date": "2024-07-15",
+  "offer_price": 10000,
+  "open_price": 12480,
+  "first_close": 8330
+ },
+ {
+  "name": "이베스트스팩6호",
+  "no": "2066",
+  "listing_date": "2024-07-12",
+  "offer_price": 2000,
+  "open_price": 2860,
+  "first_close": 2030
+ },
+ {
+  "name": "시프트업 (유가)",
+  "no": "2063",
+  "listing_date": "2024-07-11",
+  "offer_price": 60000,
+  "open_price": 79900,
+  "first_close": 71000
+ },
+ {
+  "name": "하스",
+  "no": "2046",
+  "listing_date": "2024-07-03",
+  "offer_price": 16000,
+  "open_price": 27600,
+  "first_close": 17150
+ },
+ {
+  "name": "이노스페이스",
+  "no": "2056",
+  "listing_date": "2024-07-02",
+  "offer_price": 43300,
+  "open_price": 43900,
+  "first_close": 34450
+ },
+ {
+  "name": "신한글로벌액티브리츠",
+  "no": "2067",
+  "listing_date": "2024-07-01",
+  "offer_price": 3000,
+  "open_price": 3070,
+  "first_close": 2760
+ },
+ {
+  "name": "에이치브이엠(구.한국진공야금)",
+  "no": "2053",
+  "listing_date": "2024-06-28",
+  "offer_price": 18000,
+  "open_price": 28650,
+  "first_close": 20200
+ },
+ {
+  "name": "하이젠알앤엠",
+  "no": "2051",
+  "listing_date": "2024-06-27",
+  "offer_price": 7000,
+  "open_price": 18000,
+  "first_close": 15160
+ },
+ {
+  "name": "한국스팩15호",
+  "no": "2062",
+  "listing_date": "2024-06-26",
+  "offer_price": 2000,
+  "open_price": 3175,
+  "first_close": 1983
+ },
+ {
+  "name": "에스오에스랩",
+  "no": "2047",
+  "listing_date": "2024-06-25",
+  "offer_price": 11500,
+  "open_price": 20850,
+  "first_close": 14420
+ },
+ {
+  "name": "에이치엠씨아이비스팩7호",
+  "no": "2059",
+  "listing_date": "2024-06-24",
+  "offer_price": 2000,
+  "open_price": 2455,
+  "first_close": 1958
+ },
+ {
+  "name": "미래에셋비전스팩6호",
+  "no": "2061",
+  "listing_date": "2024-06-24",
+  "offer_price": 2000,
+  "open_price": 3095,
+  "first_close": 1977
+ },
+ {
+  "name": "한중엔시에스",
+  "no": "2065",
+  "listing_date": "2024-06-24",
+  "offer_price": 30000,
+  "open_price": 45550,
+  "first_close": 34000
+ },
+ {
+  "name": "KB스팩29호",
+  "no": "2058",
+  "listing_date": "2024-06-21",
+  "offer_price": 2000,
+  "open_price": 3880,
+  "first_close": 2015
+ },
+ {
+  "name": "씨어스테크놀로지",
+  "no": "2048",
+  "listing_date": "2024-06-19",
+  "offer_price": 17000,
+  "open_price": 34450,
+  "first_close": 18500
+ },
+ {
+  "name": "미래에셋비전스팩5호",
+  "no": "2050",
+  "listing_date": "2024-06-19",
+  "offer_price": 2000,
+  "open_price": 3300,
+  "first_close": 2060
+ },
+ {
+  "name": "한국스팩14호",
+  "no": "2054",
+  "listing_date": "2024-06-19",
+  "offer_price": 2000,
+  "open_price": 3150,
+  "first_close": 2055
+ },
+ {
+  "name": "디비금융스팩12호",
+  "no": "2052",
+  "listing_date": "2024-06-18",
+  "offer_price": 2000,
+  "open_price": 4925,
+  "first_close": 2065
+ },
+ {
+  "name": "라메디텍",
+  "no": "2057",
+  "listing_date": "2024-06-17",
+  "offer_price": 16000,
+  "open_price": 50000,
+  "first_close": 24550
+ },
+ {
+  "name": "그리드위즈",
+  "no": "2055",
+  "listing_date": "2024-06-14",
+  "offer_price": 40000,
+  "open_price": 60600,
+  "first_close": 49500
+ },
+ {
+  "name": "미래에셋비전스팩4호",
+  "no": "2049",
+  "listing_date": "2024-05-29",
+  "offer_price": 2000,
+  "open_price": 2840,
+  "first_close": 2255
+ },
+ {
+  "name": "노브랜드",
+  "no": "2036",
+  "listing_date": "2024-05-23",
+  "offer_price": 14000,
+  "open_price": 31000,
+  "first_close": 54300
+ },
+ {
+  "name": "아이씨티케이",
+  "no": "2040",
+  "listing_date": "2024-05-17",
+  "offer_price": 20000,
+  "open_price": 19990,
+  "first_close": 28700
+ },
+ {
+  "name": "KB스팩28호",
+  "no": "2045",
+  "listing_date": "2024-05-17",
+  "offer_price": 2000,
+  "open_price": 2330,
+  "first_close": 2030
+ },
+ {
+  "name": "HD현대마린솔루션(구.HD현대글로벌서비스) (유가)",
+  "no": "2044",
+  "listing_date": "2024-05-08",
+  "offer_price": 83400,
+  "open_price": 119900,
+  "first_close": 163900
+ },
+ {
+  "name": "코칩",
+  "no": "2031",
+  "listing_date": "2024-05-07",
+  "offer_price": 18000,
+  "open_price": 33000,
+  "first_close": 28450
+ },
+ {
+  "name": "SK증권스팩12호",
+  "no": "2042",
+  "listing_date": "2024-05-07",
+  "offer_price": 2000,
+  "open_price": 2800,
+  "first_close": 2090
+ },
+ {
+  "name": "민테크",
+  "no": "2032",
+  "listing_date": "2024-05-03",
+  "offer_price": 10500,
+  "open_price": 14900,
+  "first_close": 12880
+ },
+ {
+  "name": "유안타스팩16호",
+  "no": "2041",
+  "listing_date": "2024-05-02",
+  "offer_price": 2000,
+  "open_price": 3115,
+  "first_close": 2005
+ },
+ {
+  "name": "디앤디파마텍",
+  "no": "2043",
+  "listing_date": "2024-05-02",
+  "offer_price": 33000,
+  "open_price": 49250,
+  "first_close": 36500
+ },
+ {
+  "name": "제일엠앤에스(구.제일기공)",
+  "no": "2039",
+  "listing_date": "2024-04-30",
+  "offer_price": 22000,
+  "open_price": 37700,
+  "first_close": 27000
+ },
+ {
+  "name": "하나스팩33호",
+  "no": "2038",
+  "listing_date": "2024-04-24",
+  "offer_price": 2000,
+  "open_price": 5100,
+  "first_close": 2150
+ },
+ {
+  "name": "신한스팩13호",
+  "no": "2037",
+  "listing_date": "2024-04-22",
+  "offer_price": 2000,
+  "open_price": 5900,
+  "first_close": 2195
+ },
+ {
+  "name": "신한스팩12호",
+  "no": "2035",
+  "listing_date": "2024-04-15",
+  "offer_price": 2000,
+  "open_price": 4500,
+  "first_close": 2105
+ },
+ {
+  "name": "아이엠비디엑스",
+  "no": "2030",
+  "listing_date": "2024-04-03",
+  "offer_price": 13000,
+  "open_price": 28550,
+  "first_close": 36000
+ },
+ {
+  "name": "하나스팩32호",
+  "no": "2033",
+  "listing_date": "2024-03-27",
+  "offer_price": 2000,
+  "open_price": 4875,
+  "first_close": 2500
+ },
+ {
+  "name": "엔젤로보틱스",
+  "no": "2028",
+  "listing_date": "2024-03-26",
+  "offer_price": 20000,
+  "open_price": 50500,
+  "first_close": 65000
+ },
+ {
+  "name": "삼현",
+  "no": "2029",
+  "listing_date": "2024-03-21",
+  "offer_price": 30000,
+  "open_price": 67000,
+  "first_close": 47000
+ },
+ {
+  "name": "오상헬스케어",
+  "no": "2020",
+  "listing_date": "2024-03-13",
+  "offer_price": 20000,
+  "open_price": 33250,
+  "first_close": 29350
+ },
+ {
+  "name": "케이엔알시스템",
+  "no": "2027",
+  "listing_date": "2024-03-07",
+  "offer_price": 13500,
+  "open_price": 37000,
+  "first_close": 27050
+ },
+ {
+  "name": "비엔케이스팩2호",
+  "no": "2023",
+  "listing_date": "2024-03-05",
+  "offer_price": 2000,
+  "open_price": 4020,
+  "first_close": 2005
+ },
+ {
+  "name": "하나스팩31호",
+  "no": "2026",
+  "listing_date": "2024-03-05",
+  "offer_price": 2000,
+  "open_price": 4065,
+  "first_close": 2020
+ },
+ {
+  "name": "SK증권스팩11호",
+  "no": "2025",
+  "listing_date": "2024-03-04",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 2100
+ },
+ {
+  "name": "유진스팩10호",
+  "no": "2021",
+  "listing_date": "2024-02-29",
+  "offer_price": 2000,
+  "open_price": 3000,
+  "first_close": 2230
+ },
+ {
+  "name": "유안타스팩15호",
+  "no": "2024",
+  "listing_date": "2024-02-29",
+  "offer_price": 2000,
+  "open_price": 2450,
+  "first_close": 2015
+ },
+ {
+  "name": "에이피알 (유가)",
+  "no": "2016",
+  "listing_date": "2024-02-27",
+  "offer_price": 250000,
+  "open_price": 445500,
+  "first_close": 317500
+ },
+ {
+  "name": "코셈",
+  "no": "2015",
+  "listing_date": "2024-02-23",
+  "offer_price": 16000,
+  "open_price": 42000,
+  "first_close": 25550
+ },
+ {
+  "name": "이에이트",
+  "no": "2019",
+  "listing_date": "2024-02-23",
+  "offer_price": 20000,
+  "open_price": 26150,
+  "first_close": 22600
+ },
+ {
+  "name": "케이웨더",
+  "no": "2014",
+  "listing_date": "2024-02-22",
+  "offer_price": 7000,
+  "open_price": 19920,
+  "first_close": 16600
+ },
+ {
+  "name": "스튜디오삼익",
+  "no": "2012",
+  "listing_date": "2024-02-06",
+  "offer_price": 18000,
+  "open_price": 52000,
+  "first_close": 39900
+ },
+ {
+  "name": "신영스팩10호",
+  "no": "2018",
+  "listing_date": "2024-02-06",
+  "offer_price": 2000,
+  "open_price": 3670,
+  "first_close": 2090
+ },
+ {
+  "name": "이닉스(구.이닉스정호)",
+  "no": "2009",
+  "listing_date": "2024-02-01",
+  "offer_price": 14000,
+  "open_price": 46550,
+  "first_close": 37100
+ },
+ {
+  "name": "IBKS스팩24호",
+  "no": "2017",
+  "listing_date": "2024-02-01",
+  "offer_price": 2000,
+  "open_price": 4865,
+  "first_close": 2125
+ },
+ {
+  "name": "포스뱅크",
+  "no": "2006",
+  "listing_date": "2024-01-29",
+  "offer_price": 18000,
+  "open_price": 47550,
+  "first_close": 23350
+ },
+ {
+  "name": "현대힘스",
+  "no": "2010",
+  "listing_date": "2024-01-26",
+  "offer_price": 7300,
+  "open_price": 28950,
+  "first_close": 29200
+ },
+ {
+  "name": "에이치비인베스트먼트",
+  "no": "2008",
+  "listing_date": "2024-01-25",
+  "offer_price": 3400,
+  "open_price": 10100,
+  "first_close": 6700
+ },
+ {
+  "name": "대신밸런스스팩17호",
+  "no": "2011",
+  "listing_date": "2024-01-24",
+  "offer_price": 2000,
+  "open_price": 5970,
+  "first_close": 2140
+ },
+ {
+  "name": "우진엔텍",
+  "no": "2013",
+  "listing_date": "2024-01-24",
+  "offer_price": 5300,
+  "open_price": 21200,
+  "first_close": 21200
+ },
+ {
+  "name": "IBKS스팩23호",
+  "no": "2007",
+  "listing_date": "2023-12-22",
+  "offer_price": 2000,
+  "open_price": 4030,
+  "first_close": 2065
+ },
+ {
+  "name": "하나스팩30호",
+  "no": "2004",
+  "listing_date": "2023-12-22",
+  "offer_price": 2000,
+  "open_price": 3250,
+  "first_close": 1980
+ },
+ {
+  "name": "디에스단석(구,단석산업)",
+  "no": "2005",
+  "listing_date": "2023-12-22",
+  "offer_price": 100000,
+  "open_price": 370000,
+  "first_close": 400000
+ },
+ {
+  "name": "블루엠텍",
+  "no": "1993",
+  "listing_date": "2023-12-13",
+  "offer_price": 19000,
+  "open_price": 55300,
+  "first_close": 51000
+ },
+ {
+  "name": "LS머트리얼즈",
+  "no": "1998",
+  "listing_date": "2023-12-12",
+  "offer_price": 6000,
+  "open_price": 19940,
+  "first_close": 24000
+ },
+ {
+  "name": "케이엔에스",
+  "no": "2002",
+  "listing_date": "2023-12-06",
+  "offer_price": 23000,
+  "open_price": 71000,
+  "first_close": 92000
+ },
+ {
+  "name": "와이바이오로직스",
+  "no": "1990",
+  "listing_date": "2023-12-05",
+  "offer_price": 9000,
+  "open_price": 23450,
+  "first_close": 12800
+ },
+ {
+  "name": "교보스팩15호",
+  "no": "2001",
+  "listing_date": "2023-12-05",
+  "offer_price": 2000,
+  "open_price": 4900,
+  "first_close": 1975
+ },
+ {
+  "name": "삼성스팩9호",
+  "no": "2000",
+  "listing_date": "2023-12-04",
+  "offer_price": 2000,
+  "open_price": 4720,
+  "first_close": 2070
+ },
+ {
+  "name": "NH스팩30호",
+  "no": "1999",
+  "listing_date": "2023-12-01",
+  "offer_price": 2000,
+  "open_price": 2400,
+  "first_close": 2475
+ },
+ {
+  "name": "에이텀",
+  "no": "1992",
+  "listing_date": "2023-12-01",
+  "offer_price": 18000,
+  "open_price": 56900,
+  "first_close": 30400
+ },
+ {
+  "name": "에이에스텍",
+  "no": "1996",
+  "listing_date": "2023-11-28",
+  "offer_price": 28000,
+  "open_price": 85000,
+  "first_close": 70100
+ },
+ {
+  "name": "그린리소스",
+  "no": "1991",
+  "listing_date": "2023-11-24",
+  "offer_price": 17000,
+  "open_price": 29500,
+  "first_close": 52300
+ },
+ {
+  "name": "한선엔지니어링",
+  "no": "1995",
+  "listing_date": "2023-11-24",
+  "offer_price": 7000,
+  "open_price": 16600,
+  "first_close": 18330
+ },
+ {
+  "name": "에코아이",
+  "no": "1985",
+  "listing_date": "2023-11-21",
+  "offer_price": 34700,
+  "open_price": 46100,
+  "first_close": 62300
+ },
+ {
+  "name": "동인기연 (유가)",
+  "no": "1994",
+  "listing_date": "2023-11-21",
+  "offer_price": 30000,
+  "open_price": 30700,
+  "first_close": 29150
+ },
+ {
+  "name": "스톰테크",
+  "no": "1981",
+  "listing_date": "2023-11-20",
+  "offer_price": 11000,
+  "open_price": 18890,
+  "first_close": 19060
+ },
+ {
+  "name": "에코프로머티리얼즈 (유가)",
+  "no": "1986",
+  "listing_date": "2023-11-17",
+  "offer_price": 36200,
+  "open_price": 43000,
+  "first_close": 57200
+ },
+ {
+  "name": "캡스톤파트너스",
+  "no": "1982",
+  "listing_date": "2023-11-15",
+  "offer_price": 4000,
+  "open_price": 7000,
+  "first_close": 9180
+ },
+ {
+  "name": "에이직랜드",
+  "no": "1979",
+  "listing_date": "2023-11-13",
+  "offer_price": 25000,
+  "open_price": 31800,
+  "first_close": 30300
+ },
+ {
+  "name": "한국스팩13호",
+  "no": "1987",
+  "listing_date": "2023-11-13",
+  "offer_price": 2000,
+  "open_price": 2530,
+  "first_close": 1980
+ },
+ {
+  "name": "에스와이스틸텍",
+  "no": "1989",
+  "listing_date": "2023-11-13",
+  "offer_price": 1800,
+  "open_price": 3300,
+  "first_close": 4065
+ },
+ {
+  "name": "비아이매트릭스",
+  "no": "1974",
+  "listing_date": "2023-11-09",
+  "offer_price": 13000,
+  "open_price": 17040,
+  "first_close": 11660
+ },
+ {
+  "name": "컨텍",
+  "no": "1975",
+  "listing_date": "2023-11-09",
+  "offer_price": 22500,
+  "open_price": 19700,
+  "first_close": 15920
+ },
+ {
+  "name": "큐로셀",
+  "no": "1978",
+  "listing_date": "2023-11-09",
+  "offer_price": 20000,
+  "open_price": 22550,
+  "first_close": 21700
+ },
+ {
+  "name": "메가터치",
+  "no": "1988",
+  "listing_date": "2023-11-09",
+  "offer_price": 4800,
+  "open_price": 6960,
+  "first_close": 5590
+ },
+ {
+  "name": "쏘닉스",
+  "no": "1984",
+  "listing_date": "2023-11-07",
+  "offer_price": 7500,
+  "open_price": 10000,
+  "first_close": 9430
+ },
+ {
+  "name": "KB스팩27호",
+  "no": "1983",
+  "listing_date": "2023-11-03",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 1857
+ },
+ {
+  "name": "유투바이오",
+  "no": "1972",
+  "listing_date": "2023-11-02",
+  "offer_price": 4400,
+  "open_price": 6000,
+  "first_close": 8550
+ },
+ {
+  "name": "유진테크놀로지",
+  "no": "1980",
+  "listing_date": "2023-11-02",
+  "offer_price": 17000,
+  "open_price": 24550,
+  "first_close": 21200
+ },
+ {
+  "name": "퀄리타스반도체",
+  "no": "1973",
+  "listing_date": "2023-10-27",
+  "offer_price": 17000,
+  "open_price": 29200,
+  "first_close": 20650
+ },
+ {
+  "name": "워트",
+  "no": "1977",
+  "listing_date": "2023-10-26",
+  "offer_price": 6500,
+  "open_price": 10270,
+  "first_close": 8650
+ },
+ {
+  "name": "에스엘에스바이오",
+  "no": "1965",
+  "listing_date": "2023-10-20",
+  "offer_price": 7000,
+  "open_price": 9330,
+  "first_close": 6270
+ },
+ {
+  "name": "신성에스티",
+  "no": "1966",
+  "listing_date": "2023-10-19",
+  "offer_price": 26000,
+  "open_price": 46050,
+  "first_close": 39050
+ },
+ {
+  "name": "퓨릿(구.신디프)",
+  "no": "1971",
+  "listing_date": "2023-10-18",
+  "offer_price": 10700,
+  "open_price": 15610,
+  "first_close": 14460
+ },
+ {
+  "name": "에이치엠씨아이비스팩6호",
+  "no": "1962",
+  "listing_date": "2023-10-13",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2420
+ },
+ {
+  "name": "아이엠티",
+  "no": "1964",
+  "listing_date": "2023-10-10",
+  "offer_price": 14000,
+  "open_price": 28000,
+  "first_close": 20750
+ },
+ {
+  "name": "레뷰코퍼레이션",
+  "no": "1968",
+  "listing_date": "2023-10-06",
+  "offer_price": 15000,
+  "open_price": 40000,
+  "first_close": 23000
+ },
+ {
+  "name": "두산로보틱스",
+  "no": "1970",
+  "listing_date": "2023-10-05",
+  "offer_price": 26000,
+  "open_price": 59100,
+  "first_close": 51400
+ },
+ {
+  "name": "한싹",
+  "no": "1967",
+  "listing_date": "2023-10-04",
+  "offer_price": 12500,
+  "open_price": 37350,
+  "first_close": 21500
+ },
+ {
+  "name": "신한스팩11호",
+  "no": "1969",
+  "listing_date": "2023-10-04",
+  "offer_price": 2000,
+  "open_price": 1996,
+  "first_close": 1900
+ },
+ {
+  "name": "밀리의서재",
+  "no": "1963",
+  "listing_date": "2023-09-27",
+  "offer_price": 23000,
+  "open_price": 41100,
+  "first_close": 41600
+ },
+ {
+  "name": "인스웨이브시스템즈",
+  "no": "1959",
+  "listing_date": "2023-09-25",
+  "offer_price": 24000,
+  "open_price": 36100,
+  "first_close": 51500
+ },
+ {
+  "name": "상상인스팩4호",
+  "no": "1960",
+  "listing_date": "2023-09-14",
+  "offer_price": 2000,
+  "open_price": 1982,
+  "first_close": 1983
+ },
+ {
+  "name": "한화플러스스팩4호",
+  "no": "1961",
+  "listing_date": "2023-09-07",
+  "offer_price": 2000,
+  "open_price": 2900,
+  "first_close": 1998
+ },
+ {
+  "name": "대신밸런스스팩16호",
+  "no": "1958",
+  "listing_date": "2023-09-04",
+  "offer_price": 2000,
+  "open_price": 2670,
+  "first_close": 2005
+ },
+ {
+  "name": "유안타스팩11호",
+  "no": "1956",
+  "listing_date": "2023-09-01",
+  "offer_price": 2000,
+  "open_price": 3025,
+  "first_close": 2005
+ },
+ {
+  "name": "대신밸런스스팩15호",
+  "no": "1954",
+  "listing_date": "2023-08-30",
+  "offer_price": 2000,
+  "open_price": 2655,
+  "first_close": 2035
+ },
+ {
+  "name": "한국스팩12호",
+  "no": "1957",
+  "listing_date": "2023-08-30",
+  "offer_price": 2000,
+  "open_price": 3465,
+  "first_close": 2520
+ },
+ {
+  "name": "시큐레터",
+  "no": "1948",
+  "listing_date": "2023-08-24",
+  "offer_price": 12000,
+  "open_price": 19000,
+  "first_close": 24300
+ },
+ {
+  "name": "스마트레이더시스템",
+  "no": "1945",
+  "listing_date": "2023-08-22",
+  "offer_price": 8000,
+  "open_price": 16110,
+  "first_close": 10470
+ },
+ {
+  "name": "넥스틸",
+  "no": "1947",
+  "listing_date": "2023-08-21",
+  "offer_price": 11500,
+  "open_price": 11990,
+  "first_close": 10740
+ },
+ {
+  "name": "빅토리콘텐츠(구.빅텐츠)",
+  "no": "1955",
+  "listing_date": "2023-08-17",
+  "offer_price": 23000,
+  "open_price": 26900,
+  "first_close": 26350
+ },
+ {
+  "name": "SK증권스팩10호",
+  "no": "1946",
+  "listing_date": "2023-08-11",
+  "offer_price": 2000,
+  "open_price": 5000,
+  "first_close": 2490
+ },
+ {
+  "name": "큐리옥스바이오시스템즈",
+  "no": "1940",
+  "listing_date": "2023-08-10",
+  "offer_price": 13000,
+  "open_price": 13000,
+  "first_close": 17330
+ },
+ {
+  "name": "KB스팩26호",
+  "no": "1949",
+  "listing_date": "2023-08-10",
+  "offer_price": 2000,
+  "open_price": 3200,
+  "first_close": 2035
+ },
+ {
+  "name": "코츠테크놀로지",
+  "no": "1950",
+  "listing_date": "2023-08-10",
+  "offer_price": 13000,
+  "open_price": 25000,
+  "first_close": 20400
+ },
+ {
+  "name": "하나스팩28호",
+  "no": "1951",
+  "listing_date": "2023-08-10",
+  "offer_price": 2000,
+  "open_price": 2800,
+  "first_close": 2030
+ },
+ {
+  "name": "파두",
+  "no": "1952",
+  "listing_date": "2023-08-07",
+  "offer_price": 31000,
+  "open_price": 26300,
+  "first_close": 27600
+ },
+ {
+  "name": "엠아이큐브솔루션",
+  "no": "1941",
+  "listing_date": "2023-08-04",
+  "offer_price": 12000,
+  "open_price": 36900,
+  "first_close": 26700
+ },
+ {
+  "name": "시지트로닉스",
+  "no": "1937",
+  "listing_date": "2023-08-03",
+  "offer_price": 25000,
+  "open_price": 26350,
+  "first_close": 23100
+ },
+ {
+  "name": "파로스아이바이오",
+  "no": "1928",
+  "listing_date": "2023-07-27",
+  "offer_price": 14000,
+  "open_price": 12330,
+  "first_close": 8730
+ },
+ {
+  "name": "에이엘티",
+  "no": "1934",
+  "listing_date": "2023-07-27",
+  "offer_price": 25000,
+  "open_price": 31600,
+  "first_close": 22550
+ },
+ {
+  "name": "유안타스팩14호",
+  "no": "1943",
+  "listing_date": "2023-07-27",
+  "offer_price": 2000,
+  "open_price": 3755,
+  "first_close": 2175
+ },
+ {
+  "name": "버넥트",
+  "no": "1933",
+  "listing_date": "2023-07-26",
+  "offer_price": 16000,
+  "open_price": 23600,
+  "first_close": 11700
+ },
+ {
+  "name": "뷰티스킨",
+  "no": "1942",
+  "listing_date": "2023-07-24",
+  "offer_price": 26000,
+  "open_price": 54500,
+  "first_close": 32600
+ },
+ {
+  "name": "SK증권스팩9호",
+  "no": "1953",
+  "listing_date": "2023-07-21",
+  "offer_price": 2000,
+  "open_price": 3385,
+  "first_close": 3860
+ },
+ {
+  "name": "와이랩",
+  "no": "1939",
+  "listing_date": "2023-07-20",
+  "offer_price": 9000,
+  "open_price": 21600,
+  "first_close": 10350
+ },
+ {
+  "name": "센서뷰",
+  "no": "1936",
+  "listing_date": "2023-07-19",
+  "offer_price": 4500,
+  "open_price": 12700,
+  "first_close": 6830
+ },
+ {
+  "name": "필에너지",
+  "no": "1929",
+  "listing_date": "2023-07-14",
+  "offer_price": 34000,
+  "open_price": 122600,
+  "first_close": 114600
+ },
+ {
+  "name": "디비금융스팩11호",
+  "no": "1935",
+  "listing_date": "2023-07-12",
+  "offer_price": 2000,
+  "open_price": 5750,
+  "first_close": 4435
+ },
+ {
+  "name": "이노시뮬레이션",
+  "no": "1922",
+  "listing_date": "2023-07-06",
+  "offer_price": 15000,
+  "open_price": 44850,
+  "first_close": 35000
+ },
+ {
+  "name": "교보스팩14호",
+  "no": "1932",
+  "listing_date": "2023-07-06",
+  "offer_price": 2000,
+  "open_price": 2170,
+  "first_close": 6810
+ },
+ {
+  "name": "오픈놀",
+  "no": "1921",
+  "listing_date": "2023-06-30",
+  "offer_price": 10000,
+  "open_price": 13000,
+  "first_close": 15750
+ },
+ {
+  "name": "알멕",
+  "no": "1930",
+  "listing_date": "2023-06-30",
+  "offer_price": 50000,
+  "open_price": 145400,
+  "first_close": 99500
+ },
+ {
+  "name": "시큐센",
+  "no": "1926",
+  "listing_date": "2023-06-29",
+  "offer_price": 3000,
+  "open_price": 8940,
+  "first_close": 9150
+ },
+ {
+  "name": "하나스팩29호",
+  "no": "1924",
+  "listing_date": "2023-06-28",
+  "offer_price": 2000,
+  "open_price": 2115,
+  "first_close": 2110
+ },
+ {
+  "name": "KB스팩25호",
+  "no": "1927",
+  "listing_date": "2023-06-23",
+  "offer_price": 2000,
+  "open_price": 2140,
+  "first_close": 2130
+ },
+ {
+  "name": "NH스팩29호",
+  "no": "1944",
+  "listing_date": "2023-06-23",
+  "offer_price": 2000,
+  "open_price": 2040,
+  "first_close": 2030
+ },
+ {
+  "name": "하이스팩8호",
+  "no": "1925",
+  "listing_date": "2023-06-22",
+  "offer_price": 2000,
+  "open_price": 2095,
+  "first_close": 2125
+ },
+ {
+  "name": "프로테옴텍",
+  "no": "1917",
+  "listing_date": "2023-06-16",
+  "offer_price": 4500,
+  "open_price": 6500,
+  "first_close": 3235
+ },
+ {
+  "name": "큐라티스",
+  "no": "1916",
+  "listing_date": "2023-06-15",
+  "offer_price": 4000,
+  "open_price": 4500,
+  "first_close": 5850
+ },
+ {
+  "name": "마녀공장",
+  "no": "1920",
+  "listing_date": "2023-06-08",
+  "offer_price": 16000,
+  "open_price": 32000,
+  "first_close": 41600
+ },
+ {
+  "name": "나라셀라",
+  "no": "1912",
+  "listing_date": "2023-06-02",
+  "offer_price": 20000,
+  "open_price": 19500,
+  "first_close": 17500
+ },
+ {
+  "name": "진영(구.진영엘디엠)",
+  "no": "1914",
+  "listing_date": "2023-06-01",
+  "offer_price": 5000,
+  "open_price": 10000,
+  "first_close": 8680
+ },
+ {
+  "name": "기가비스",
+  "no": "1915",
+  "listing_date": "2023-05-24",
+  "offer_price": 43000,
+  "open_price": 71200,
+  "first_close": 79000
+ },
+ {
+  "name": "모니터랩",
+  "no": "1911",
+  "listing_date": "2023-05-19",
+  "offer_price": 9800,
+  "open_price": 19600,
+  "first_close": 14200
+ },
+ {
+  "name": "씨유박스",
+  "no": "1913",
+  "listing_date": "2023-05-19",
+  "offer_price": 15000,
+  "open_price": 15680,
+  "first_close": 13920
+ },
+ {
+  "name": "키움스팩8호",
+  "no": "1919",
+  "listing_date": "2023-05-17",
+  "offer_price": 2000,
+  "open_price": 2050,
+  "first_close": 2070
+ },
+ {
+  "name": "트루엔",
+  "no": "1918",
+  "listing_date": "2023-05-17",
+  "offer_price": 12000,
+  "open_price": 19340,
+  "first_close": 17200
+ },
+ {
+  "name": "에스바이오메딕스",
+  "no": "1897",
+  "listing_date": "2023-05-04",
+  "offer_price": 18000,
+  "open_price": 23150,
+  "first_close": 18830
+ },
+ {
+  "name": "토마토시스템",
+  "no": "1908",
+  "listing_date": "2023-04-27",
+  "offer_price": 18200,
+  "open_price": 18100,
+  "first_close": 14650
+ },
+ {
+  "name": "마이크로투나노",
+  "no": "1909",
+  "listing_date": "2023-04-26",
+  "offer_price": 15500,
+  "open_price": 25200,
+  "first_close": 20650
+ },
+ {
+  "name": "삼성FN리츠 (유가)",
+  "no": "1906",
+  "listing_date": "2023-04-10",
+  "offer_price": 5000,
+  "open_price": 4790,
+  "first_close": 4855
+ },
+ {
+  "name": "미래에셋비전스팩3호",
+  "no": "1903",
+  "listing_date": "2023-04-07",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2005
+ },
+ {
+  "name": "IBKS스팩22호",
+  "no": "1900",
+  "listing_date": "2023-04-06",
+  "offer_price": 2000,
+  "open_price": 2055,
+  "first_close": 2090
+ },
+ {
+  "name": "하나스팩27호",
+  "no": "1904",
+  "listing_date": "2023-04-06",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2005
+ },
+ {
+  "name": "지아이이노베이션",
+  "no": "1893",
+  "listing_date": "2023-03-30",
+  "offer_price": 13000,
+  "open_price": 18950,
+  "first_close": 20250
+ },
+ {
+  "name": "엘비인베스트먼트",
+  "no": "1890",
+  "listing_date": "2023-03-29",
+  "offer_price": 5100,
+  "open_price": 6500,
+  "first_close": 8450
+ },
+ {
+  "name": "한화위탁관리부동산투자회사",
+  "no": "1905",
+  "listing_date": "2023-03-27",
+  "offer_price": 5000,
+  "open_price": 4900,
+  "first_close": 4510
+ },
+ {
+  "name": "유안타스팩12호",
+  "no": "1888",
+  "listing_date": "2023-03-17",
+  "offer_price": 2000,
+  "open_price": 1997,
+  "first_close": 1998
+ },
+ {
+  "name": "미래에셋드림스팩1호",
+  "no": "1892",
+  "listing_date": "2023-03-15",
+  "offer_price": 10000,
+  "open_price": 9370,
+  "first_close": 9410
+ },
+ {
+  "name": "금양그린파워",
+  "no": "1894",
+  "listing_date": "2023-03-13",
+  "offer_price": 10000,
+  "open_price": 19000,
+  "first_close": 16200
+ },
+ {
+  "name": "NH스팩28호",
+  "no": "1891",
+  "listing_date": "2023-03-09",
+  "offer_price": 2000,
+  "open_price": 2100,
+  "first_close": 2100
+ },
+ {
+  "name": "자람테크놀로지",
+  "no": "1886",
+  "listing_date": "2023-03-07",
+  "offer_price": 22000,
+  "open_price": 44000,
+  "first_close": 42700
+ },
+ {
+  "name": "하나스팩26호",
+  "no": "1889",
+  "listing_date": "2023-03-07",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 1999
+ },
+ {
+  "name": "나노팀",
+  "no": "1881",
+  "listing_date": "2023-03-03",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 29800
+ },
+ {
+  "name": "삼성스팩8호",
+  "no": "1884",
+  "listing_date": "2023-03-02",
+  "offer_price": 10000,
+  "open_price": 10100,
+  "first_close": 9980
+ },
+ {
+  "name": "바이오인프라",
+  "no": "1887",
+  "listing_date": "2023-03-02",
+  "offer_price": 21000,
+  "open_price": 42000,
+  "first_close": 29400
+ },
+ {
+  "name": "유안타스팩13호",
+  "no": "1885",
+  "listing_date": "2023-02-28",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 1999
+ },
+ {
+  "name": "미래에셋비전스팩2호",
+  "no": "1882",
+  "listing_date": "2023-02-24",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 2800
+ },
+ {
+  "name": "이노진",
+  "no": "1895",
+  "listing_date": "2023-02-20",
+  "offer_price": 3000,
+  "open_price": 6000,
+  "first_close": 7800
+ },
+ {
+  "name": "제이오",
+  "no": "1878",
+  "listing_date": "2023-02-16",
+  "offer_price": 13000,
+  "open_price": 19900,
+  "first_close": 21500
+ },
+ {
+  "name": "샌즈랩",
+  "no": "1874",
+  "listing_date": "2023-02-15",
+  "offer_price": 10500,
+  "open_price": 21000,
+  "first_close": 24900
+ },
+ {
+  "name": "꿈비",
+  "no": "1880",
+  "listing_date": "2023-02-09",
+  "offer_price": 5000,
+  "open_price": 10000,
+  "first_close": 13000
+ },
+ {
+  "name": "스튜디오미르",
+  "no": "1875",
+  "listing_date": "2023-02-07",
+  "offer_price": 19500,
+  "open_price": 39000,
+  "first_close": 50700
+ },
+ {
+  "name": "삼기이브이",
+  "no": "1877",
+  "listing_date": "2023-02-03",
+  "offer_price": 11000,
+  "open_price": 22000,
+  "first_close": 26850
+ },
+ {
+  "name": "오브젠",
+  "no": "1872",
+  "listing_date": "2023-01-30",
+  "offer_price": 18000,
+  "open_price": 36000,
+  "first_close": 46800
+ },
+ {
+  "name": "미래반도체",
+  "no": "1876",
+  "listing_date": "2023-01-27",
+  "offer_price": 6000,
+  "open_price": 12000,
+  "first_close": 15600
+ },
+ {
+  "name": "한주라이트메탈(구.한주금속)",
+  "no": "1869",
+  "listing_date": "2023-01-19",
+  "offer_price": 3100,
+  "open_price": 4115,
+  "first_close": 5340
+ },
+ {
+  "name": "티이엠씨",
+  "no": "1873",
+  "listing_date": "2023-01-19",
+  "offer_price": 28000,
+  "open_price": 27950,
+  "first_close": 28100
+ },
+ {
+  "name": "신영스팩9호",
+  "no": "1868",
+  "listing_date": "2022-12-27",
+  "offer_price": 2000,
+  "open_price": 1985,
+  "first_close": 1985
+ },
+ {
+  "name": "바이오노트 (유가)",
+  "no": "1856",
+  "listing_date": "2022-12-22",
+  "offer_price": 9000,
+  "open_price": 9980,
+  "first_close": 10650
+ },
+ {
+  "name": "비엔케이스팩1호",
+  "no": "1871",
+  "listing_date": "2022-12-22",
+  "offer_price": 2000,
+  "open_price": 1980,
+  "first_close": 1985
+ },
+ {
+  "name": "IBKS스팩21호",
+  "no": "1863",
+  "listing_date": "2022-12-16",
+  "offer_price": 2000,
+  "open_price": 2015,
+  "first_close": 2000
+ },
+ {
+  "name": "NH스팩27호",
+  "no": "1865",
+  "listing_date": "2022-12-16",
+  "offer_price": 2000,
+  "open_price": 1990,
+  "first_close": 1980
+ },
+ {
+  "name": "에스에이엠지엔터테인먼트",
+  "no": "1854",
+  "listing_date": "2022-12-06",
+  "offer_price": 17000,
+  "open_price": 18050,
+  "first_close": 23450
+ },
+ {
+  "name": "대신밸런스스팩14호",
+  "no": "1862",
+  "listing_date": "2022-12-05",
+  "offer_price": 2000,
+  "open_price": 1985,
+  "first_close": 1995
+ },
+ {
+  "name": "NH스팩26호",
+  "no": "1858",
+  "listing_date": "2022-12-01",
+  "offer_price": 2000,
+  "open_price": 1995,
+  "first_close": 1980
+ },
+ {
+  "name": "유진스팩9호",
+  "no": "1859",
+  "listing_date": "2022-12-01",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 1985
+ },
+ {
+  "name": "대신밸런스스팩13호",
+  "no": "1832",
+  "listing_date": "2022-11-28",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "펨트론",
+  "no": "1843",
+  "listing_date": "2022-11-24",
+  "offer_price": 8000,
+  "open_price": 9820,
+  "first_close": 9210
+ },
+ {
+  "name": "인벤티지랩",
+  "no": "1850",
+  "listing_date": "2022-11-22",
+  "offer_price": 12000,
+  "open_price": 12750,
+  "first_close": 14950
+ },
+ {
+  "name": "엔젯",
+  "no": "1844",
+  "listing_date": "2022-11-18",
+  "offer_price": 10000,
+  "open_price": 9000,
+  "first_close": 10850
+ },
+ {
+  "name": "유비온",
+  "no": "1861",
+  "listing_date": "2022-11-18",
+  "offer_price": 2000,
+  "open_price": 1850,
+  "first_close": 1745
+ },
+ {
+  "name": "티쓰리엔터테인먼트",
+  "no": "1847",
+  "listing_date": "2022-11-17",
+  "offer_price": 1700,
+  "open_price": 2445,
+  "first_close": 2085
+ },
+ {
+  "name": "티에프이",
+  "no": "1855",
+  "listing_date": "2022-11-17",
+  "offer_price": 10500,
+  "open_price": 10000,
+  "first_close": 9260
+ },
+ {
+  "name": "윤성에프앤씨",
+  "no": "1849",
+  "listing_date": "2022-11-14",
+  "offer_price": 49000,
+  "open_price": 44100,
+  "first_close": 40450
+ },
+ {
+  "name": "디티앤씨알오",
+  "no": "1852",
+  "listing_date": "2022-11-11",
+  "offer_price": 17000,
+  "open_price": 15700,
+  "first_close": 13850
+ },
+ {
+  "name": "뉴로메카",
+  "no": "1830",
+  "listing_date": "2022-11-04",
+  "offer_price": 16900,
+  "open_price": 24250,
+  "first_close": 21050
+ },
+ {
+  "name": "제이아이테크",
+  "no": "1846",
+  "listing_date": "2022-11-04",
+  "offer_price": 16000,
+  "open_price": 14400,
+  "first_close": 11900
+ },
+ {
+  "name": "NH스팩25호",
+  "no": "1836",
+  "listing_date": "2022-11-03",
+  "offer_price": 2000,
+  "open_price": 2110,
+  "first_close": 2175
+ },
+ {
+  "name": "KB스팩23호",
+  "no": "1842",
+  "listing_date": "2022-11-03",
+  "offer_price": 2000,
+  "open_price": 1945,
+  "first_close": 1940
+ },
+ {
+  "name": "큐알티",
+  "no": "1841",
+  "listing_date": "2022-11-02",
+  "offer_price": 44000,
+  "open_price": 43000,
+  "first_close": 38350
+ },
+ {
+  "name": "교보스팩13호",
+  "no": "1840",
+  "listing_date": "2022-11-02",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 1975
+ },
+ {
+  "name": "IBKS스팩20호",
+  "no": "1837",
+  "listing_date": "2022-10-28",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2010
+ },
+ {
+  "name": "저스템",
+  "no": "1838",
+  "listing_date": "2022-10-28",
+  "offer_price": 10500,
+  "open_price": 11000,
+  "first_close": 12400
+ },
+ {
+  "name": "산돌",
+  "no": "1835",
+  "listing_date": "2022-10-27",
+  "offer_price": 18800,
+  "open_price": 24150,
+  "first_close": 20850
+ },
+ {
+  "name": "삼성스팩7호",
+  "no": "1833",
+  "listing_date": "2022-10-26",
+  "offer_price": 10000,
+  "open_price": 17150,
+  "first_close": 14100
+ },
+ {
+  "name": "플라즈맵",
+  "no": "1825",
+  "listing_date": "2022-10-21",
+  "offer_price": 7000,
+  "open_price": 8420,
+  "first_close": 6700
+ },
+ {
+  "name": "한국스팩11호",
+  "no": "1813",
+  "listing_date": "2022-10-20",
+  "offer_price": 2000,
+  "open_price": 2045,
+  "first_close": 2035
+ },
+ {
+  "name": "하나금융스팩25호",
+  "no": "1814",
+  "listing_date": "2022-10-20",
+  "offer_price": 10000,
+  "open_price": 9900,
+  "first_close": 9760
+ },
+ {
+  "name": "핀텔",
+  "no": "1818",
+  "listing_date": "2022-10-20",
+  "offer_price": 8900,
+  "open_price": 15300,
+  "first_close": 10850
+ },
+ {
+  "name": "NH스팩24호",
+  "no": "1821",
+  "listing_date": "2022-10-20",
+  "offer_price": 2000,
+  "open_price": 2060,
+  "first_close": 2055
+ },
+ {
+  "name": "샤페론",
+  "no": "1815",
+  "listing_date": "2022-10-19",
+  "offer_price": 5000,
+  "open_price": 9000,
+  "first_close": 8630
+ },
+ {
+  "name": "탑머티리얼",
+  "no": "1831",
+  "listing_date": "2022-10-18",
+  "offer_price": 30000,
+  "open_price": 33500,
+  "first_close": 37000
+ },
+ {
+  "name": "에스비비테크",
+  "no": "1822",
+  "listing_date": "2022-10-17",
+  "offer_price": 12400,
+  "open_price": 23900,
+  "first_close": 31050
+ },
+ {
+  "name": "오에스피",
+  "no": "1828",
+  "listing_date": "2022-10-14",
+  "offer_price": 8400,
+  "open_price": 10850,
+  "first_close": 10050
+ },
+ {
+  "name": "이노룰스",
+  "no": "1819",
+  "listing_date": "2022-10-07",
+  "offer_price": 12500,
+  "open_price": 13150,
+  "first_close": 15850
+ },
+ {
+  "name": "모델솔루션",
+  "no": "1827",
+  "listing_date": "2022-10-07",
+  "offer_price": 27000,
+  "open_price": 29500,
+  "first_close": 30900
+ },
+ {
+  "name": "유안타스팩10호",
+  "no": "1817",
+  "listing_date": "2022-10-06",
+  "offer_price": 2000,
+  "open_price": 2050,
+  "first_close": 2065
+ },
+ {
+  "name": "SK증권스팩8호",
+  "no": "1826",
+  "listing_date": "2022-10-06",
+  "offer_price": 2000,
+  "open_price": 2120,
+  "first_close": 2140
+ },
+ {
+  "name": "KB스타리츠 (유가)",
+  "no": "1829",
+  "listing_date": "2022-10-06",
+  "offer_price": 5000,
+  "open_price": 4500,
+  "first_close": 4340
+ },
+ {
+  "name": "선바이오",
+  "no": "1824",
+  "listing_date": "2022-10-05",
+  "offer_price": 11000,
+  "open_price": 12050,
+  "first_close": 10600
+ },
+ {
+  "name": "더블유씨피",
+  "no": "1807",
+  "listing_date": "2022-09-30",
+  "offer_price": 60000,
+  "open_price": 54000,
+  "first_close": 41700
+ },
+ {
+  "name": "하나금융스팩24호",
+  "no": "1811",
+  "listing_date": "2022-09-29",
+  "offer_price": 2000,
+  "open_price": 2085,
+  "first_close": 2080
+ },
+ {
+  "name": "알피바이오",
+  "no": "1820",
+  "listing_date": "2022-09-29",
+  "offer_price": 13000,
+  "open_price": 19300,
+  "first_close": 18300
+ },
+ {
+  "name": "한화플러스스팩3호",
+  "no": "1823",
+  "listing_date": "2022-09-29",
+  "offer_price": 2000,
+  "open_price": 2110,
+  "first_close": 2125
+ },
+ {
+  "name": "오픈엣지테크놀로지",
+  "no": "1816",
+  "listing_date": "2022-09-26",
+  "offer_price": 10000,
+  "open_price": 10800,
+  "first_close": 10050
+ },
+ {
+  "name": "KB스팩22호",
+  "no": "1812",
+  "listing_date": "2022-09-22",
+  "offer_price": 2000,
+  "open_price": 2105,
+  "first_close": 2110
+ },
+ {
+  "name": "하나금융스팩23호",
+  "no": "1809",
+  "listing_date": "2022-09-15",
+  "offer_price": 2000,
+  "open_price": 2120,
+  "first_close": 2110
+ },
+ {
+  "name": "키움스팩7호",
+  "no": "1808",
+  "listing_date": "2022-09-07",
+  "offer_price": 2000,
+  "open_price": 2110,
+  "first_close": 2120
+ },
+ {
+  "name": "IBKS스팩19호",
+  "no": "1806",
+  "listing_date": "2022-08-26",
+  "offer_price": 2000,
+  "open_price": 2095,
+  "first_close": 2095
+ },
+ {
+  "name": "신영스팩8호",
+  "no": "1810",
+  "listing_date": "2022-08-26",
+  "offer_price": 2000,
+  "open_price": 2105,
+  "first_close": 2105
+ },
+ {
+  "name": "대성하이텍",
+  "no": "1801",
+  "listing_date": "2022-08-22",
+  "offer_price": 9000,
+  "open_price": 13000,
+  "first_close": 14600
+ },
+ {
+  "name": "쏘카 (유가)",
+  "no": "1802",
+  "listing_date": "2022-08-22",
+  "offer_price": 28000,
+  "open_price": 28000,
+  "first_close": 26300
+ },
+ {
+  "name": "에이치와이티씨",
+  "no": "1805",
+  "listing_date": "2022-08-09",
+  "offer_price": 15000,
+  "open_price": 14700,
+  "first_close": 15850
+ },
+ {
+  "name": "유안타스팩9호",
+  "no": "1803",
+  "listing_date": "2022-08-04",
+  "offer_price": 2000,
+  "open_price": 2090,
+  "first_close": 2090
+ },
+ {
+  "name": "새빗켐",
+  "no": "1804",
+  "listing_date": "2022-08-04",
+  "offer_price": 35000,
+  "open_price": 70000,
+  "first_close": 72500
+ },
+ {
+  "name": "수산인더스트리 (유가)",
+  "no": "1800",
+  "listing_date": "2022-08-01",
+  "offer_price": 35000,
+  "open_price": 33000,
+  "first_close": 32500
+ },
+ {
+  "name": "신한스팩10호",
+  "no": "1798",
+  "listing_date": "2022-07-29",
+  "offer_price": 2000,
+  "open_price": 2150,
+  "first_close": 2145
+ },
+ {
+  "name": "아이씨에이치",
+  "no": "1799",
+  "listing_date": "2022-07-29",
+  "offer_price": 34000,
+  "open_price": 30600,
+  "first_close": 27000
+ },
+ {
+  "name": "성일하이텍",
+  "no": "1796",
+  "listing_date": "2022-07-28",
+  "offer_price": 50000,
+  "open_price": 99900,
+  "first_close": 88200
+ },
+ {
+  "name": "에이프릴바이오",
+  "no": "1797",
+  "listing_date": "2022-07-28",
+  "offer_price": 16000,
+  "open_price": 19500,
+  "first_close": 21850
+ },
+ {
+  "name": "IBKS스팩18호",
+  "no": "1792",
+  "listing_date": "2022-07-22",
+  "offer_price": 2000,
+  "open_price": 2185,
+  "first_close": 2145
+ },
+ {
+  "name": "루닛",
+  "no": "1795",
+  "listing_date": "2022-07-21",
+  "offer_price": 30000,
+  "open_price": 30800,
+  "first_close": 40000
+ },
+ {
+  "name": "에이치피에스피",
+  "no": "1794",
+  "listing_date": "2022-07-15",
+  "offer_price": 25000,
+  "open_price": 50000,
+  "first_close": 43250
+ },
+ {
+  "name": "대신밸런스12호스팩",
+  "no": "1791",
+  "listing_date": "2022-07-14",
+  "offer_price": 2000,
+  "open_price": 2170,
+  "first_close": 2135
+ },
+ {
+  "name": "영창케미칼",
+  "no": "1793",
+  "listing_date": "2022-07-14",
+  "offer_price": 18600,
+  "open_price": 18400,
+  "first_close": 16450
+ },
+ {
+  "name": "코난테크놀로지",
+  "no": "1788",
+  "listing_date": "2022-07-07",
+  "offer_price": 25000,
+  "open_price": 35300,
+  "first_close": 30600
+ },
+ {
+  "name": "넥스트칩",
+  "no": "1790",
+  "listing_date": "2022-07-01",
+  "offer_price": 13000,
+  "open_price": 17150,
+  "first_close": 14300
+ },
+ {
+  "name": "삼성스팩6호",
+  "no": "1789",
+  "listing_date": "2022-06-30",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 5200
+ },
+ {
+  "name": "NH스팩23호",
+  "no": "1787",
+  "listing_date": "2022-06-28",
+  "offer_price": 2000,
+  "open_price": 2085,
+  "first_close": 2090
+ },
+ {
+  "name": "교보스팩12호",
+  "no": "1783",
+  "listing_date": "2022-06-24",
+  "offer_price": 2000,
+  "open_price": 2075,
+  "first_close": 2070
+ },
+ {
+  "name": "보로노이",
+  "no": "1784",
+  "listing_date": "2022-06-24",
+  "offer_price": 40000,
+  "open_price": 36000,
+  "first_close": 29350
+ },
+ {
+  "name": "레이저쎌",
+  "no": "1786",
+  "listing_date": "2022-06-24",
+  "offer_price": 16000,
+  "open_price": 20600,
+  "first_close": 17350
+ },
+ {
+  "name": "KB스팩21호",
+  "no": "1785",
+  "listing_date": "2022-06-23",
+  "offer_price": 2000,
+  "open_price": 2100,
+  "first_close": 2100
+ },
+ {
+  "name": "위니아에이드",
+  "no": "1780",
+  "listing_date": "2022-06-23",
+  "offer_price": 16200,
+  "open_price": 14600,
+  "first_close": 11000
+ },
+ {
+  "name": "비플라이소프트",
+  "no": "1779",
+  "listing_date": "2022-06-20",
+  "offer_price": 10000,
+  "open_price": 10500,
+  "first_close": 9050
+ },
+ {
+  "name": "범한퓨얼셀",
+  "no": "1782",
+  "listing_date": "2022-06-17",
+  "offer_price": 40000,
+  "open_price": 41000,
+  "first_close": 47950
+ },
+ {
+  "name": "청담글로벌",
+  "no": "1781",
+  "listing_date": "2022-06-03",
+  "offer_price": 6000,
+  "open_price": 6500,
+  "first_close": 7640
+ },
+ {
+  "name": "마스턴프리미어리츠 (유가)",
+  "no": "1778",
+  "listing_date": "2022-05-31",
+  "offer_price": 5000,
+  "open_price": 5750,
+  "first_close": 6010
+ },
+ {
+  "name": "하나금융스팩22호",
+  "no": "1777",
+  "listing_date": "2022-05-26",
+  "offer_price": 2000,
+  "open_price": 2160,
+  "first_close": 2155
+ },
+ {
+  "name": "가온칩스",
+  "no": "1775",
+  "listing_date": "2022-05-20",
+  "offer_price": 14000,
+  "open_price": 24150,
+  "first_close": 27100
+ },
+ {
+  "name": "대명에너지",
+  "no": "1774",
+  "listing_date": "2022-05-16",
+  "offer_price": 15000,
+  "open_price": 15450,
+  "first_close": 13950
+ },
+ {
+  "name": "상상인스팩3호",
+  "no": "1771",
+  "listing_date": "2022-04-29",
+  "offer_price": 2000,
+  "open_price": 2155,
+  "first_close": 2150
+ },
+ {
+  "name": "신영스팩7호",
+  "no": "1770",
+  "listing_date": "2022-04-28",
+  "offer_price": 2000,
+  "open_price": 2295,
+  "first_close": 2270
+ },
+ {
+  "name": "포바이포",
+  "no": "1769",
+  "listing_date": "2022-04-28",
+  "offer_price": 17000,
+  "open_price": 34000,
+  "first_close": 44200
+ },
+ {
+  "name": "신한스팩9호",
+  "no": "1766",
+  "listing_date": "2022-04-27",
+  "offer_price": 2000,
+  "open_price": 2240,
+  "first_close": 2255
+ },
+ {
+  "name": "미래에셋비전스팩1호",
+  "no": "1765",
+  "listing_date": "2022-04-21",
+  "offer_price": 2000,
+  "open_price": 2270,
+  "first_close": 2295
+ },
+ {
+  "name": "키움스팩6호",
+  "no": "1768",
+  "listing_date": "2022-04-07",
+  "offer_price": 2000,
+  "open_price": 2180,
+  "first_close": 2215
+ },
+ {
+  "name": "지투파워",
+  "no": "1759",
+  "listing_date": "2022-04-01",
+  "offer_price": 16400,
+  "open_price": 32800,
+  "first_close": 35250
+ },
+ {
+  "name": "유진스팩8호",
+  "no": "1767",
+  "listing_date": "2022-03-31",
+  "offer_price": 2000,
+  "open_price": 2115,
+  "first_close": 2110
+ },
+ {
+  "name": "코람코더원리츠 (유가)",
+  "no": "1762",
+  "listing_date": "2022-03-28",
+  "offer_price": 5000,
+  "open_price": 5260,
+  "first_close": 5410
+ },
+ {
+  "name": "세아메카닉스",
+  "no": "1764",
+  "listing_date": "2022-03-24",
+  "offer_price": 4400,
+  "open_price": 8800,
+  "first_close": 7600
+ },
+ {
+  "name": "공구우먼",
+  "no": "1763",
+  "listing_date": "2022-03-23",
+  "offer_price": 20000,
+  "open_price": 21600,
+  "first_close": 20000
+ },
+ {
+  "name": "유일로보틱스",
+  "no": "1761",
+  "listing_date": "2022-03-18",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 26000
+ },
+ {
+  "name": "모아데이타",
+  "no": "1758",
+  "listing_date": "2022-03-10",
+  "offer_price": 20000,
+  "open_price": 18000,
+  "first_close": 16050
+ },
+ {
+  "name": "SK증권스팩7호",
+  "no": "1755",
+  "listing_date": "2022-03-07",
+  "offer_price": 2000,
+  "open_price": 2135,
+  "first_close": 2130
+ },
+ {
+  "name": "노을",
+  "no": "1754",
+  "listing_date": "2022-03-03",
+  "offer_price": 10000,
+  "open_price": 9670,
+  "first_close": 9210
+ },
+ {
+  "name": "비씨엔씨",
+  "no": "1756",
+  "listing_date": "2022-03-03",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 22600
+ },
+ {
+  "name": "풍원정밀",
+  "no": "1752",
+  "listing_date": "2022-02-28",
+  "offer_price": 15200,
+  "open_price": 20200,
+  "first_close": 21450
+ },
+ {
+  "name": "스톤브릿지벤처스",
+  "no": "1750",
+  "listing_date": "2022-02-25",
+  "offer_price": 8000,
+  "open_price": 7200,
+  "first_close": 6510
+ },
+ {
+  "name": "하나금융스팩21호",
+  "no": "1753",
+  "listing_date": "2022-02-25",
+  "offer_price": 2000,
+  "open_price": 2080,
+  "first_close": 2090
+ },
+ {
+  "name": "브이씨",
+  "no": "1748",
+  "listing_date": "2022-02-24",
+  "offer_price": 15000,
+  "open_price": 17400,
+  "first_close": 15350
+ },
+ {
+  "name": "퓨런티어",
+  "no": "1749",
+  "listing_date": "2022-02-23",
+  "offer_price": 15000,
+  "open_price": 30000,
+  "first_close": 31200
+ },
+ {
+  "name": "바이오에프디엔씨",
+  "no": "1746",
+  "listing_date": "2022-02-21",
+  "offer_price": 28000,
+  "open_price": 25200,
+  "first_close": 22200
+ },
+ {
+  "name": "한국스팩10호",
+  "no": "1747",
+  "listing_date": "2022-02-21",
+  "offer_price": 2000,
+  "open_price": 2130,
+  "first_close": 2130
+ },
+ {
+  "name": "IBKS스팩17호",
+  "no": "1744",
+  "listing_date": "2022-02-18",
+  "offer_price": 2000,
+  "open_price": 2660,
+  "first_close": 2315
+ },
+ {
+  "name": "인카금융서비스",
+  "no": "1751",
+  "listing_date": "2022-02-16",
+  "offer_price": 18000,
+  "open_price": 17250,
+  "first_close": 14400
+ },
+ {
+  "name": "나래나노텍",
+  "no": "1741",
+  "listing_date": "2022-02-08",
+  "offer_price": 17500,
+  "open_price": 15750,
+  "first_close": 13900
+ },
+ {
+  "name": "아셈스",
+  "no": "1745",
+  "listing_date": "2022-02-07",
+  "offer_price": 8000,
+  "open_price": 16000,
+  "first_close": 13500
+ },
+ {
+  "name": "스코넥",
+  "no": "1742",
+  "listing_date": "2022-02-04",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 24450
+ },
+ {
+  "name": "이지트로닉스",
+  "no": "1743",
+  "listing_date": "2022-02-04",
+  "offer_price": 22000,
+  "open_price": 23450,
+  "first_close": 25500
+ },
+ {
+  "name": "LG에너지솔루션 (유가)",
+  "no": "1737",
+  "listing_date": "2022-01-27",
+  "offer_price": 300000,
+  "open_price": 597000,
+  "first_close": 505000
+ },
+ {
+  "name": "애드바이오텍",
+  "no": "1736",
+  "listing_date": "2022-01-24",
+  "offer_price": 7000,
+  "open_price": 6730,
+  "first_close": 5950
+ },
+ {
+  "name": "케이옥션",
+  "no": "1739",
+  "listing_date": "2022-01-24",
+  "offer_price": 20000,
+  "open_price": 40000,
+  "first_close": 52000
+ },
+ {
+  "name": "오토앤",
+  "no": "1732",
+  "listing_date": "2022-01-20",
+  "offer_price": 5300,
+  "open_price": 8800,
+  "first_close": 11400
+ },
+ {
+  "name": "디비금융스팩10호",
+  "no": "1740",
+  "listing_date": "2022-01-20",
+  "offer_price": 2000,
+  "open_price": 2075,
+  "first_close": 2115
+ },
+ {
+  "name": "래몽래인",
+  "no": "1733",
+  "listing_date": "2021-12-30",
+  "offer_price": 15000,
+  "open_price": 26000,
+  "first_close": 24000
+ },
+ {
+  "name": "하나금융스팩20호",
+  "no": "1734",
+  "listing_date": "2021-12-27",
+  "offer_price": 2000,
+  "open_price": 2130,
+  "first_close": 2135
+ },
+ {
+  "name": "NH스팩22호",
+  "no": "1735",
+  "listing_date": "2021-12-24",
+  "offer_price": 2000,
+  "open_price": 2090,
+  "first_close": 2085
+ },
+ {
+  "name": "하이스팩7호",
+  "no": "1729",
+  "listing_date": "2021-12-20",
+  "offer_price": 2000,
+  "open_price": 2060,
+  "first_close": 2085
+ },
+ {
+  "name": "교보스팩11호",
+  "no": "1731",
+  "listing_date": "2021-12-20",
+  "offer_price": 2000,
+  "open_price": 2065,
+  "first_close": 2095
+ },
+ {
+  "name": "케이티비네트워크",
+  "no": "1726",
+  "listing_date": "2021-12-16",
+  "offer_price": 5800,
+  "open_price": 6030,
+  "first_close": 5350
+ },
+ {
+  "name": "신한서부티엔디리츠 (유가)",
+  "no": "1728",
+  "listing_date": "2021-12-10",
+  "offer_price": 5000,
+  "open_price": 4805,
+  "first_close": 4915
+ },
+ {
+  "name": "툴젠",
+  "no": "1730",
+  "listing_date": "2021-12-10",
+  "offer_price": 70000,
+  "open_price": 82300,
+  "first_close": 91100
+ },
+ {
+  "name": "미래에셋글로벌리츠 (유가)",
+  "no": "1727",
+  "listing_date": "2021-12-03",
+  "offer_price": 5000,
+  "open_price": 5310,
+  "first_close": 5230
+ },
+ {
+  "name": "대신밸런스스팩11호",
+  "no": "1725",
+  "listing_date": "2021-12-02",
+  "offer_price": 2000,
+  "open_price": 2060,
+  "first_close": 2070
+ },
+ {
+  "name": "마인즈랩",
+  "no": "1724",
+  "listing_date": "2021-11-23",
+  "offer_price": 30000,
+  "open_price": 29650,
+  "first_close": 38000
+ },
+ {
+  "name": "알비더블유",
+  "no": "1722",
+  "listing_date": "2021-11-22",
+  "offer_price": 21400,
+  "open_price": 42800,
+  "first_close": 38950
+ },
+ {
+  "name": "바이옵트로",
+  "no": "1721",
+  "listing_date": "2021-11-18",
+  "offer_price": 7500,
+  "open_price": 7300,
+  "first_close": 6290
+ },
+ {
+  "name": "NH올원리츠 (유가)",
+  "no": "1723",
+  "listing_date": "2021-11-18",
+  "offer_price": 5000,
+  "open_price": 5490,
+  "first_close": 5370
+ },
+ {
+  "name": "트윔",
+  "no": "1720",
+  "listing_date": "2021-11-17",
+  "offer_price": 22000,
+  "open_price": 44000,
+  "first_close": 41100
+ },
+ {
+  "name": "지오엘리먼트",
+  "no": "1711",
+  "listing_date": "2021-11-11",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 15900
+ },
+ {
+  "name": "아이티아이즈",
+  "no": "1718",
+  "listing_date": "2021-11-11",
+  "offer_price": 14300,
+  "open_price": 28600,
+  "first_close": 20050
+ },
+ {
+  "name": "비트나인",
+  "no": "1709",
+  "listing_date": "2021-11-10",
+  "offer_price": 11000,
+  "open_price": 15250,
+  "first_close": 11400
+ },
+ {
+  "name": "디어유",
+  "no": "1717",
+  "listing_date": "2021-11-10",
+  "offer_price": 26000,
+  "open_price": 52000,
+  "first_close": 66500
+ },
+ {
+  "name": "지니너스",
+  "no": "1716",
+  "listing_date": "2021-11-08",
+  "offer_price": 20000,
+  "open_price": 18000,
+  "first_close": 13400
+ },
+ {
+  "name": "카카오페이 (유가)",
+  "no": "1682",
+  "listing_date": "2021-11-03",
+  "offer_price": 90000,
+  "open_price": 180000,
+  "first_close": 193000
+ },
+ {
+  "name": "피코그램",
+  "no": "1715",
+  "listing_date": "2021-11-03",
+  "offer_price": 12500,
+  "open_price": 25000,
+  "first_close": 18600
+ },
+ {
+  "name": "엔켐",
+  "no": "1714",
+  "listing_date": "2021-11-01",
+  "offer_price": 42000,
+  "open_price": 81600,
+  "first_close": 80000
+ },
+ {
+  "name": "리파인",
+  "no": "1705",
+  "listing_date": "2021-10-29",
+  "offer_price": 21000,
+  "open_price": 18900,
+  "first_close": 14300
+ },
+ {
+  "name": "지앤비에스엔지니어링",
+  "no": "1713",
+  "listing_date": "2021-10-29",
+  "offer_price": 17400,
+  "open_price": 24000,
+  "first_close": 19200
+ },
+ {
+  "name": "아이패밀리에스씨",
+  "no": "1712",
+  "listing_date": "2021-10-28",
+  "offer_price": 25000,
+  "open_price": 28650,
+  "first_close": 25400
+ },
+ {
+  "name": "차백신연구소",
+  "no": "1695",
+  "listing_date": "2021-10-22",
+  "offer_price": 11000,
+  "open_price": 11700,
+  "first_close": 13000
+ },
+ {
+  "name": "지아이텍",
+  "no": "1710",
+  "listing_date": "2021-10-21",
+  "offer_price": 14000,
+  "open_price": 28000,
+  "first_close": 36400
+ },
+ {
+  "name": "NH스팩21호",
+  "no": "1697",
+  "listing_date": "2021-10-15",
+  "offer_price": 2000,
+  "open_price": 2075,
+  "first_close": 2075
+ },
+ {
+  "name": "케이카 (유가)",
+  "no": "1707",
+  "listing_date": "2021-10-13",
+  "offer_price": 25000,
+  "open_price": 22500,
+  "first_close": 23000
+ },
+ {
+  "name": "씨유테크",
+  "no": "1706",
+  "listing_date": "2021-10-08",
+  "offer_price": 6000,
+  "open_price": 12000,
+  "first_close": 8400
+ },
+ {
+  "name": "원준",
+  "no": "1702",
+  "listing_date": "2021-10-07",
+  "offer_price": 65000,
+  "open_price": 102000,
+  "first_close": 87000
+ },
+ {
+  "name": "하나금융스팩19호",
+  "no": "1703",
+  "listing_date": "2021-10-07",
+  "offer_price": 2000,
+  "open_price": 2045,
+  "first_close": 2045
+ },
+ {
+  "name": "아스플로",
+  "no": "1704",
+  "listing_date": "2021-10-07",
+  "offer_price": 25000,
+  "open_price": 36000,
+  "first_close": 28350
+ },
+ {
+  "name": "NH스팩20호",
+  "no": "1692",
+  "listing_date": "2021-10-05",
+  "offer_price": 2000,
+  "open_price": 2030,
+  "first_close": 2050
+ },
+ {
+  "name": "에스앤디",
+  "no": "1687",
+  "listing_date": "2021-09-29",
+  "offer_price": 28000,
+  "open_price": 25200,
+  "first_close": 21700
+ },
+ {
+  "name": "실리콘투",
+  "no": "1700",
+  "listing_date": "2021-09-29",
+  "offer_price": 27200,
+  "open_price": 38500,
+  "first_close": 29000
+ },
+ {
+  "name": "프롬바이오",
+  "no": "1701",
+  "listing_date": "2021-09-28",
+  "offer_price": 18000,
+  "open_price": 19250,
+  "first_close": 19850
+ },
+ {
+  "name": "신한스팩8호",
+  "no": "1694",
+  "listing_date": "2021-09-27",
+  "offer_price": 2000,
+  "open_price": 2100,
+  "first_close": 2080
+ },
+ {
+  "name": "바이오플러스",
+  "no": "1699",
+  "listing_date": "2021-09-27",
+  "offer_price": 31500,
+  "open_price": 39500,
+  "first_close": 32450
+ },
+ {
+  "name": "대신밸런스스팩10호",
+  "no": "1693",
+  "listing_date": "2021-09-17",
+  "offer_price": 2000,
+  "open_price": 2305,
+  "first_close": 2220
+ },
+ {
+  "name": "현대중공업 (유가)",
+  "no": "1696",
+  "listing_date": "2021-09-17",
+  "offer_price": 60000,
+  "open_price": 111000,
+  "first_close": 111500
+ },
+ {
+  "name": "SK리츠 (유가)",
+  "no": "1698",
+  "listing_date": "2021-09-14",
+  "offer_price": 5000,
+  "open_price": 5340,
+  "first_close": 5780
+ },
+ {
+  "name": "유진스팩7호",
+  "no": "1690",
+  "listing_date": "2021-09-13",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 2800
+ },
+ {
+  "name": "와이엠텍",
+  "no": "1691",
+  "listing_date": "2021-09-10",
+  "offer_price": 28000,
+  "open_price": 56000,
+  "first_close": 59000
+ },
+ {
+  "name": "에이비온",
+  "no": "1686",
+  "listing_date": "2021-09-08",
+  "offer_price": 17000,
+  "open_price": 16800,
+  "first_close": 15700
+ },
+ {
+  "name": "IBKS스팩16호",
+  "no": "1689",
+  "listing_date": "2021-09-03",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 2475
+ },
+ {
+  "name": "일진하이솔루스 (유가)",
+  "no": "1684",
+  "listing_date": "2021-09-01",
+  "offer_price": 34300,
+  "open_price": 68600,
+  "first_close": 89100
+ },
+ {
+  "name": "디앤디플랫폼리츠",
+  "no": "1688",
+  "listing_date": "2021-08-27",
+  "offer_price": 5000,
+  "open_price": 5390,
+  "first_close": 5290
+ },
+ {
+  "name": "바이젠셀",
+  "no": "1677",
+  "listing_date": "2021-08-25",
+  "offer_price": 52700,
+  "open_price": 73500,
+  "first_close": 59500
+ },
+ {
+  "name": "아주스틸 (유가)",
+  "no": "1683",
+  "listing_date": "2021-08-20",
+  "offer_price": 15100,
+  "open_price": 30200,
+  "first_close": 33500
+ },
+ {
+  "name": "브레인즈컴퍼니",
+  "no": "1672",
+  "listing_date": "2021-08-19",
+  "offer_price": 25000,
+  "open_price": 50000,
+  "first_close": 65000
+ },
+ {
+  "name": "롯데렌탈 (유가)",
+  "no": "1685",
+  "listing_date": "2021-08-19",
+  "offer_price": 59000,
+  "open_price": 57500,
+  "first_close": 55500
+ },
+ {
+  "name": "딥노이드",
+  "no": "1674",
+  "listing_date": "2021-08-17",
+  "offer_price": 42000,
+  "open_price": 72000,
+  "first_close": 50400
+ },
+ {
+  "name": "한컴라이프케어 (유가)",
+  "no": "1681",
+  "listing_date": "2021-08-17",
+  "offer_price": 13700,
+  "open_price": 16050,
+  "first_close": 12800
+ },
+ {
+  "name": "엠로",
+  "no": "1680",
+  "listing_date": "2021-08-13",
+  "offer_price": 22600,
+  "open_price": 32700,
+  "first_close": 28300
+ },
+ {
+  "name": "플래티어",
+  "no": "1673",
+  "listing_date": "2021-08-12",
+  "offer_price": 11000,
+  "open_price": 22000,
+  "first_close": 28600
+ },
+ {
+  "name": "원티드랩",
+  "no": "1675",
+  "listing_date": "2021-08-11",
+  "offer_price": 35000,
+  "open_price": 70000,
+  "first_close": 91000
+ },
+ {
+  "name": "크래프톤 (유가)",
+  "no": "1671",
+  "listing_date": "2021-08-10",
+  "offer_price": 498000,
+  "open_price": 448500,
+  "first_close": 454000
+ },
+ {
+  "name": "에이치케이이노엔",
+  "no": "1678",
+  "listing_date": "2021-08-09",
+  "offer_price": 59000,
+  "open_price": 68100,
+  "first_close": 68500
+ },
+ {
+  "name": "카카오뱅크 (유가)",
+  "no": "1676",
+  "listing_date": "2021-08-06",
+  "offer_price": 39000,
+  "open_price": 53700,
+  "first_close": 69800
+ },
+ {
+  "name": "한화플러스스팩2호",
+  "no": "1679",
+  "listing_date": "2021-08-05",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": null
+ },
+ {
+  "name": "에브리봇",
+  "no": "1669",
+  "listing_date": "2021-07-28",
+  "offer_price": 36700,
+  "open_price": 33050,
+  "first_close": 30300
+ },
+ {
+  "name": "맥스트",
+  "no": "1668",
+  "listing_date": "2021-07-27",
+  "offer_price": 15000,
+  "open_price": 30000,
+  "first_close": 39000
+ },
+ {
+  "name": "큐라클",
+  "no": "1670",
+  "listing_date": "2021-07-22",
+  "offer_price": 25000,
+  "open_price": 36500,
+  "first_close": 30650
+ },
+ {
+  "name": "에스디바이오센서 (유가)",
+  "no": "1667",
+  "listing_date": "2021-07-16",
+  "offer_price": 52000,
+  "open_price": 57000,
+  "first_close": 61000
+ },
+ {
+  "name": "오비고",
+  "no": "1665",
+  "listing_date": "2021-07-13",
+  "offer_price": 14300,
+  "open_price": 19200,
+  "first_close": 20700
+ },
+ {
+  "name": "아모센스",
+  "no": "1647",
+  "listing_date": "2021-06-25",
+  "offer_price": 12400,
+  "open_price": 12250,
+  "first_close": 15900
+ },
+ {
+  "name": "이노뎁",
+  "no": "1663",
+  "listing_date": "2021-06-18",
+  "offer_price": 18000,
+  "open_price": 22200,
+  "first_close": 18050
+ },
+ {
+  "name": "삼성머스트스팩5호",
+  "no": "1664",
+  "listing_date": "2021-06-17",
+  "offer_price": 2000,
+  "open_price": 4000,
+  "first_close": 5200
+ },
+ {
+  "name": "라온테크",
+  "no": "1666",
+  "listing_date": "2021-06-17",
+  "offer_price": 18000,
+  "open_price": 20250,
+  "first_close": 20500
+ },
+ {
+  "name": "엘비루셈",
+  "no": "1662",
+  "listing_date": "2021-06-11",
+  "offer_price": 14000,
+  "open_price": 18000,
+  "first_close": 15200
+ },
+ {
+  "name": "에이디엠코리아",
+  "no": "1661",
+  "listing_date": "2021-06-03",
+  "offer_price": 3800,
+  "open_price": 7600,
+  "first_close": 9880
+ },
+ {
+  "name": "제주맥주",
+  "no": "1654",
+  "listing_date": "2021-05-26",
+  "offer_price": 3200,
+  "open_price": 4780,
+  "first_close": 4900
+ },
+ {
+  "name": "진시스템",
+  "no": "1659",
+  "listing_date": "2021-05-26",
+  "offer_price": 20000,
+  "open_price": 19100,
+  "first_close": 17400
+ },
+ {
+  "name": "삼영에스앤씨",
+  "no": "1651",
+  "listing_date": "2021-05-21",
+  "offer_price": 11000,
+  "open_price": 22000,
+  "first_close": 28600
+ },
+ {
+  "name": "삼성스팩4호",
+  "no": "1658",
+  "listing_date": "2021-05-21",
+  "offer_price": 2000,
+  "open_price": 2070,
+  "first_close": 2105
+ },
+ {
+  "name": "NH스팩19호 (유가)",
+  "no": "1660",
+  "listing_date": "2021-05-21",
+  "offer_price": 2000,
+  "open_price": 2075,
+  "first_close": 2100
+ },
+ {
+  "name": "샘씨엔에스",
+  "no": "1657",
+  "listing_date": "2021-05-20",
+  "offer_price": 6500,
+  "open_price": 6400,
+  "first_close": 8320
+ },
+ {
+  "name": "씨앤씨인터내셔널",
+  "no": "1655",
+  "listing_date": "2021-05-17",
+  "offer_price": 47500,
+  "open_price": 47250,
+  "first_close": 41150
+ },
+ {
+  "name": "에이치피오",
+  "no": "1648",
+  "listing_date": "2021-05-14",
+  "offer_price": 22200,
+  "open_price": 20000,
+  "first_close": 16750
+ },
+ {
+  "name": "SK아이이테크놀로지 (유가)",
+  "no": "1653",
+  "listing_date": "2021-05-11",
+  "offer_price": 105000,
+  "open_price": 210000,
+  "first_close": 154500
+ },
+ {
+  "name": "하이스팩6호",
+  "no": "1652",
+  "listing_date": "2021-05-10",
+  "offer_price": 2000,
+  "open_price": 2060,
+  "first_close": 2065
+ },
+ {
+  "name": "쿠콘",
+  "no": "1650",
+  "listing_date": "2021-04-28",
+  "offer_price": 45000,
+  "open_price": 80000,
+  "first_close": 65500
+ },
+ {
+  "name": "해성티피씨",
+  "no": "1644",
+  "listing_date": "2021-04-21",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 33800
+ },
+ {
+  "name": "이삭엔지니어링",
+  "no": "1649",
+  "listing_date": "2021-04-21",
+  "offer_price": 11500,
+  "open_price": 23000,
+  "first_close": 26150
+ },
+ {
+  "name": "유진스팩6호",
+  "no": "1646",
+  "listing_date": "2021-04-08",
+  "offer_price": 2000,
+  "open_price": 2050,
+  "first_close": 2045
+ },
+ {
+  "name": "유안타스팩8호",
+  "no": "1611",
+  "listing_date": "2021-04-05",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2005
+ },
+ {
+  "name": "엔시스",
+  "no": "1643",
+  "listing_date": "2021-04-01",
+  "offer_price": 19000,
+  "open_price": 38000,
+  "first_close": 31400
+ },
+ {
+  "name": "자이언트스텝",
+  "no": "1633",
+  "listing_date": "2021-03-24",
+  "offer_price": 11000,
+  "open_price": 22000,
+  "first_close": 28600
+ },
+ {
+  "name": "제노코",
+  "no": "1642",
+  "listing_date": "2021-03-24",
+  "offer_price": 36000,
+  "open_price": 65000,
+  "first_close": 80100
+ },
+ {
+  "name": "라이프시맨틱스",
+  "no": "1634",
+  "listing_date": "2021-03-23",
+  "offer_price": 12500,
+  "open_price": 25000,
+  "first_close": 17500
+ },
+ {
+  "name": "SK바이오사이언스 (유가)",
+  "no": "1641",
+  "listing_date": "2021-03-18",
+  "offer_price": 65000,
+  "open_price": 130000,
+  "first_close": 169000
+ },
+ {
+  "name": "바이오다인",
+  "no": "1635",
+  "listing_date": "2021-03-17",
+  "offer_price": 30000,
+  "open_price": 40000,
+  "first_close": 42600
+ },
+ {
+  "name": "네오이뮨텍",
+  "no": "1629",
+  "listing_date": "2021-03-16",
+  "offer_price": 7500,
+  "open_price": 15000,
+  "first_close": 14350
+ },
+ {
+  "name": "디비금융스팩9호",
+  "no": "1640",
+  "listing_date": "2021-03-16",
+  "offer_price": 2000,
+  "open_price": 2025,
+  "first_close": 2020
+ },
+ {
+  "name": "프레스티지바이오로직스",
+  "no": "1637",
+  "listing_date": "2021-03-11",
+  "offer_price": 12400,
+  "open_price": 12100,
+  "first_close": 14300
+ },
+ {
+  "name": "싸이버원",
+  "no": "1638",
+  "listing_date": "2021-03-11",
+  "offer_price": 9500,
+  "open_price": 18000,
+  "first_close": 21200
+ },
+ {
+  "name": "나노씨엠에스",
+  "no": "1628",
+  "listing_date": "2021-03-09",
+  "offer_price": 20000,
+  "open_price": 33000,
+  "first_close": 23950
+ },
+ {
+  "name": "하나머스트스팩7호",
+  "no": "1636",
+  "listing_date": "2021-03-05",
+  "offer_price": 2000,
+  "open_price": 2055,
+  "first_close": 2050
+ },
+ {
+  "name": "뷰노",
+  "no": "1621",
+  "listing_date": "2021-02-26",
+  "offer_price": 21000,
+  "open_price": 32900,
+  "first_close": 32150
+ },
+ {
+  "name": "IBKS스팩15호",
+  "no": "1631",
+  "listing_date": "2021-02-26",
+  "offer_price": 2000,
+  "open_price": 2060,
+  "first_close": 2070
+ },
+ {
+  "name": "유일에너테크",
+  "no": "1625",
+  "listing_date": "2021-02-25",
+  "offer_price": 16000,
+  "open_price": 32000,
+  "first_close": 34500
+ },
+ {
+  "name": "씨이랩",
+  "no": "1622",
+  "listing_date": "2021-02-24",
+  "offer_price": 35000,
+  "open_price": 46600,
+  "first_close": 40800
+ },
+ {
+  "name": "오로스테크놀로지",
+  "no": "1632",
+  "listing_date": "2021-02-24",
+  "offer_price": 21000,
+  "open_price": 42000,
+  "first_close": 54600
+ },
+ {
+  "name": "피엔에이치테크",
+  "no": "1630",
+  "listing_date": "2021-02-16",
+  "offer_price": 18000,
+  "open_price": 20500,
+  "first_close": 23850
+ },
+ {
+  "name": "하나금융스팩17호",
+  "no": "1627",
+  "listing_date": "2021-02-10",
+  "offer_price": 2000,
+  "open_price": 2045,
+  "first_close": 2050
+ },
+ {
+  "name": "프레스티지바이오파마 (유가)",
+  "no": "1605",
+  "listing_date": "2021-02-05",
+  "offer_price": 32000,
+  "open_price": 28800,
+  "first_close": 32800
+ },
+ {
+  "name": "아이퀘스트",
+  "no": "1624",
+  "listing_date": "2021-02-05",
+  "offer_price": 11000,
+  "open_price": 22000,
+  "first_close": 20000
+ },
+ {
+  "name": "신한스팩7호",
+  "no": "1623",
+  "listing_date": "2021-02-04",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2030
+ },
+ {
+  "name": "와이더플래닛",
+  "no": "1610",
+  "listing_date": "2021-02-03",
+  "offer_price": 16000,
+  "open_price": 24900,
+  "first_close": 20000
+ },
+ {
+  "name": "레인보우로보틱스",
+  "no": "1615",
+  "listing_date": "2021-02-03",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 26000
+ },
+ {
+  "name": "솔루엠 (유가)",
+  "no": "1620",
+  "listing_date": "2021-02-02",
+  "offer_price": 17000,
+  "open_price": 34000,
+  "first_close": 29150
+ },
+ {
+  "name": "핑거",
+  "no": "1619",
+  "listing_date": "2021-01-29",
+  "offer_price": 16000,
+  "open_price": 32000,
+  "first_close": 29100
+ },
+ {
+  "name": "씨앤투스성진",
+  "no": "1618",
+  "listing_date": "2021-01-28",
+  "offer_price": 32000,
+  "open_price": 31700,
+  "first_close": 28700
+ },
+ {
+  "name": "모비릭스",
+  "no": "1617",
+  "listing_date": "2021-01-28",
+  "offer_price": 14000,
+  "open_price": 28000,
+  "first_close": 36400
+ },
+ {
+  "name": "선진뷰티사이언스",
+  "no": "1614",
+  "listing_date": "2021-01-27",
+  "offer_price": 11500,
+  "open_price": 23000,
+  "first_close": 29900
+ },
+ {
+  "name": "엔비티",
+  "no": "1596",
+  "listing_date": "2021-01-21",
+  "offer_price": 19000,
+  "open_price": 38000,
+  "first_close": 36500
+ },
+ {
+  "name": "한국스팩9호",
+  "no": "1616",
+  "listing_date": "2021-01-21",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2030
+ },
+ {
+  "name": "지놈앤컴퍼니",
+  "no": "1600",
+  "listing_date": "2020-12-23",
+  "offer_price": 40000,
+  "open_price": 80000,
+  "first_close": 68800
+ },
+ {
+  "name": "대신밸런스스팩9호",
+  "no": "1609",
+  "listing_date": "2020-12-23",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2050
+ },
+ {
+  "name": "석경에이티",
+  "no": "1612",
+  "listing_date": "2020-12-23",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 26000
+ },
+ {
+  "name": "이에스알켄달스퀘어리츠 (유가)",
+  "no": "1613",
+  "listing_date": "2020-12-23",
+  "offer_price": 5000,
+  "open_price": 4970,
+  "first_close": 5190
+ },
+ {
+  "name": "프리시젼바이오",
+  "no": "1607",
+  "listing_date": "2020-12-22",
+  "offer_price": 12500,
+  "open_price": 25000,
+  "first_close": 32500
+ },
+ {
+  "name": "알체라",
+  "no": "1591",
+  "listing_date": "2020-12-21",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 26000
+ },
+ {
+  "name": "엔에이치스팩18호",
+  "no": "1606",
+  "listing_date": "2020-12-21",
+  "offer_price": 2000,
+  "open_price": 2025,
+  "first_close": 2025
+ },
+ {
+  "name": "에프앤가이드",
+  "no": "1608",
+  "listing_date": "2020-12-17",
+  "offer_price": 7000,
+  "open_price": 14000,
+  "first_close": 12850
+ },
+ {
+  "name": "에이치엠씨아이비스팩5호",
+  "no": "1602",
+  "listing_date": "2020-12-16",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": null
+ },
+ {
+  "name": "티엘비",
+  "no": "1604",
+  "listing_date": "2020-12-14",
+  "offer_price": 38000,
+  "open_price": 75900,
+  "first_close": 54500
+ },
+ {
+  "name": "인바이오",
+  "no": "1597",
+  "listing_date": "2020-12-11",
+  "offer_price": 5800,
+  "open_price": 11600,
+  "first_close": 12200
+ },
+ {
+  "name": "엔젠바이오",
+  "no": "1598",
+  "listing_date": "2020-12-10",
+  "offer_price": 14000,
+  "open_price": 28000,
+  "first_close": 25650
+ },
+ {
+  "name": "퀀타매트릭스",
+  "no": "1588",
+  "listing_date": "2020-12-09",
+  "offer_price": 25500,
+  "open_price": 25050,
+  "first_close": 24100
+ },
+ {
+  "name": "디비금융스팩8호",
+  "no": "1599",
+  "listing_date": "2020-12-09",
+  "offer_price": 2000,
+  "open_price": 1985,
+  "first_close": 1985
+ },
+ {
+  "name": "명신산업 (유가)",
+  "no": "1589",
+  "listing_date": "2020-12-07",
+  "offer_price": 6500,
+  "open_price": 13000,
+  "first_close": 16900
+ },
+ {
+  "name": "클리노믹스",
+  "no": "1585",
+  "listing_date": "2020-12-04",
+  "offer_price": 13900,
+  "open_price": 18500,
+  "first_close": 19000
+ },
+ {
+  "name": "포인트모바일",
+  "no": "1583",
+  "listing_date": "2020-12-03",
+  "offer_price": 15000,
+  "open_price": 30000,
+  "first_close": 30550
+ },
+ {
+  "name": "엔에프씨",
+  "no": "1594",
+  "listing_date": "2020-12-02",
+  "offer_price": 13400,
+  "open_price": 20700,
+  "first_close": 16950
+ },
+ {
+  "name": "앱코",
+  "no": "1595",
+  "listing_date": "2020-12-02",
+  "offer_price": 24300,
+  "open_price": 30150,
+  "first_close": 28900
+ },
+ {
+  "name": "제일전기공업",
+  "no": "1593",
+  "listing_date": "2020-11-26",
+  "offer_price": 17000,
+  "open_price": 34000,
+  "first_close": 28650
+ },
+ {
+  "name": "하나기술",
+  "no": "1592",
+  "listing_date": "2020-11-25",
+  "offer_price": 35000,
+  "open_price": 70000,
+  "first_close": 91000
+ },
+ {
+  "name": "티앤엘",
+  "no": "1581",
+  "listing_date": "2020-11-20",
+  "offer_price": 36000,
+  "open_price": 72000,
+  "first_close": 54000
+ },
+ {
+  "name": "에이플러스에셋어드바이저 (유가)",
+  "no": "1590",
+  "listing_date": "2020-11-20",
+  "offer_price": 7500,
+  "open_price": 8100,
+  "first_close": 6880
+ },
+ {
+  "name": "고바이오랩",
+  "no": "1580",
+  "listing_date": "2020-11-18",
+  "offer_price": 15000,
+  "open_price": 30000,
+  "first_close": 31300
+ },
+ {
+  "name": "네패스아크",
+  "no": "1587",
+  "listing_date": "2020-11-17",
+  "offer_price": 26500,
+  "open_price": 36200,
+  "first_close": 38700
+ },
+ {
+  "name": "교촌에프앤비 (유가)",
+  "no": "1584",
+  "listing_date": "2020-11-12",
+  "offer_price": 12300,
+  "open_price": 23850,
+  "first_close": 31000
+ },
+ {
+  "name": "소룩스",
+  "no": "1582",
+  "listing_date": "2020-11-06",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 26000
+ },
+ {
+  "name": "위드텍",
+  "no": "1579",
+  "listing_date": "2020-10-30",
+  "offer_price": 25000,
+  "open_price": 37100,
+  "first_close": 41100
+ },
+ {
+  "name": "센코",
+  "no": "1573",
+  "listing_date": "2020-10-29",
+  "offer_price": 13000,
+  "open_price": 13350,
+  "first_close": 15250
+ },
+ {
+  "name": "바이브컴퍼니",
+  "no": "1571",
+  "listing_date": "2020-10-28",
+  "offer_price": 28000,
+  "open_price": 40000,
+  "first_close": 31300
+ },
+ {
+  "name": "미코바이오메드",
+  "no": "1561",
+  "listing_date": "2020-10-22",
+  "offer_price": 15000,
+  "open_price": 16100,
+  "first_close": 13700
+ },
+ {
+  "name": "피플바이오",
+  "no": "1564",
+  "listing_date": "2020-10-19",
+  "offer_price": 20000,
+  "open_price": 18000,
+  "first_close": 23400
+ },
+ {
+  "name": "하이브(구.빅히트) (유가)",
+  "no": "1578",
+  "listing_date": "2020-10-15",
+  "offer_price": 135000,
+  "open_price": 270000,
+  "first_close": 258000
+ },
+ {
+  "name": "넥스틴",
+  "no": "1576",
+  "listing_date": "2020-10-08",
+  "offer_price": 75400,
+  "open_price": 71100,
+  "first_close": 71600
+ },
+ {
+  "name": "원방테크",
+  "no": "1570",
+  "listing_date": "2020-09-24",
+  "offer_price": 54300,
+  "open_price": 48900,
+  "first_close": 43700
+ },
+ {
+  "name": "엔에이치스팩17호",
+  "no": "1569",
+  "listing_date": "2020-09-23",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 1995
+ },
+ {
+  "name": "비나텍",
+  "no": "1574",
+  "listing_date": "2020-09-23",
+  "offer_price": 33000,
+  "open_price": 44000,
+  "first_close": 40750
+ },
+ {
+  "name": "박셀바이오",
+  "no": "1565",
+  "listing_date": "2020-09-22",
+  "offer_price": 30000,
+  "open_price": 27000,
+  "first_close": 21300
+ },
+ {
+  "name": "비비씨",
+  "no": "1567",
+  "listing_date": "2020-09-21",
+  "offer_price": 30700,
+  "open_price": 27650,
+  "first_close": 22300
+ },
+ {
+  "name": "교보스팩10호",
+  "no": "1559",
+  "listing_date": "2020-09-18",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2005
+ },
+ {
+  "name": "핌스",
+  "no": "1568",
+  "listing_date": "2020-09-18",
+  "offer_price": 19000,
+  "open_price": 21000,
+  "first_close": 18300
+ },
+ {
+  "name": "압타머사이언스",
+  "no": "1566",
+  "listing_date": "2020-09-16",
+  "offer_price": 25000,
+  "open_price": 28850,
+  "first_close": 27750
+ },
+ {
+  "name": "이오플로우",
+  "no": "1556",
+  "listing_date": "2020-09-14",
+  "offer_price": 19000,
+  "open_price": 21750,
+  "first_close": 20000
+ },
+ {
+  "name": "카카오게임즈",
+  "no": "1560",
+  "listing_date": "2020-09-10",
+  "offer_price": 24000,
+  "open_price": 48000,
+  "first_close": 62400
+ },
+ {
+  "name": "피엔케이피부임상연구센타",
+  "no": "1554",
+  "listing_date": "2020-09-09",
+  "offer_price": 18300,
+  "open_price": 28000,
+  "first_close": 26800
+ },
+ {
+  "name": "코람코에너지플러스리츠 (유가)",
+  "no": "1553",
+  "listing_date": "2020-08-31",
+  "offer_price": 5000,
+  "open_price": 4800,
+  "first_close": 4735
+ },
+ {
+  "name": "미래에셋대우스팩5호",
+  "no": "1558",
+  "listing_date": "2020-08-28",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2010
+ },
+ {
+  "name": "아이디피",
+  "no": "1555",
+  "listing_date": "2020-08-24",
+  "offer_price": 9800,
+  "open_price": 13200,
+  "first_close": 12500
+ },
+ {
+  "name": "셀레믹스",
+  "no": "1544",
+  "listing_date": "2020-08-21",
+  "offer_price": 20000,
+  "open_price": 24900,
+  "first_close": 25800
+ },
+ {
+  "name": "미투젠",
+  "no": "1552",
+  "listing_date": "2020-08-18",
+  "offer_price": 27000,
+  "open_price": 29100,
+  "first_close": 25500
+ },
+ {
+  "name": "브랜드엑스코퍼레이션",
+  "no": "1551",
+  "listing_date": "2020-08-13",
+  "offer_price": 13000,
+  "open_price": 12900,
+  "first_close": 11700
+ },
+ {
+  "name": "영림원소프트랩",
+  "no": "1549",
+  "listing_date": "2020-08-12",
+  "offer_price": 11500,
+  "open_price": 17600,
+  "first_close": 13650
+ },
+ {
+  "name": "한국파마",
+  "no": "1547",
+  "listing_date": "2020-08-10",
+  "offer_price": 9000,
+  "open_price": 18000,
+  "first_close": 16850
+ },
+ {
+  "name": "제이알글로벌리츠 (유가)",
+  "no": "1550",
+  "listing_date": "2020-08-07",
+  "offer_price": 5000,
+  "open_price": 4700,
+  "first_close": 4825
+ },
+ {
+  "name": "이루다",
+  "no": "1546",
+  "listing_date": "2020-08-06",
+  "offer_price": 9000,
+  "open_price": 18000,
+  "first_close": 17650
+ },
+ {
+  "name": "이지스레지던스리츠 (유가)",
+  "no": "1545",
+  "listing_date": "2020-08-05",
+  "offer_price": 5000,
+  "open_price": 4500,
+  "first_close": 4190
+ },
+ {
+  "name": "미래에셋맵스리츠1호 (유가)",
+  "no": "1548",
+  "listing_date": "2020-08-05",
+  "offer_price": 5000,
+  "open_price": 4500,
+  "first_close": 4350
+ },
+ {
+  "name": "와이팜",
+  "no": "1542",
+  "listing_date": "2020-07-31",
+  "offer_price": 11000,
+  "open_price": 15550,
+  "first_close": 18800
+ },
+ {
+  "name": "이엔드디",
+  "no": "1541",
+  "listing_date": "2020-07-30",
+  "offer_price": 14400,
+  "open_price": 18200,
+  "first_close": 21000
+ },
+ {
+  "name": "엠투아이",
+  "no": "1538",
+  "listing_date": "2020-07-29",
+  "offer_price": 15600,
+  "open_price": 18850,
+  "first_close": 15900
+ },
+ {
+  "name": "에이치엠씨아이비스팩4호",
+  "no": "1540",
+  "listing_date": "2020-07-29",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2000
+ },
+ {
+  "name": "더네이쳐홀딩스",
+  "no": "1536",
+  "listing_date": "2020-07-27",
+  "offer_price": 46000,
+  "open_price": 41400,
+  "first_close": 43000
+ },
+ {
+  "name": "제놀루션",
+  "no": "1543",
+  "listing_date": "2020-07-24",
+  "offer_price": 14000,
+  "open_price": 28000,
+  "first_close": 24750
+ },
+ {
+  "name": "솔트룩스",
+  "no": "1533",
+  "listing_date": "2020-07-23",
+  "offer_price": 25000,
+  "open_price": 40000,
+  "first_close": 34300
+ },
+ {
+  "name": "하나금융스팩16호",
+  "no": "1537",
+  "listing_date": "2020-07-23",
+  "offer_price": 2000,
+  "open_price": 2020,
+  "first_close": 2020
+ },
+ {
+  "name": "티에스아이",
+  "no": "1539",
+  "listing_date": "2020-07-22",
+  "offer_price": 10000,
+  "open_price": 20000,
+  "first_close": 17200
+ },
+ {
+  "name": "이지스밸류플러스리츠 (유가)",
+  "no": "1534",
+  "listing_date": "2020-07-16",
+  "offer_price": 5000,
+  "open_price": 4800,
+  "first_close": 4410
+ },
+ {
+  "name": "에이프로",
+  "no": "1535",
+  "listing_date": "2020-07-16",
+  "offer_price": 21600,
+  "open_price": 43200,
+  "first_close": 56100
+ },
+ {
+  "name": "IBKS스팩13호",
+  "no": "1527",
+  "listing_date": "2020-07-15",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2010
+ },
+ {
+  "name": "소마젠",
+  "no": "1520",
+  "listing_date": "2020-07-13",
+  "offer_price": 11000,
+  "open_price": 11650,
+  "first_close": 15100
+ },
+ {
+  "name": "신도기연",
+  "no": "1532",
+  "listing_date": "2020-07-06",
+  "offer_price": 16000,
+  "open_price": 32000,
+  "first_close": 22400
+ },
+ {
+  "name": "위더스제약",
+  "no": "1530",
+  "listing_date": "2020-07-03",
+  "offer_price": 15900,
+  "open_price": 31800,
+  "first_close": 34400
+ },
+ {
+  "name": "SK바이오팜 (유가)",
+  "no": "1526",
+  "listing_date": "2020-07-02",
+  "offer_price": 49000,
+  "open_price": 98000,
+  "first_close": 127000
+ },
+ {
+  "name": "마크로밀엠브레인",
+  "no": "1528",
+  "listing_date": "2020-07-01",
+  "offer_price": 6800,
+  "open_price": 13600,
+  "first_close": 16050
+ },
+ {
+  "name": "젠큐릭스",
+  "no": "1531",
+  "listing_date": "2020-06-25",
+  "offer_price": 22700,
+  "open_price": 25100,
+  "first_close": 21650
+ },
+ {
+  "name": "IBKS스팩14호",
+  "no": "1525",
+  "listing_date": "2020-06-22",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2010
+ },
+ {
+  "name": "엘이티",
+  "no": "1524",
+  "listing_date": "2020-06-22",
+  "offer_price": 7800,
+  "open_price": 15600,
+  "first_close": 20250
+ },
+ {
+  "name": "에스씨엠생명과학",
+  "no": "1522",
+  "listing_date": "2020-06-17",
+  "offer_price": 17000,
+  "open_price": 29500,
+  "first_close": 36100
+ },
+ {
+  "name": "엔에이치스팩16호",
+  "no": "1523",
+  "listing_date": "2020-06-17",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2005
+ },
+ {
+  "name": "드림씨아이에스",
+  "no": "1521",
+  "listing_date": "2020-05-22",
+  "offer_price": 14900,
+  "open_price": 28000,
+  "first_close": 30500
+ },
+ {
+  "name": "이베스트스팩5호",
+  "no": "1519",
+  "listing_date": "2020-05-20",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "케이프이에스스팩4호",
+  "no": "1513",
+  "listing_date": "2020-03-24",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 1980
+ },
+ {
+  "name": "엔피디",
+  "no": "1509",
+  "listing_date": "2020-03-16",
+  "offer_price": 5400,
+  "open_price": 4860,
+  "first_close": 3775
+ },
+ {
+  "name": "플레이디",
+  "no": "1508",
+  "listing_date": "2020-03-12",
+  "offer_price": 8500,
+  "open_price": 11250,
+  "first_close": 8800
+ },
+ {
+  "name": "에스케이스팩6호",
+  "no": "1510",
+  "listing_date": "2020-03-11",
+  "offer_price": 2000,
+  "open_price": 2025,
+  "first_close": 2010
+ },
+ {
+  "name": "서울바이오시스",
+  "no": "1507",
+  "listing_date": "2020-03-06",
+  "offer_price": 7500,
+  "open_price": 13000,
+  "first_close": 11100
+ },
+ {
+  "name": "제이앤티씨",
+  "no": "1503",
+  "listing_date": "2020-03-04",
+  "offer_price": 11000,
+  "open_price": 10200,
+  "first_close": 10350
+ },
+ {
+  "name": "켄코아에어로스페이스",
+  "no": "1506",
+  "listing_date": "2020-03-03",
+  "offer_price": 10000,
+  "open_price": 11500,
+  "first_close": 10250
+ },
+ {
+  "name": "레몬",
+  "no": "1505",
+  "listing_date": "2020-02-28",
+  "offer_price": 7200,
+  "open_price": 8620,
+  "first_close": 10400
+ },
+ {
+  "name": "서남",
+  "no": "1502",
+  "listing_date": "2020-02-20",
+  "offer_price": 3100,
+  "open_price": 3900,
+  "first_close": 4750
+ },
+ {
+  "name": "신영스팩6호",
+  "no": "1501",
+  "listing_date": "2020-02-12",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2010
+ },
+ {
+  "name": "위세아이텍",
+  "no": "1498",
+  "listing_date": "2020-02-10",
+  "offer_price": 12000,
+  "open_price": 13900,
+  "first_close": 12400
+ },
+ {
+  "name": "하나금융스팩15호",
+  "no": "1499",
+  "listing_date": "2020-01-30",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "케이비스팩20호",
+  "no": "1500",
+  "listing_date": "2020-01-30",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "한화플러스스팩1호",
+  "no": "1494",
+  "listing_date": "2019-12-27",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2000
+ },
+ {
+  "name": "피피아이",
+  "no": "1478",
+  "listing_date": "2019-12-26",
+  "offer_price": 7000,
+  "open_price": 11000,
+  "first_close": 9630
+ },
+ {
+  "name": "천랩",
+  "no": "1497",
+  "listing_date": "2019-12-26",
+  "offer_price": 40000,
+  "open_price": 42950,
+  "first_close": 38500
+ },
+ {
+  "name": "엔에이치스팩15호",
+  "no": "1493",
+  "listing_date": "2019-12-24",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "메탈라이프",
+  "no": "1495",
+  "listing_date": "2019-12-24",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 33800
+ },
+ {
+  "name": "하이스팩5호",
+  "no": "1496",
+  "listing_date": "2019-12-23",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2005
+ },
+ {
+  "name": "브릿지바이오테라퓨틱스",
+  "no": "1484",
+  "listing_date": "2019-12-20",
+  "offer_price": 60000,
+  "open_price": 62400,
+  "first_close": 54300
+ },
+ {
+  "name": "메드팩토",
+  "no": "1488",
+  "listing_date": "2019-12-19",
+  "offer_price": 40000,
+  "open_price": 40000,
+  "first_close": 35900
+ },
+ {
+  "name": "대신밸런스스팩8호",
+  "no": "1491",
+  "listing_date": "2019-12-19",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2005
+ },
+ {
+  "name": "유안타스팩6호",
+  "no": "1492",
+  "listing_date": "2019-12-19",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2000
+ },
+ {
+  "name": "신테카바이오",
+  "no": "1489",
+  "listing_date": "2019-12-17",
+  "offer_price": 12000,
+  "open_price": 14950,
+  "first_close": 16700
+ },
+ {
+  "name": "제이엘케이인스펙션",
+  "no": "1486",
+  "listing_date": "2019-12-11",
+  "offer_price": 9000,
+  "open_price": 8500,
+  "first_close": 9000
+ },
+ {
+  "name": "태웅로직스",
+  "no": "1481",
+  "listing_date": "2019-12-10",
+  "offer_price": 4500,
+  "open_price": 8170,
+  "first_close": 6110
+ },
+ {
+  "name": "IBKS스팩12호",
+  "no": "1483",
+  "listing_date": "2019-12-09",
+  "offer_price": 2000,
+  "open_price": 2040,
+  "first_close": 2050
+ },
+ {
+  "name": "리메드",
+  "no": "1485",
+  "listing_date": "2019-12-06",
+  "offer_price": 13000,
+  "open_price": 14100,
+  "first_close": 13450
+ },
+ {
+  "name": "에스케이스팩5호",
+  "no": "1482",
+  "listing_date": "2019-12-05",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2010
+ },
+ {
+  "name": "엔에이치프라임리츠 (유가)",
+  "no": "1490",
+  "listing_date": "2019-12-05",
+  "offer_price": 5000,
+  "open_price": 5000,
+  "first_close": 6500
+ },
+ {
+  "name": "IBKS스팩11호",
+  "no": "1480",
+  "listing_date": "2019-12-03",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2010
+ },
+ {
+  "name": "코리아센터",
+  "no": "1468",
+  "listing_date": "2019-11-29",
+  "offer_price": 18000,
+  "open_price": 23000,
+  "first_close": 22850
+ }
+]
