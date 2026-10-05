@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-02 16:54",
- "today": "2026-10-02",
+ "updated": "2026-10-05 16:56",
+ "today": "2026-10-05",
  "counts": {
   "review": 47,
   "approved": 7,
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C01028933",
-   "name": "멜콘",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-01",
-   "end": "2026-10-02",
-   "method": "general"
-  },
-  {
    "id": "250030",
    "name": "진코스텍",
    "market": "KOSDAQ",
@@ -532,6 +523,24 @@
    "start": "2026-10-22",
    "end": "2026-10-23",
    "method": "general"
+  },
+  {
+   "id": "C01797635",
+   "name": "에이엘로봇",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-26",
+   "end": "2026-10-27",
+   "method": "general"
+  },
+  {
+   "id": "C02036869",
+   "name": "아이엠스팩1호",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-26",
+   "end": "2026-10-27",
+   "method": "spac"
   }
  ],
  "backtest": {
