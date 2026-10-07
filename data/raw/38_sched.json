@@ -208,19 +208,6 @@
   "underwriter": "한화투자증권"
  },
  {
-  "name": "다비오",
-  "no": "2327",
-  "sub_start": "2026-10-19",
-  "sub_end": "2026-10-20",
-  "offer_price": null,
-  "band": [
-   12300,
-   16600
-  ],
-  "sub_competition": null,
-  "underwriter": "대신증권"
- },
- {
   "name": "SK증권스팩14호",
   "no": "2319",
   "sub_start": "2026-10-15",
@@ -251,7 +238,7 @@
   "no": "2324",
   "sub_start": "2026-10-12",
   "sub_end": "2026-10-13",
-  "offer_price": null,
+  "offer_price": 7800,
   "band": [
    6800,
    7800
@@ -264,7 +251,7 @@
   "no": "2316",
   "sub_start": "2026-10-07",
   "sub_end": "2026-10-08",
-  "offer_price": null,
+  "offer_price": 90500,
   "band": [
    70400,
    90500
@@ -9748,5 +9735,18 @@
   ],
   "sub_competition": 0.37,
   "underwriter": "하이투자증권"
+ },
+ {
+  "name": "메드팩토",
+  "no": "1488",
+  "sub_start": "2019-12-10",
+  "sub_end": "2019-12-11",
+  "offer_price": 40000,
+  "band": [
+   34000,
+   43000
+  ],
+  "sub_competition": 18.84,
+  "underwriter": "삼성증권"
  }
 ]

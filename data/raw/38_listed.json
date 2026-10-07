@@ -1,5 +1,21 @@
 [
  {
+  "name": "엠에스바이오",
+  "no": "2324",
+  "listing_date": "2026-10-22",
+  "offer_price": 7800,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "엘리스그룹",
+  "no": "2316",
+  "listing_date": "2026-10-20",
+  "offer_price": 90500,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "멜콘(구.에스앤에프솔루션)",
   "no": "2315",
   "listing_date": "2026-10-15",
@@ -5902,21 +5918,5 @@
   "offer_price": 5000,
   "open_price": 5000,
   "first_close": 6500
- },
- {
-  "name": "IBKS스팩11호",
-  "no": "1480",
-  "listing_date": "2019-12-03",
-  "offer_price": 2000,
-  "open_price": 2005,
-  "first_close": 2010
- },
- {
-  "name": "코리아센터",
-  "no": "1468",
-  "listing_date": "2019-11-29",
-  "offer_price": 18000,
-  "open_price": 23000,
-  "first_close": 22850
  }
 ]

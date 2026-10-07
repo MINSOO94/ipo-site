@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-06 16:59",
- "today": "2026-10-06",
+ "updated": "2026-10-07 16:55",
+ "today": "2026-10-07",
  "counts": {
-  "review": 47,
-  "approved": 7,
-  "offering": 23,
+  "review": 46,
+  "approved": 9,
+  "offering": 22,
   "listed": 821,
   "withdrawn": 174
  },
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "250030",
-   "name": "진코스텍",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-02",
-   "end": "2026-10-06",
-   "method": "transfer"
-  },
-  {
    "id": "C01754737",
    "name": "엘리스그룹",
    "market": "KOSDAQ",
@@ -453,11 +444,11 @@
    "method": "spac"
   },
   {
-   "id": "C01706509",
-   "name": "다비오",
+   "id": "C01754737",
+   "name": "엘리스그룹",
    "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-19",
+   "type": "상장",
+   "start": "2026-10-20",
    "end": "2026-10-20",
    "method": "general"
   },
@@ -494,6 +485,15 @@
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-10-21",
+   "end": "2026-10-22",
+   "method": "general"
+  },
+  {
+   "id": "C01749559",
+   "name": "엠에스바이오",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-22",
    "end": "2026-10-22",
    "method": "general"
   },
@@ -541,6 +541,15 @@
    "start": "2026-10-26",
    "end": "2026-10-27",
    "method": "spac"
+  },
+  {
+   "id": "C01705740",
+   "name": "엠비디",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "method": "general"
   }
  ],
  "backtest": {

@@ -11380,6 +11380,16 @@
   "kind_id": "20260708000144"
  },
  {
+  "name": "우리투자제1호스팩",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-08-10",
+  "result_date": "2026-10-06",
+  "result": "심사승인",
+  "underwriter": "주식회사 우리투자증권",
+  "kind_id": "20260730000119"
+ },
+ {
   "name": "키노톤",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11488,16 +11498,6 @@
   "result": "청구서접수",
   "underwriter": "미래에셋증권 주식회사,한국투자증권(주)",
   "kind_id": "20260331000039"
- },
- {
-  "name": "우리투자제1호스팩",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-08-10",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "주식회사 우리투자증권",
-  "kind_id": "20260730000119"
  },
  {
   "name": "엑티브온",

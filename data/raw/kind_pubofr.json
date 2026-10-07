@@ -2166,25 +2166,6 @@
   "kind_id": "20251103000255"
  },
  {
-  "name": "멜콘",
-  "market": "KOSDAQ",
-  "filing_date": "2026-08-21",
-  "forecast": [
-   "2026-09-16",
-   "2026-09-22"
-  ],
-  "subscription": [
-   "2026-10-01",
-   "2026-10-02"
-  ],
-  "payment_date": "2026-10-07",
-  "offer_price": 12300,
-  "offer_amount_mil": 30750,
-  "listing_date": "2026-10-15",
-  "underwriter": "대신증권(주)",
-  "kind_id": "20260130000275"
- },
- {
   "name": "피스피스스튜디오",
   "market": "KOSDAQ",
   "filing_date": "2026-04-07",
@@ -2221,6 +2202,25 @@
   "listing_date": "2026-06-30",
   "underwriter": "KB증권(주)",
   "kind_id": "20250730000176"
+ },
+ {
+  "name": "멜콘",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-21",
+  "forecast": [
+   "2026-09-16",
+   "2026-09-22"
+  ],
+  "subscription": [
+   "2026-10-01",
+   "2026-10-02"
+  ],
+  "payment_date": "2026-10-07",
+  "offer_price": 12300,
+  "offer_amount_mil": 30750,
+  "listing_date": "2026-10-15",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000275"
  },
  {
   "name": "에이유브랜즈",
