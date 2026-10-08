@@ -11110,6 +11110,16 @@
   "kind_id": "20260127000307"
  },
  {
+  "name": "마더스제약",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-08-25",
+  "result_date": "2026-10-07",
+  "result": "심사승인",
+  "underwriter": "엔에이치투자증권(주),KB증권(주)",
+  "kind_id": "20260128000161"
+ },
+ {
   "name": "티앤이코리아",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11278,6 +11288,16 @@
   "result": "심사승인",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260304000284"
+ },
+ {
+  "name": "엔키화이트햇",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-10",
+  "result_date": "2026-10-07",
+  "result": "심사승인",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20260311000003"
  },
  {
   "name": "유캐스트",
@@ -11755,7 +11775,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-05-21",
   "result_date": null,
-  "result": "청구서접수",
+  "result": "심사철회",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260129000320"
  },
@@ -11810,14 +11830,24 @@
   "kind_id": "20260330000721"
  },
  {
-  "name": "엔키화이트햇",
+  "name": "세미솔루션",
   "market": "KOSDAQ",
   "list_type": "신규상장",
-  "apply_date": "2026-07-10",
+  "apply_date": "2026-10-08",
   "result_date": null,
   "result": "청구서접수",
-  "underwriter": "신영증권(주)",
-  "kind_id": "20260311000003"
+  "underwriter": "DB증권주식회사",
+  "kind_id": "20260330000775"
+ },
+ {
+  "name": "베르티스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-07",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000224"
  },
  {
   "name": "티에스모스트",
@@ -11838,16 +11868,6 @@
   "result": "청구서접수",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260730000114"
- },
- {
-  "name": "마더스제약",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-08-25",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "엔에이치투자증권(주),KB증권(주)",
-  "kind_id": "20260128000161"
  },
  {
   "name": "씨아이에스케미칼",

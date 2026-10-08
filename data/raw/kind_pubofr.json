@@ -855,6 +855,25 @@
   "kind_id": "20250929000071"
  },
  {
+  "name": "진코스텍",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-27",
+  "forecast": [
+   "2026-09-16",
+   "2026-09-22"
+  ],
+  "subscription": [
+   "2026-10-02",
+   "2026-10-06"
+  ],
+  "payment_date": "2026-10-08",
+  "offer_price": 23500,
+  "offer_amount_mil": 20022,
+  "listing_date": "2026-10-15",
+  "underwriter": "하나증권주식회사",
+  "kind_id": "20260126000320"
+ },
+ {
   "name": "한화플러스제5호스팩",
   "market": "KOSDAQ",
   "filing_date": "2025-02-07",

@@ -39,6 +39,19 @@
   "underwriter": "한국투자증권"
  },
  {
+  "name": "제논",
+  "no": "2341",
+  "sub_start": "2026-11-04",
+  "sub_end": "2026-11-05",
+  "offer_price": null,
+  "band": [
+   9700,
+   12200
+  ],
+  "sub_competition": null,
+  "underwriter": "삼성증권"
+ },
+ {
   "name": "넥스아이",
   "no": "2336",
   "sub_start": "2026-11-03",
@@ -9735,18 +9748,5 @@
   ],
   "sub_competition": 0.37,
   "underwriter": "하이투자증권"
- },
- {
-  "name": "메드팩토",
-  "no": "1488",
-  "sub_start": "2019-12-10",
-  "sub_end": "2019-12-11",
-  "offer_price": 40000,
-  "band": [
-   34000,
-   43000
-  ],
-  "sub_competition": 18.84,
-  "underwriter": "삼성증권"
  }
 ]
