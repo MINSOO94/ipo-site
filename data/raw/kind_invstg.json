@@ -11240,6 +11240,16 @@
   "kind_id": "20260130000275"
  },
  {
+  "name": "케이티이",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-31",
+  "result_date": "2026-10-08",
+  "result": "심사승인",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20260130000276"
+ },
+ {
   "name": "셀트릭스",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11310,6 +11320,16 @@
   "kind_id": "20260318000614"
  },
  {
+  "name": "아델",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-21",
+  "result_date": "2026-10-08",
+  "result": "심사승인",
+  "underwriter": "삼성증권(주),미래에셋증권 주식회사",
+  "kind_id": "20260326000127"
+ },
+ {
   "name": "솔리스",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11338,6 +11358,16 @@
   "result": "심사승인",
   "underwriter": "대신증권(주)",
   "kind_id": "20260330000099"
+ },
+ {
+  "name": "에스텍시스템",
+  "market": "KOSPI",
+  "list_type": "신규상장",
+  "apply_date": "2026-08-04",
+  "result_date": "2026-10-08",
+  "result": "심사철회",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260331000731"
  },
  {
   "name": "엔에이치스팩34호",
@@ -11390,6 +11420,16 @@
   "kind_id": "20260609000114"
  },
  {
+  "name": "씨앤엠",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-09-08",
+  "result_date": "2026-10-08",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260609000245"
+ },
+ {
   "name": "아이엠스팩1호",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11420,16 +11460,6 @@
   "kind_id": "20260127000306"
  },
  {
-  "name": "아델",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-21",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "삼성증권(주),미래에셋증권 주식회사",
-  "kind_id": "20260326000127"
- },
- {
   "name": "무신사",
   "market": "KOSPI",
   "list_type": "신규상장",
@@ -11438,26 +11468,6 @@
   "result": "청구서접수",
   "underwriter": "한국투자증권(주),씨티그룹글로벌마켓증권(주),KB증권(주),제이피모간증권회사 서울지점",
   "kind_id": "20260527000844"
- },
- {
-  "name": "씨앤엠",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-09-08",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260609000245"
- },
- {
-  "name": "케이티이",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-31",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "엔에이치투자증권(주)",
-  "kind_id": "20260130000276"
  },
  {
   "name": "라이드플럭스",
@@ -11528,16 +11538,6 @@
   "result": "청구서접수",
   "underwriter": "키움증권(주)",
   "kind_id": "20230125000190"
- },
- {
-  "name": "에스텍시스템",
-  "market": "KOSPI",
-  "list_type": "신규상장",
-  "apply_date": "2026-08-04",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "미래에셋증권 주식회사",
-  "kind_id": "20260331000731"
  },
  {
   "name": "뱅크샐러드",
