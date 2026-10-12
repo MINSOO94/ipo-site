@@ -2242,6 +2242,25 @@
   "kind_id": "20260130000275"
  },
  {
+  "name": "엘리스그룹",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-21",
+  "forecast": [
+   "2026-09-23",
+   "2026-10-01"
+  ],
+  "subscription": [
+   "2026-10-07",
+   "2026-10-08"
+  ],
+  "payment_date": "2026-10-13",
+  "offer_price": 90500,
+  "offer_amount_mil": 201091,
+  "listing_date": "2026-10-20",
+  "underwriter": "미래에셋증권 주식회사,삼성증권(주)",
+  "kind_id": "20260129000215"
+ },
+ {
   "name": "에이유브랜즈",
   "market": "KOSDAQ",
   "filing_date": "2025-02-07",
@@ -2506,6 +2525,25 @@
   "listing_date": "2026-04-23",
   "underwriter": "키움증권(주)",
   "kind_id": "20251204000247"
+ },
+ {
+  "name": "디티에스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-11",
+  "forecast": [
+   "2026-10-01",
+   "2026-10-08"
+  ],
+  "subscription": [
+   "2026-10-13",
+   "2026-10-14"
+  ],
+  "payment_date": "2026-10-16",
+  "offer_price": 18500,
+  "offer_amount_mil": 41235,
+  "listing_date": "2026-10-23",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20250124000277"
  },
  {
   "name": "심플랫폼",

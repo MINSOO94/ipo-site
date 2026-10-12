@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-09 16:57",
- "today": "2026-10-09",
+ "updated": "2026-10-12 17:01",
+ "today": "2026-10-12",
  "counts": {
   "review": 41,
-  "approved": 13,
-  "offering": 23,
+  "approved": 10,
+  "offering": 26,
   "listed": 821,
   "withdrawn": 176
  },
@@ -374,7 +374,7 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.5,
+   "m3_win": 0.333,
    "temp": "보통"
   },
   {
@@ -516,6 +516,15 @@
    "method": "general"
   },
   {
+   "id": "C00534729",
+   "name": "디티에스",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "method": "general"
+  },
+  {
    "id": "C01797635",
    "name": "에이엘로봇",
    "market": "KOSDAQ",
@@ -541,12 +550,30 @@
    "start": "2026-10-28",
    "end": "2026-10-29",
    "method": "general"
+  },
+  {
+   "id": "C01835829",
+   "name": "바로팜",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "method": "general"
+  },
+  {
+   "id": "C00784184",
+   "name": "동원파츠",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 124,
-  "brier": 0.2271,
-  "acc": 0.653,
-  "base": 0.565
+  "n": 125,
+  "brier": 0.2321,
+  "acc": 0.648,
+  "base": 0.56
  }
 }

@@ -13,6 +13,19 @@
   "underwriter": "IBK투자증권"
  },
  {
+  "name": "엔키화이트햇",
+  "no": "2343",
+  "sub_start": "2026-11-12",
+  "sub_end": "2026-11-13",
+  "offer_price": null,
+  "band": [
+   13000,
+   16500
+  ],
+  "sub_competition": null,
+  "underwriter": "신영증권"
+ },
+ {
   "name": "하나에어로다이내믹스",
   "no": "2334",
   "sub_start": "2026-11-10",
@@ -24,6 +37,19 @@
   ],
   "sub_competition": null,
   "underwriter": "IBK투자증권"
+ },
+ {
+  "name": "다비오",
+  "no": "2344",
+  "sub_start": "2026-11-10",
+  "sub_end": "2026-11-11",
+  "offer_price": null,
+  "band": [
+   12300,
+   16600
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권"
  },
  {
   "name": "옵토닉스",
@@ -50,6 +76,19 @@
   ],
   "sub_competition": null,
   "underwriter": "삼성증권"
+ },
+ {
+  "name": "영광와이케이엠씨",
+  "no": "2342",
+  "sub_start": "2026-11-04",
+  "sub_end": "2026-11-05",
+  "offer_price": null,
+  "band": [
+   9400,
+   11000
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권"
  },
  {
   "name": "넥스아이",
@@ -269,7 +308,7 @@
    70400,
    90500
   ],
-  "sub_competition": null,
+  "sub_competition": 408.0,
   "underwriter": "미래에셋증권,삼성증권"
  },
  {
@@ -9709,44 +9748,5 @@
   ],
   "sub_competition": 33.52,
   "underwriter": "대신증권,KB증권"
- },
- {
-  "name": "엔에이치스팩15호",
-  "no": "1493",
-  "sub_start": "2019-12-12",
-  "sub_end": "2019-12-13",
-  "offer_price": 2000,
-  "band": [
-   2000,
-   2000
-  ],
-  "sub_competition": 1.43,
-  "underwriter": "NH투자증권"
- },
- {
-  "name": "메탈라이프",
-  "no": "1495",
-  "sub_start": "2019-12-12",
-  "sub_end": "2019-12-13",
-  "offer_price": 13000,
-  "band": [
-   10500,
-   13000
-  ],
-  "sub_competition": 1397.97,
-  "underwriter": "한국투자증권"
- },
- {
-  "name": "하이스팩5호",
-  "no": "1496",
-  "sub_start": "2019-12-11",
-  "sub_end": "2019-12-12",
-  "offer_price": 2000,
-  "band": [
-   2000,
-   2000
-  ],
-  "sub_competition": 0.37,
-  "underwriter": "하이투자증권"
  }
 ]
