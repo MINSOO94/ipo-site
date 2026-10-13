@@ -1,5 +1,19 @@
 [
  {
+  "name": "디티에스(구.동양티에스)",
+  "no": "2326",
+  "forecast_date": "2026-10-01",
+  "band": [
+   17000,
+   18500
+  ],
+  "offer_price": 18500,
+  "offer_amount_mil": 41234,
+  "inst_competition": 983.98,
+  "lockup_pct": 13.31,
+  "underwriter": "대신증권,유진증권"
+ },
+ {
   "name": "엠에스바이오",
   "no": "2324",
   "forecast_date": "2026-09-28",
@@ -10344,19 +10358,5 @@
   "inst_competition": 37.77,
   "lockup_pct": 6.04,
   "underwriter": "NH투자증권,신한금융투자,삼성증권"
- },
- {
-  "name": "IBKS스팩11호",
-  "no": "1480",
-  "forecast_date": "2019-11-18",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 9000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "아이비케이투자증권"
  }
 ]

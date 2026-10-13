@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-12 17:01",
- "today": "2026-10-12",
+ "updated": "2026-10-13 17:00",
+ "today": "2026-10-13",
  "counts": {
-  "review": 41,
-  "approved": 10,
-  "offering": 26,
+  "review": 39,
+  "approved": 11,
+  "offering": 27,
   "listed": 821,
   "withdrawn": 176
  },
@@ -525,20 +525,20 @@
    "method": "general"
   },
   {
-   "id": "C01797635",
-   "name": "에이엘로봇",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-26",
-   "end": "2026-10-27",
-   "method": "general"
-  },
-  {
    "id": "C02036869",
    "name": "아이엠스팩1호",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-10-26",
+   "end": "2026-10-27",
+   "method": "spac"
+  },
+  {
+   "id": "C02032951",
+   "name": "에스케이증권제14호기업인수목적",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-27",
    "end": "2026-10-27",
    "method": "spac"
   },
@@ -567,6 +567,15 @@
    "type": "청약",
    "start": "2026-11-02",
    "end": "2026-11-03",
+   "method": "general"
+  },
+  {
+   "id": "C01863318",
+   "name": "넥스아이",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-03",
+   "end": "2026-11-04",
    "method": "general"
   }
  ],

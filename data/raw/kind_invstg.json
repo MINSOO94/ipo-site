@@ -11360,6 +11360,16 @@
   "kind_id": "20260330000099"
  },
  {
+  "name": "데스틴파워",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-30",
+  "result_date": "2026-10-12",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260330000617"
+ },
+ {
   "name": "에스텍시스템",
   "market": "KOSPI",
   "list_type": "신규상장",
@@ -11368,6 +11378,16 @@
   "result": "심사철회",
   "underwriter": "미래에셋증권 주식회사",
   "kind_id": "20260331000731"
+ },
+ {
+  "name": "제이앤티지",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-06-11",
+  "result_date": "2026-10-12",
+  "result": "심사승인",
+  "underwriter": "대신증권(주),엔에이치투자증권(주)",
+  "kind_id": "20260331000921"
  },
  {
   "name": "엔에이치스팩34호",
@@ -11560,16 +11580,6 @@
   "kind_id": "20260331000257"
  },
  {
-  "name": "제이앤티지",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-06-11",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "대신증권(주),엔에이치투자증권(주)",
-  "kind_id": "20260331000921"
- },
- {
   "name": "유림테크",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11648,16 +11658,6 @@
   "result": "청구서접수",
   "underwriter": "대신증권(주),미래에셋증권 주식회사",
   "kind_id": "20260130000216"
- },
- {
-  "name": "데스틴파워",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-30",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260330000617"
  },
  {
   "name": "노바셀테크놀로지",

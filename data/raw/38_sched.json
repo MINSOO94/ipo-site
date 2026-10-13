@@ -13,6 +13,19 @@
   "underwriter": "IBK투자증권"
  },
  {
+  "name": "아델",
+  "no": "2345",
+  "sub_start": "2026-11-23",
+  "sub_end": "2026-11-24",
+  "offer_price": null,
+  "band": [
+   18000,
+   25000
+  ],
+  "sub_competition": null,
+  "underwriter": "삼성증권,미래에셋증권"
+ },
+ {
   "name": "엔키화이트햇",
   "no": "2343",
   "sub_start": "2026-11-12",
@@ -47,6 +60,19 @@
   "band": [
    12300,
    16600
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권"
+ },
+ {
+  "name": "에이엘로봇",
+  "no": "2331",
+  "sub_start": "2026-11-06",
+  "sub_end": "2026-11-09",
+  "offer_price": null,
+  "band": [
+   15700,
+   17600
   ],
   "sub_competition": null,
   "underwriter": "대신증권"
@@ -154,19 +180,6 @@
   ],
   "sub_competition": null,
   "underwriter": "아이엠증권"
- },
- {
-  "name": "에이엘로봇",
-  "no": "2331",
-  "sub_start": "2026-10-26",
-  "sub_end": "2026-10-27",
-  "offer_price": null,
-  "band": [
-   15700,
-   17600
-  ],
-  "sub_competition": null,
-  "underwriter": "대신증권"
  },
  {
   "name": "래블업",
@@ -277,7 +290,7 @@
   "no": "2326",
   "sub_start": "2026-10-13",
   "sub_end": "2026-10-14",
-  "offer_price": null,
+  "offer_price": 18500,
   "band": [
    17000,
    18500
@@ -295,7 +308,7 @@
    6800,
    7800
   ],
-  "sub_competition": null,
+  "sub_competition": 1538.51,
   "underwriter": "KB증권"
  },
  {
@@ -9735,18 +9748,5 @@
   ],
   "sub_competition": 9.0,
   "underwriter": "한화투자증권"
- },
- {
-  "name": "브릿지바이오테라퓨틱스",
-  "no": "1484",
-  "sub_start": "2019-12-12",
-  "sub_end": "2019-12-13",
-  "offer_price": 60000,
-  "band": [
-   70000,
-   80000
-  ],
-  "sub_competition": 33.52,
-  "underwriter": "대신증권,KB증권"
  }
 ]
