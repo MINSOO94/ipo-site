@@ -1,5 +1,19 @@
 [
  {
+  "name": "SK증권스팩14호",
+  "no": "2319",
+  "forecast_date": "2026-10-12",
+  "band": [
+   2000,
+   2000
+  ],
+  "offer_price": 2000,
+  "offer_amount_mil": 13000,
+  "inst_competition": 1228.38,
+  "lockup_pct": null,
+  "underwriter": "SK증권"
+ },
+ {
   "name": "디티에스(구.동양티에스)",
   "no": "2326",
   "forecast_date": "2026-10-01",
@@ -10344,19 +10358,5 @@
   "inst_competition": 24.76,
   "lockup_pct": null,
   "underwriter": "한국투자증권"
- },
- {
-  "name": "코리아센터",
-  "no": "1468",
-  "forecast_date": "2019-11-18",
-  "band": [
-   24000,
-   27200
-  ],
-  "offer_price": 18000,
-  "offer_amount_mil": 61091,
-  "inst_competition": 37.77,
-  "lockup_pct": 6.04,
-  "underwriter": "NH투자증권,신한금융투자,삼성증권"
  }
 ]

@@ -277,7 +277,7 @@
   "no": "2319",
   "sub_start": "2026-10-15",
   "sub_end": "2026-10-16",
-  "offer_price": null,
+  "offer_price": 2000,
   "band": [
    2000,
    2000
@@ -295,7 +295,7 @@
    17000,
    18500
   ],
-  "sub_competition": null,
+  "sub_competition": 987.0,
   "underwriter": "대신증권,유진증권"
  },
  {

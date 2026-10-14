@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13 17:00",
- "today": "2026-10-13",
+ "updated": "2026-10-14 17:13",
+ "today": "2026-10-14",
  "counts": {
-  "review": 39,
-  "approved": 11,
+  "review": 38,
+  "approved": 13,
   "offering": 27,
   "listed": 821,
   "withdrawn": 176
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C01749559",
-   "name": "엠에스바이오",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-12",
-   "end": "2026-10-13",
-   "method": "general"
-  },
-  {
    "id": "C00534729",
    "name": "디티에스",
    "market": "KOSDAQ",
@@ -576,6 +567,24 @@
    "type": "청약",
    "start": "2026-11-03",
    "end": "2026-11-04",
+   "method": "general"
+  },
+  {
+   "id": "C00960234",
+   "name": "영광와이케이엠씨",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-04",
+   "end": "2026-11-05",
+   "method": "general"
+  },
+  {
+   "id": "C01950720",
+   "name": "제논",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-04",
+   "end": "2026-11-05",
    "method": "general"
   }
  ],
