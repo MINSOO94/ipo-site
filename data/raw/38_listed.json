@@ -36,16 +36,16 @@
   "no": "2315",
   "listing_date": "2026-10-15",
   "offer_price": 12300,
-  "open_price": null,
-  "first_close": null
+  "open_price": 27400,
+  "first_close": 17180
  },
  {
   "name": "진코스텍",
   "no": "2320",
   "listing_date": "2026-10-15",
   "offer_price": 23500,
-  "open_price": null,
-  "first_close": null
+  "open_price": 24000,
+  "first_close": 14450
  },
  {
   "name": "브릴스",

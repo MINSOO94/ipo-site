@@ -11840,6 +11840,38 @@
   "code": "332190"
  },
  {
+  "name": "멜콘",
+  "market": "KOSDAQ",
+  "listing_date": "2026-10-15",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "특수 목적용 기계 제조업",
+  "country": "대한민국",
+  "underwriter": "대신증권(주)",
+  "par": 500,
+  "offer_price": 12300,
+  "offer_amount": 30750000,
+  "product": "THC, XPS",
+  "listed_shares": 12600000,
+  "code": "179880"
+ },
+ {
+  "name": "진코스텍",
+  "market": "KOSDAQ",
+  "listing_date": "2026-10-15",
+  "list_type": "이전상장",
+  "security": "주권",
+  "industry": "기타 화학제품 제조업",
+  "country": "대한민국",
+  "underwriter": "하나증권주식회사",
+  "par": 500,
+  "offer_price": 23500,
+  "offer_amount": 20022000,
+  "product": "하이드로겔 패치 및 마스크팩 ODM/OEM",
+  "listed_shares": 3786533,
+  "code": "250030"
+ },
+ {
   "name": "브릴스",
   "market": "KOSDAQ",
   "listing_date": "2026-10-01",

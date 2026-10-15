@@ -1292,6 +1292,25 @@
   "kind_id": "20250327000318"
  },
  {
+  "name": "엠에스바이오",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-07",
+  "forecast": [
+   "2026-09-28",
+   "2026-10-02"
+  ],
+  "subscription": [
+   "2026-10-12",
+   "2026-10-13"
+  ],
+  "payment_date": "2026-10-15",
+  "offer_price": 7800,
+  "offer_amount_mil": 31200,
+  "listing_date": "2026-10-22",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20260126000290"
+ },
+ {
   "name": "글로벌테크놀로지",
   "market": "KOSDAQ",
   "filing_date": "2026-07-28",

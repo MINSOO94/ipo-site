@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14 17:13",
- "today": "2026-10-14",
+ "updated": "2026-10-15 17:13",
+ "today": "2026-10-15",
  "counts": {
   "review": 38,
   "approved": 13,
-  "offering": 27,
-  "listed": 821,
+  "offering": 25,
+  "listed": 823,
   "withdrawn": 176
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-10": {
    "KOSPI": 0,
-   "KOSDAQ": 1
+   "KOSDAQ": 3
   }
  },
  "quarterly": [
@@ -379,27 +379,18 @@
   },
   {
    "q": "2026Q4",
-   "n": 1,
-   "inst_comp": 1187.7,
+   "n": 3,
+   "inst_comp": 1140.7,
    "top_ratio": 1.0,
-   "d1_avg": 0.5949,
-   "d1_med": 0.5949,
+   "d1_avg": 0.2019,
+   "d1_med": 0.3967,
    "m3_win": null,
-   "temp": "활황"
+   "temp": "보통"
   }
  ],
  "events": [
   {
-   "id": "C00534729",
-   "name": "디티에스",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-13",
-   "end": "2026-10-14",
-   "method": "general"
-  },
-  {
-   "id": "C01028933",
+   "id": "179880",
    "name": "멜콘",
    "market": "KOSDAQ",
    "type": "상장",
@@ -585,6 +576,15 @@
    "type": "청약",
    "start": "2026-11-04",
    "end": "2026-11-05",
+   "method": "general"
+  },
+  {
+   "id": "C01658035",
+   "name": "옵토닉스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-05",
+   "end": "2026-11-06",
    "method": "general"
   }
  ],
