@@ -26,6 +26,32 @@
   "underwriter": "삼성증권,미래에셋증권"
  },
  {
+  "name": "엠비디",
+  "no": "2321",
+  "sub_start": "2026-11-12",
+  "sub_end": "2026-11-13",
+  "offer_price": null,
+  "band": [
+   9600,
+   11700
+  ],
+  "sub_competition": null,
+  "underwriter": "하나증권"
+ },
+ {
+  "name": "씨앤엠",
+  "no": "2346",
+  "sub_start": "2026-11-12",
+  "sub_end": "2026-11-13",
+  "offer_price": null,
+  "band": [
+   10000,
+   13000
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권"
+ },
+ {
   "name": "엔키화이트햇",
   "no": "2343",
   "sub_start": "2026-11-12",
@@ -156,19 +182,6 @@
   "underwriter": "삼성증권"
  },
  {
-  "name": "엠비디",
-  "no": "2321",
-  "sub_start": "2026-10-28",
-  "sub_end": "2026-10-29",
-  "offer_price": null,
-  "band": [
-   9600,
-   11700
-  ],
-  "sub_competition": null,
-  "underwriter": "하나증권"
- },
- {
   "name": "아이엠스팩1호",
   "no": "2329",
   "sub_start": "2026-10-26",
@@ -238,7 +251,7 @@
   "no": "2322",
   "sub_start": "2026-10-20",
   "sub_end": "2026-10-21",
-  "offer_price": null,
+  "offer_price": 15300,
   "band": [
    12600,
    15300
@@ -282,7 +295,7 @@
    2000,
    2000
   ],
-  "sub_competition": null,
+  "sub_competition": 656.0,
   "underwriter": "SK증권"
  },
  {
@@ -2312,6 +2325,19 @@
   ],
   "sub_competition": 315.98,
   "underwriter": "신한투자증권"
+ },
+ {
+  "name": "키움스팩10호",
+  "no": "2143",
+  "sub_start": "2024-12-11",
+  "sub_end": "2024-12-12",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 496.72,
+  "underwriter": "키움증권"
  },
  {
   "name": "키움스팩10호",
@@ -9722,31 +9748,5 @@
   ],
   "sub_competition": 638.63,
   "underwriter": "한국투자증권"
- },
- {
-  "name": "피피아이",
-  "no": "1478",
-  "sub_start": "2019-12-16",
-  "sub_end": "2019-12-17",
-  "offer_price": 7000,
-  "band": [
-   6000,
-   7000
-  ],
-  "sub_competition": 1147.7,
-  "underwriter": "미래에셋대우"
- },
- {
-  "name": "한화플러스스팩1호",
-  "no": "1494",
-  "sub_start": "2019-12-16",
-  "sub_end": "2019-12-17",
-  "offer_price": 2000,
-  "band": [
-   2000,
-   2000
-  ],
-  "sub_competition": 9.0,
-  "underwriter": "한화투자증권"
  }
 ]

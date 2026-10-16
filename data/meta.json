@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-15 17:13",
- "today": "2026-10-15",
+ "updated": "2026-10-16 17:13",
+ "today": "2026-10-16",
  "counts": {
-  "review": 38,
-  "approved": 13,
-  "offering": 25,
+  "review": 33,
+  "approved": 16,
+  "offering": 26,
   "listed": 823,
   "withdrawn": 176
  },
@@ -382,31 +382,13 @@
    "n": 3,
    "inst_comp": 1140.7,
    "top_ratio": 1.0,
-   "d1_avg": 0.2019,
-   "d1_med": 0.3967,
+   "d1_avg": 0.1991,
+   "d1_med": 0.3919,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "179880",
-   "name": "멜콘",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "method": "general"
-  },
-  {
-   "id": "250030",
-   "name": "진코스텍",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "method": "transfer"
-  },
   {
    "id": "C02032951",
    "name": "에스케이증권제14호기업인수목적",
@@ -417,8 +399,8 @@
    "method": "spac"
   },
   {
-   "id": "C01754737",
-   "name": "엘리스그룹",
+   "id": "N0fb787f2",
+   "name": "엘리스",
    "market": "KOSDAQ",
    "type": "상장",
    "start": "2026-10-20",
@@ -525,15 +507,6 @@
    "method": "spac"
   },
   {
-   "id": "C01705740",
-   "name": "엠비디",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-28",
-   "end": "2026-10-29",
-   "method": "general"
-  },
-  {
    "id": "C01835829",
    "name": "바로팜",
    "market": "KOSDAQ",
@@ -585,6 +558,15 @@
    "type": "청약",
    "start": "2026-11-05",
    "end": "2026-11-06",
+   "method": "general"
+  },
+  {
+   "id": "C01797635",
+   "name": "에이엘로봇",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-06",
+   "end": "2026-11-09",
    "method": "general"
   }
  ],

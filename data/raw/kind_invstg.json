@@ -11050,6 +11050,16 @@
   "kind_id": "20260122000245"
  },
  {
+  "name": "씨아이에스케미칼",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-09",
+  "result_date": "2026-10-15",
+  "result": "심사승인",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20260123000196"
+ },
+ {
   "name": "해치텍",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11100,6 +11110,16 @@
   "kind_id": "20260127000269"
  },
  {
+  "name": "인터엑스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-05-29",
+  "result_date": "2026-10-15",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000301"
+ },
+ {
   "name": "넥스아이",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11108,6 +11128,16 @@
   "result": "심사승인",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260127000307"
+ },
+ {
+  "name": "이노보테라퓨틱스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-27",
+  "result_date": "2026-10-15",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000410"
  },
  {
   "name": "마더스제약",
@@ -11155,7 +11185,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-05-19",
   "result_date": "2026-08-20",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "미래에셋증권 주식회사,삼성증권(주)",
   "kind_id": "20260129000215"
  },
@@ -11370,6 +11400,16 @@
   "kind_id": "20260330000617"
  },
  {
+  "name": "에스에프씨",
+  "market": "KOSPI",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-24",
+  "result_date": "2026-10-15",
+  "result": "심사승인",
+  "underwriter": "미래에셋증권 주식회사,한국투자증권(주)",
+  "kind_id": "20260331000039"
+ },
+ {
   "name": "에스텍시스템",
   "market": "KOSPI",
   "list_type": "신규상장",
@@ -11398,6 +11438,16 @@
   "result": "상장승인",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260513000472"
+ },
+ {
+  "name": "이나인페이",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-08-25",
+  "result_date": "2026-10-15",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260527000839"
  },
  {
   "name": "한국제17호스팩",
@@ -11550,16 +11600,6 @@
   "kind_id": "20251127000244"
  },
  {
-  "name": "에스에프씨",
-  "market": "KOSPI",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-24",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "미래에셋증권 주식회사,한국투자증권(주)",
-  "kind_id": "20260331000039"
- },
- {
   "name": "엑티브온",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11598,16 +11638,6 @@
   "result": "청구서접수",
   "underwriter": "대신증권(주)",
   "kind_id": "20260330000001"
- },
- {
-  "name": "이노보테라퓨틱스",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-27",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260127000410"
  },
  {
   "name": "바이다",
@@ -11720,16 +11750,6 @@
   "kind_id": "20260327000123"
  },
  {
-  "name": "이나인페이",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-08-25",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260527000839"
- },
- {
   "name": "에버온",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11758,16 +11778,6 @@
   "result": "청구서접수",
   "underwriter": "미래에셋증권 주식회사",
   "kind_id": "20260129000131"
- },
- {
-  "name": "인터엑스",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-05-29",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260127000301"
  },
  {
   "name": "넥스트에어로스페이스",
@@ -11868,15 +11878,5 @@
   "result": "청구서접수",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260730000114"
- },
- {
-  "name": "씨아이에스케미칼",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-09",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "KB증권(주)",
-  "kind_id": "20260123000196"
  }
 ]

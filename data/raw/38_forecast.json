@@ -14,6 +14,20 @@
   "underwriter": "SK증권"
  },
  {
+  "name": "티앤이코리아",
+  "no": "2322",
+  "forecast_date": "2026-10-07",
+  "band": [
+   12600,
+   15300
+  ],
+  "offer_price": 15300,
+  "offer_amount_mil": 36720,
+  "inst_competition": 1041.02,
+  "lockup_pct": 29.52,
+  "underwriter": "신한투자증권"
+ },
+ {
   "name": "디티에스(구.동양티에스)",
   "no": "2326",
   "forecast_date": "2026-10-01",
@@ -10344,19 +10358,5 @@
   "inst_competition": null,
   "lockup_pct": null,
   "underwriter": "SK증권"
- },
- {
-  "name": "리메드",
-  "no": "1485",
-  "forecast_date": "2019-11-19",
-  "band": [
-   14500,
-   16500
-  ],
-  "offer_price": 13000,
-  "offer_amount_mil": 8700,
-  "inst_competition": 24.76,
-  "lockup_pct": null,
-  "underwriter": "한국투자증권"
  }
 ]
