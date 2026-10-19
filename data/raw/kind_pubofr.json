@@ -1273,6 +1273,25 @@
   "kind_id": "20260527000849"
  },
  {
+  "name": "에스케이증권제14호기업인수목적",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-26",
+  "forecast": [
+   "2026-10-12",
+   "2026-10-13"
+  ],
+  "subscription": [
+   "2026-10-15",
+   "2026-10-16"
+  ],
+  "payment_date": "2026-10-20",
+  "offer_price": 2000,
+  "offer_amount_mil": 13000,
+  "listing_date": "2026-10-27",
+  "underwriter": "SK증권(주)",
+  "kind_id": "20260608000185"
+ },
+ {
   "name": "리브스메드",
   "market": "KOSDAQ",
   "filing_date": "2025-10-20",
@@ -2297,25 +2316,6 @@
   "listing_date": "2025-04-03",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20240530000194"
- },
- {
-  "name": "에스케이증권제14호기업인수목적",
-  "market": "KOSDAQ",
-  "filing_date": "2026-08-26",
-  "forecast": [
-   "2026-10-12",
-   "2026-10-13"
-  ],
-  "subscription": [
-   "2026-10-15",
-   "2026-10-16"
-  ],
-  "payment_date": "2026-10-20",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-10-27",
-  "underwriter": "SK증권(주)",
-  "kind_id": "20260608000185"
  },
  {
   "name": "기도산업",

@@ -1,5 +1,19 @@
 [
  {
+  "name": "한화플러스스팩6호",
+  "no": "2330",
+  "forecast_date": "2026-10-14",
+  "band": [
+   2000,
+   2000
+  ],
+  "offer_price": 2000,
+  "offer_amount_mil": 12000,
+  "inst_competition": 1256.48,
+  "lockup_pct": null,
+  "underwriter": "한화투자증권"
+ },
+ {
   "name": "SK증권스팩14호",
   "no": "2319",
   "forecast_date": "2026-10-12",
@@ -12,6 +26,20 @@
   "inst_competition": 1228.38,
   "lockup_pct": null,
   "underwriter": "SK증권"
+ },
+ {
+  "name": "크리에이츠",
+  "no": "2323",
+  "forecast_date": "2026-10-12",
+  "band": [
+   15000,
+   18000
+  ],
+  "offer_price": 15000,
+  "offer_amount_mil": 21000,
+  "inst_competition": 240.46,
+  "lockup_pct": null,
+  "underwriter": "삼성증권"
  },
  {
   "name": "티앤이코리아",
@@ -10330,33 +10358,5 @@
   "inst_competition": null,
   "lockup_pct": null,
   "underwriter": "아이비케이투자증권"
- },
- {
-  "name": "태웅로직스",
-  "no": "1481",
-  "forecast_date": "2019-11-21",
-  "band": [
-   3700,
-   4500
-  ],
-  "offer_price": 4500,
-  "offer_amount_mil": 18500,
-  "inst_competition": 1024.98,
-  "lockup_pct": 2.53,
-  "underwriter": "아이비케이투자증권,BNK투자증권"
- },
- {
-  "name": "에스케이스팩5호",
-  "no": "1482",
-  "forecast_date": "2019-11-20",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 8000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "SK증권"
  }
 ]

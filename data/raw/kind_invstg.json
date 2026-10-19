@@ -11530,6 +11530,16 @@
   "kind_id": "20260730000119"
  },
  {
+  "name": "신영스팩12호",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-08-12",
+  "result_date": "2026-10-19",
+  "result": "심사승인",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20260806000110"
+ },
+ {
   "name": "키노톤",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11578,16 +11588,6 @@
   "result": "청구서접수",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260130000287"
- },
- {
-  "name": "신영스팩12호",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-08-12",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "신영증권(주)",
-  "kind_id": "20260806000110"
  },
  {
   "name": "오토핸즈",

@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-16 17:13",
- "today": "2026-10-16",
+ "updated": "2026-10-19 17:21",
+ "today": "2026-10-19",
  "counts": {
-  "review": 33,
+  "review": 32,
   "approved": 16,
-  "offering": 26,
+  "offering": 27,
   "listed": 823,
   "withdrawn": 176
  },
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C02032951",
-   "name": "에스케이증권제14호기업인수목적",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "method": "spac"
-  },
-  {
    "id": "N0fb787f2",
    "name": "엘리스",
    "market": "KOSDAQ",
@@ -571,9 +562,9 @@
   }
  ],
  "backtest": {
-  "n": 125,
-  "brier": 0.2321,
+  "n": 122,
+  "brier": 0.2327,
   "acc": 0.648,
-  "base": 0.56
+  "base": 0.566
  }
 }

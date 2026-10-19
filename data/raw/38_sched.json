@@ -65,6 +65,19 @@
   "underwriter": "신영증권"
  },
  {
+  "name": "제이앤티지",
+  "no": "2347",
+  "sub_start": "2026-11-12",
+  "sub_end": "2026-11-13",
+  "offer_price": null,
+  "band": [
+   26400,
+   31900
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권,NH투자증권"
+ },
+ {
   "name": "하나에어로다이내믹스",
   "no": "2334",
   "sub_start": "2026-11-10",
@@ -264,7 +277,7 @@
   "no": "2323",
   "sub_start": "2026-10-20",
   "sub_end": "2026-10-21",
-  "offer_price": null,
+  "offer_price": 15000,
   "band": [
    15000,
    18000
@@ -277,7 +290,7 @@
   "no": "2330",
   "sub_start": "2026-10-20",
   "sub_end": "2026-10-21",
-  "offer_price": null,
+  "offer_price": 2000,
   "band": [
    2000,
    2000
@@ -2325,19 +2338,6 @@
   ],
   "sub_competition": 315.98,
   "underwriter": "신한투자증권"
- },
- {
-  "name": "키움스팩10호",
-  "no": "2143",
-  "sub_start": "2024-12-11",
-  "sub_end": "2024-12-12",
-  "offer_price": 2000,
-  "band": [
-   2000,
-   2000
-  ],
-  "sub_competition": 496.72,
-  "underwriter": "키움증권"
  },
  {
   "name": "키움스팩10호",
