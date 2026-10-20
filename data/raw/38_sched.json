@@ -1,5 +1,18 @@
 [
  {
+  "name": "씨아이에스케미칼",
+  "no": "2348",
+  "sub_start": "2026-12-10",
+  "sub_end": "2026-12-11",
+  "offer_price": null,
+  "band": [
+   5400,
+   6800
+  ],
+  "sub_competition": null,
+  "underwriter": "KB증권"
+ },
+ {
   "name": "케이엠에프",
   "no": "2340",
   "sub_start": "2026-11-24",
@@ -24,6 +37,19 @@
   ],
   "sub_competition": null,
   "underwriter": "삼성증권,미래에셋증권"
+ },
+ {
+  "name": "에스에프씨 (유가)",
+  "no": "2349",
+  "sub_start": "2026-11-18",
+  "sub_end": "2026-11-19",
+  "offer_price": null,
+  "band": [
+   31600,
+   36100
+  ],
+  "sub_competition": null,
+  "underwriter": "미래에셋증권,한국투자증권,삼성증권"
  },
  {
   "name": "엠비디",
@@ -9748,5 +9774,369 @@
   ],
   "sub_competition": 638.63,
   "underwriter": "한국투자증권"
+ },
+ {
+  "name": "피피아이",
+  "no": "1478",
+  "sub_start": "2019-12-16",
+  "sub_end": "2019-12-17",
+  "offer_price": 7000,
+  "band": [
+   6000,
+   7000
+  ],
+  "sub_competition": 1147.7,
+  "underwriter": "미래에셋대우"
+ },
+ {
+  "name": "한화플러스스팩1호",
+  "no": "1494",
+  "sub_start": "2019-12-16",
+  "sub_end": "2019-12-17",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 9.0,
+  "underwriter": "한화투자증권"
+ },
+ {
+  "name": "브릿지바이오테라퓨틱스",
+  "no": "1484",
+  "sub_start": "2019-12-12",
+  "sub_end": "2019-12-13",
+  "offer_price": 60000,
+  "band": [
+   70000,
+   80000
+  ],
+  "sub_competition": 33.52,
+  "underwriter": "대신증권,KB증권"
+ },
+ {
+  "name": "엔에이치스팩15호",
+  "no": "1493",
+  "sub_start": "2019-12-12",
+  "sub_end": "2019-12-13",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 1.43,
+  "underwriter": "NH투자증권"
+ },
+ {
+  "name": "메탈라이프",
+  "no": "1495",
+  "sub_start": "2019-12-12",
+  "sub_end": "2019-12-13",
+  "offer_price": 13000,
+  "band": [
+   10500,
+   13000
+  ],
+  "sub_competition": 1397.97,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "하이스팩5호",
+  "no": "1496",
+  "sub_start": "2019-12-11",
+  "sub_end": "2019-12-12",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 0.37,
+  "underwriter": "하이투자증권"
+ },
+ {
+  "name": "메드팩토",
+  "no": "1488",
+  "sub_start": "2019-12-10",
+  "sub_end": "2019-12-11",
+  "offer_price": 40000,
+  "band": [
+   34000,
+   43000
+  ],
+  "sub_competition": 18.84,
+  "underwriter": "삼성증권"
+ },
+ {
+  "name": "신테카바이오",
+  "no": "1489",
+  "sub_start": "2019-12-09",
+  "sub_end": "2019-12-10",
+  "offer_price": 12000,
+  "band": [
+   15000,
+   19000
+  ],
+  "sub_competition": 123.2,
+  "underwriter": "케이비증권"
+ },
+ {
+  "name": "대신밸런스스팩8호",
+  "no": "1491",
+  "sub_start": "2019-12-09",
+  "sub_end": "2019-12-10",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 0.67,
+  "underwriter": "대신증권"
+ },
+ {
+  "name": "유안타스팩6호",
+  "no": "1492",
+  "sub_start": "2019-12-09",
+  "sub_end": "2019-12-10",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 0.37,
+  "underwriter": "유안타증권"
+ },
+ {
+  "name": "제이엘케이인스펙션",
+  "no": "1486",
+  "sub_start": "2019-12-02",
+  "sub_end": "2019-12-03",
+  "offer_price": 9000,
+  "band": [
+   11000,
+   14500
+  ],
+  "sub_competition": 8.49,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "IBKS스팩12호",
+  "no": "1483",
+  "sub_start": "2019-11-28",
+  "sub_end": "2019-11-29",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 76.16,
+  "underwriter": "아이비케이투자증권"
+ },
+ {
+  "name": "태웅로직스",
+  "no": "1481",
+  "sub_start": "2019-11-26",
+  "sub_end": "2019-11-27",
+  "offer_price": 4500,
+  "band": [
+   3700,
+   4500
+  ],
+  "sub_competition": 618.52,
+  "underwriter": "아이비케이투자증권,BNK투자증권"
+ },
+ {
+  "name": "에스케이스팩5호",
+  "no": "1482",
+  "sub_start": "2019-11-25",
+  "sub_end": "2019-11-26",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 0.37,
+  "underwriter": "SK증권"
+ },
+ {
+  "name": "리메드",
+  "no": "1485",
+  "sub_start": "2019-11-25",
+  "sub_end": "2019-11-26",
+  "offer_price": 13000,
+  "band": [
+   14500,
+   16500
+  ],
+  "sub_competition": 92.69,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "코리아센터",
+  "no": "1468",
+  "sub_start": "2019-11-21",
+  "sub_end": "2019-11-22",
+  "offer_price": 18000,
+  "band": [
+   24000,
+   27200
+  ],
+  "sub_competition": 4.13,
+  "underwriter": "NH투자증권,신한금융투자,삼성증권"
+ },
+ {
+  "name": "IBKS스팩11호",
+  "no": "1480",
+  "sub_start": "2019-11-21",
+  "sub_end": "2019-11-22",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 6.97,
+  "underwriter": "아이비케이투자증권"
+ },
+ {
+  "name": "유안타스팩5호",
+  "no": "1479",
+  "sub_start": "2019-11-18",
+  "sub_end": "2019-11-19",
+  "offer_price": 2000,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": 0.2,
+  "underwriter": "유안타증권"
+ },
+ {
+  "name": "엔에이치프라임리츠 (유가)",
+  "no": "1490",
+  "sub_start": "2019-11-18",
+  "sub_end": "2019-11-20",
+  "offer_price": 5000,
+  "band": [
+   5000,
+   5000
+  ],
+  "sub_competition": 317.62,
+  "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
+ },
+ {
+  "name": "노터스",
+  "no": "1476",
+  "sub_start": "2019-11-14",
+  "sub_end": "2019-11-15",
+  "offer_price": 20000,
+  "band": [
+   17000,
+   20000
+  ],
+  "sub_competition": 22.31,
+  "underwriter": "대신증권"
+ },
+ {
+  "name": "센트랄모텍 (유가)",
+  "no": "1477",
+  "sub_start": "2019-11-13",
+  "sub_end": "2019-11-14",
+  "offer_price": 6000,
+  "band": [
+   5000,
+   6000
+  ],
+  "sub_competition": 580.5,
+  "underwriter": "한국투자증권,BNK투자증권"
+ },
+ {
+  "name": "티움바이오",
+  "no": "1470",
+  "sub_start": "2019-11-11",
+  "sub_end": "2019-11-12",
+  "offer_price": 12000,
+  "band": [
+   16000,
+   20000
+  ],
+  "sub_competition": 5.3,
+  "underwriter": "키움증권,삼성증권"
+ },
+ {
+  "name": "코리아에셋투자증권",
+  "no": "1472",
+  "sub_start": "2019-11-11",
+  "sub_end": "2019-11-12",
+  "offer_price": 10000,
+  "band": [
+   8000,
+   10000
+  ],
+  "sub_competition": 231.78,
+  "underwriter": "신영증권"
+ },
+ {
+  "name": "씨에스베어링",
+  "no": "1474",
+  "sub_start": "2019-11-11",
+  "sub_end": "2019-11-12",
+  "offer_price": 8400,
+  "band": [
+   7400,
+   8400
+  ],
+  "sub_competition": 699.67,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "우양",
+  "no": "1475",
+  "sub_start": "2019-11-11",
+  "sub_end": "2019-11-12",
+  "offer_price": 4200,
+  "band": [
+   3800,
+   4200
+  ],
+  "sub_competition": 1037.31,
+  "underwriter": "미래에셋대우"
+ },
+ {
+  "name": "에스제이그룹",
+  "no": "1469",
+  "sub_start": "2019-11-07",
+  "sub_end": "2019-11-08",
+  "offer_price": 38600,
+  "band": [
+   32000,
+   38600
+  ],
+  "sub_competition": 512.93,
+  "underwriter": "NH투자증권,아이비케이투자증권"
+ },
+ {
+  "name": "현대에너지솔루션 (유가)",
+  "no": "1473",
+  "sub_start": "2019-11-07",
+  "sub_end": "2019-11-08",
+  "offer_price": 18000,
+  "band": [
+   24000,
+   28000
+  ],
+  "sub_competition": 126.68,
+  "underwriter": "한국투자증권,하나금융투자,KB증권,하이투자증권,유안타증권"
+ },
+ {
+  "name": "제테마",
+  "no": "1466",
+  "sub_start": "2019-11-06",
+  "sub_end": "2019-11-07",
+  "offer_price": 21000,
+  "band": [
+   36000,
+   48000
+  ],
+  "sub_competition": 590.02,
+  "underwriter": "한국투자증권,DB금융투자"
  }
 ]

@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "엘리스",
+  "market": "KOSDAQ",
+  "listing_date": "2026-10-20",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "소프트웨어 개발 및 공급업",
+  "country": "대한민국",
+  "underwriter": "미래에셋증권 주식회사,삼성증권(주)",
+  "par": 500,
+  "offer_price": 90500,
+  "offer_amount": 201091000,
+  "product": "AX, AI클라우드",
+  "listed_shares": 11128864,
+  "code": "0158S0"
+ },
+ {
   "name": "멜콘",
   "market": "KOSDAQ",
   "listing_date": "2026-10-15",

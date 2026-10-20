@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-19 17:21",
- "today": "2026-10-19",
+ "updated": "2026-10-20 17:16",
+ "today": "2026-10-20",
  "counts": {
   "review": 32,
-  "approved": 16,
-  "offering": 27,
-  "listed": 823,
+  "approved": 14,
+  "offering": 28,
+  "listed": 824,
   "withdrawn": 176
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-10": {
    "KOSPI": 0,
-   "KOSDAQ": 3
+   "KOSDAQ": 4
   }
  },
  "quarterly": [
@@ -379,10 +379,10 @@
   },
   {
    "q": "2026Q4",
-   "n": 3,
-   "inst_comp": 1140.7,
+   "n": 4,
+   "inst_comp": 952.8,
    "top_ratio": 1.0,
-   "d1_avg": 0.1991,
+   "d1_avg": 0.0662,
    "d1_med": 0.3919,
    "m3_win": null,
    "temp": "보통"
@@ -390,7 +390,7 @@
  ],
  "events": [
   {
-   "id": "N0fb787f2",
+   "id": "0158S0",
    "name": "엘리스",
    "market": "KOSDAQ",
    "type": "상장",
@@ -498,6 +498,33 @@
    "method": "spac"
   },
   {
+   "id": "C01543043",
+   "name": "티앤이코리아",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "method": "general"
+  },
+  {
+   "id": "C01540903",
+   "name": "크리에이츠",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "method": "general"
+  },
+  {
+   "id": "C01965157",
+   "name": "한화플러스제6호스팩",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "method": "spac"
+  },
+  {
    "id": "C01835829",
    "name": "바로팜",
    "market": "KOSDAQ",
@@ -558,6 +585,24 @@
    "type": "청약",
    "start": "2026-11-06",
    "end": "2026-11-09",
+   "method": "general"
+  },
+  {
+   "id": "C01706509",
+   "name": "다비오",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "method": "general"
+  },
+  {
+   "id": "C01025617",
+   "name": "하나에어로다이내믹스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
    "method": "general"
   }
  ],

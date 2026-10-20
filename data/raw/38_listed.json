@@ -1,5 +1,29 @@
 [
  {
+  "name": "크리에이츠",
+  "no": "2323",
+  "listing_date": "2026-10-30",
+  "offer_price": 15000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "한화플러스스팩6호",
+  "no": "2330",
+  "listing_date": "2026-10-30",
+  "offer_price": 2000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "티앤이코리아",
+  "no": "2322",
+  "listing_date": "2026-10-29",
+  "offer_price": 15300,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "SK증권스팩14호",
   "no": "2319",
   "listing_date": "2026-10-27",
@@ -28,8 +52,8 @@
   "no": "2316",
   "listing_date": "2026-10-20",
   "offer_price": 90500,
-  "open_price": null,
-  "first_close": null
+  "open_price": 75700,
+  "first_close": 61000
  },
  {
   "name": "멜콘(구.에스앤에프솔루션)",
@@ -5894,29 +5918,5 @@
   "offer_price": 9000,
   "open_price": 8500,
   "first_close": 9000
- },
- {
-  "name": "태웅로직스",
-  "no": "1481",
-  "listing_date": "2019-12-10",
-  "offer_price": 4500,
-  "open_price": 8170,
-  "first_close": 6110
- },
- {
-  "name": "IBKS스팩12호",
-  "no": "1483",
-  "listing_date": "2019-12-09",
-  "offer_price": 2000,
-  "open_price": 2040,
-  "first_close": 2050
- },
- {
-  "name": "리메드",
-  "no": "1485",
-  "listing_date": "2019-12-06",
-  "offer_price": 13000,
-  "open_price": 14100,
-  "first_close": 13450
  }
 ]
