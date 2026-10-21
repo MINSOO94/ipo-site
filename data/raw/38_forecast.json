@@ -14,6 +14,48 @@
   "underwriter": "한화투자증권"
  },
  {
+  "name": "이에스티",
+  "no": "2332",
+  "forecast_date": "2026-10-14",
+  "band": [
+   10600,
+   12400
+  ],
+  "offer_price": 12400,
+  "offer_amount_mil": 27280,
+  "inst_competition": 630.1,
+  "lockup_pct": 0.24,
+  "underwriter": "대신증권"
+ },
+ {
+  "name": "래블업",
+  "no": "2335",
+  "forecast_date": "2026-10-13",
+  "band": [
+   19000,
+   22000
+  ],
+  "offer_price": 19000,
+  "offer_amount_mil": 41420,
+  "inst_competition": 284.53,
+  "lockup_pct": 2.09,
+  "underwriter": "NH투자증권"
+ },
+ {
+  "name": "영광(구.영광공작소)",
+  "no": "2333",
+  "forecast_date": "2026-10-13",
+  "band": [
+   14000,
+   17000
+  ],
+  "offer_price": 17000,
+  "offer_amount_mil": 31640,
+  "inst_competition": 1000.07,
+  "lockup_pct": 0.87,
+  "underwriter": "한국투자증권"
+ },
+ {
   "name": "SK증권스팩14호",
   "no": "2319",
   "forecast_date": "2026-10-12",
@@ -40,6 +82,20 @@
   "inst_competition": 240.46,
   "lockup_pct": null,
   "underwriter": "삼성증권"
+ },
+ {
+  "name": "인텔리빅스",
+  "no": "2328",
+  "forecast_date": "2026-10-12",
+  "band": [
+   7600,
+   9000
+  ],
+  "offer_price": 9000,
+  "offer_amount_mil": 22500,
+  "inst_competition": 1234.3,
+  "lockup_pct": 6.14,
+  "underwriter": "미래에셋증권"
  },
  {
   "name": "티앤이코리아",
@@ -10302,61 +10358,5 @@
   "inst_competition": null,
   "lockup_pct": null,
   "underwriter": "대신증권"
- },
- {
-  "name": "유안타스팩6호",
-  "no": "1492",
-  "forecast_date": "2019-12-03",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 13000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "유안타증권"
- },
- {
-  "name": "신테카바이오",
-  "no": "1489",
-  "forecast_date": "2019-12-02",
-  "band": [
-   15000,
-   19000
-  ],
-  "offer_price": 12000,
-  "offer_amount_mil": 24000,
-  "inst_competition": 75.61,
-  "lockup_pct": 1.32,
-  "underwriter": "케이비증권"
- },
- {
-  "name": "제이엘케이인스펙션",
-  "no": "1486",
-  "forecast_date": "2019-11-26",
-  "band": [
-   11000,
-   14500
-  ],
-  "offer_price": 9000,
-  "offer_amount_mil": 22000,
-  "inst_competition": 69.81,
-  "lockup_pct": null,
-  "underwriter": "한국투자증권"
- },
- {
-  "name": "IBKS스팩12호",
-  "no": "1483",
-  "forecast_date": "2019-11-25",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 5800,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "아이비케이투자증권"
  }
 ]

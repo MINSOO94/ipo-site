@@ -13,6 +13,32 @@
   "underwriter": "KB증권"
  },
  {
+  "name": "이노보테라퓨틱스",
+  "no": "2351",
+  "sub_start": "2026-12-07",
+  "sub_end": "2026-12-08",
+  "offer_price": null,
+  "band": [
+   20000,
+   24000
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "에이엔에이치스트럭쳐",
+  "no": "2350",
+  "sub_start": "2026-11-27",
+  "sub_end": "2026-11-30",
+  "offer_price": null,
+  "band": [
+   11200,
+   13600
+  ],
+  "sub_competition": null,
+  "underwriter": "NH투자증권"
+ },
+ {
   "name": "케이엠에프",
   "no": "2340",
   "sub_start": "2026-11-24",
@@ -238,7 +264,7 @@
   "no": "2335",
   "sub_start": "2026-10-22",
   "sub_end": "2026-10-23",
-  "offer_price": null,
+  "offer_price": 19000,
   "band": [
    19000,
    22000
@@ -251,7 +277,7 @@
   "no": "2332",
   "sub_start": "2026-10-22",
   "sub_end": "2026-10-23",
-  "offer_price": null,
+  "offer_price": 12400,
   "band": [
    10600,
    12400
@@ -264,7 +290,7 @@
   "no": "2333",
   "sub_start": "2026-10-22",
   "sub_end": "2026-10-23",
-  "offer_price": null,
+  "offer_price": 17000,
   "band": [
    14000,
    17000
@@ -277,7 +303,7 @@
   "no": "2328",
   "sub_start": "2026-10-21",
   "sub_end": "2026-10-22",
-  "offer_price": null,
+  "offer_price": 9000,
   "band": [
    7600,
    9000
@@ -295,7 +321,7 @@
    12600,
    15300
   ],
-  "sub_competition": null,
+  "sub_competition": 1253.39,
   "underwriter": "신한투자증권"
  },
  {
@@ -308,7 +334,7 @@
    15000,
    18000
   ],
-  "sub_competition": null,
+  "sub_competition": 6.92,
   "underwriter": "삼성증권"
  },
  {
@@ -321,7 +347,7 @@
    2000,
    2000
   ],
-  "sub_competition": null,
+  "sub_competition": 185.75,
   "underwriter": "한화투자증권"
  },
  {
@@ -10112,31 +10138,5 @@
   ],
   "sub_competition": 512.93,
   "underwriter": "NH투자증권,아이비케이투자증권"
- },
- {
-  "name": "현대에너지솔루션 (유가)",
-  "no": "1473",
-  "sub_start": "2019-11-07",
-  "sub_end": "2019-11-08",
-  "offer_price": 18000,
-  "band": [
-   24000,
-   28000
-  ],
-  "sub_competition": 126.68,
-  "underwriter": "한국투자증권,하나금융투자,KB증권,하이투자증권,유안타증권"
- },
- {
-  "name": "제테마",
-  "no": "1466",
-  "sub_start": "2019-11-06",
-  "sub_end": "2019-11-07",
-  "offer_price": 21000,
-  "band": [
-   36000,
-   48000
-  ],
-  "sub_competition": 590.02,
-  "underwriter": "한국투자증권,DB금융투자"
  }
 ]

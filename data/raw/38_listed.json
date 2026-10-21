@@ -1,9 +1,33 @@
 [
  {
+  "name": "이에스티",
+  "no": "2332",
+  "listing_date": "2026-11-04",
+  "offer_price": 12400,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "영광(구.영광공작소)",
+  "no": "2333",
+  "listing_date": "2026-11-02",
+  "offer_price": 17000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "크리에이츠",
   "no": "2323",
   "listing_date": "2026-10-30",
   "offer_price": 15000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "인텔리빅스",
+  "no": "2328",
+  "listing_date": "2026-10-30",
+  "offer_price": 9000,
   "open_price": null,
   "first_close": null
  },
@@ -5894,29 +5918,5 @@
   "offer_price": 2000,
   "open_price": 2005,
   "first_close": 2005
- },
- {
-  "name": "유안타스팩6호",
-  "no": "1492",
-  "listing_date": "2019-12-19",
-  "offer_price": 2000,
-  "open_price": 2005,
-  "first_close": 2000
- },
- {
-  "name": "신테카바이오",
-  "no": "1489",
-  "listing_date": "2019-12-17",
-  "offer_price": 12000,
-  "open_price": 14950,
-  "first_close": 16700
- },
- {
-  "name": "제이엘케이인스펙션",
-  "no": "1486",
-  "listing_date": "2019-12-11",
-  "offer_price": 9000,
-  "open_price": 8500,
-  "first_close": 9000
  }
 ]

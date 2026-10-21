@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-20 17:16",
- "today": "2026-10-20",
+ "updated": "2026-10-21 17:19",
+ "today": "2026-10-21",
  "counts": {
   "review": 32,
-  "approved": 14,
-  "offering": 28,
+  "approved": 12,
+  "offering": 30,
   "listed": 824,
   "withdrawn": 176
  },
@@ -382,22 +382,13 @@
    "n": 4,
    "inst_comp": 952.8,
    "top_ratio": 1.0,
-   "d1_avg": 0.0662,
+   "d1_avg": 0.0695,
    "d1_med": 0.3919,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "0158S0",
-   "name": "엘리스",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-20",
-   "end": "2026-10-20",
-   "method": "general"
-  },
   {
    "id": "C01540903",
    "name": "크리에이츠",
@@ -441,6 +432,15 @@
    "type": "상장",
    "start": "2026-10-22",
    "end": "2026-10-22",
+   "method": "general"
+  },
+  {
+   "id": "C01863318",
+   "name": "넥스아이",
+   "market": "KOSDAQ",
+   "type": "수요예측",
+   "start": "2026-10-22",
+   "end": "2026-10-28",
    "method": "general"
   },
   {
@@ -525,6 +525,24 @@
    "method": "spac"
   },
   {
+   "id": "C01649408",
+   "name": "인텔리빅스",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "method": "general"
+  },
+  {
+   "id": "C00579342",
+   "name": "영광",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-02",
+   "end": "2026-11-02",
+   "method": "general"
+  },
+  {
    "id": "C01835829",
    "name": "바로팜",
    "market": "KOSDAQ",
@@ -548,6 +566,15 @@
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-11-03",
+   "end": "2026-11-04",
+   "method": "general"
+  },
+  {
+   "id": "C01378005",
+   "name": "이에스티",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-04",
    "end": "2026-11-04",
    "method": "general"
   },

@@ -2166,6 +2166,25 @@
   "kind_id": "20241129000242"
  },
  {
+  "name": "넥스아이",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-28",
+  "forecast": [
+   "2026-10-22",
+   "2026-10-28"
+  ],
+  "subscription": [
+   "2026-11-03",
+   "2026-11-04"
+  ],
+  "payment_date": "2026-11-06",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-11-12",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000307"
+ },
+ {
   "name": "에이치엘지노믹스",
   "market": "KOSDAQ",
   "filing_date": "2026-06-16",
