@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "엠에스바이오",
+  "market": "KOSDAQ",
+  "listing_date": "2026-10-22",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "의료용 기기 제조업",
+  "country": "대한민국",
+  "underwriter": "KB증권(주)",
+  "par": 100,
+  "offer_price": 7800,
+  "offer_amount": 31200000,
+  "product": "의료용 인체조직 이식재 및 생체재료 기반 의료기기",
+  "listed_shares": 27202650,
+  "code": "0013Y0"
+ },
+ {
   "name": "엘리스",
   "market": "KOSDAQ",
   "listing_date": "2026-10-20",

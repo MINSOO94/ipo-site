@@ -304,6 +304,25 @@
   "kind_id": "20250827000564"
  },
  {
+  "name": "한화플러스제6호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-17",
+  "forecast": [
+   "2026-10-14",
+   "2026-10-15"
+  ],
+  "subscription": [
+   "2026-10-20",
+   "2026-10-21"
+  ],
+  "payment_date": "2026-10-23",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-10-30",
+  "underwriter": "한화투자증권(주)",
+  "kind_id": "20260609000114"
+ },
+ {
   "name": "삼양컴텍",
   "market": "KOSDAQ",
   "filing_date": "2025-06-16",
@@ -948,6 +967,25 @@
   "listing_date": "2026-08-18",
   "underwriter": "삼성증권(주)",
   "kind_id": "20250923000002"
+ },
+ {
+  "name": "크리에이츠",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-04",
+  "forecast": [
+   "2026-10-12",
+   "2026-10-16"
+  ],
+  "subscription": [
+   "2026-10-20",
+   "2026-10-21"
+  ],
+  "payment_date": "2026-10-23",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-10-29",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20260205000272"
  },
  {
   "name": "한국제16호스팩",
@@ -2620,6 +2658,25 @@
   "listing_date": "2026-10-23",
   "underwriter": "대신증권(주)",
   "kind_id": "20250124000277"
+ },
+ {
+  "name": "티앤이코리아",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-03",
+  "forecast": [
+   "2026-10-07",
+   "2026-10-14"
+  ],
+  "subscription": [
+   "2026-10-20",
+   "2026-10-21"
+  ],
+  "payment_date": "2026-10-23",
+  "offer_price": 15300,
+  "offer_amount_mil": 36720,
+  "listing_date": "2026-10-29",
+  "underwriter": "신한투자증권 주식회사",
+  "kind_id": "20260128000383"
  },
  {
   "name": "심플랫폼",

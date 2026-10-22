@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-21 17:19",
- "today": "2026-10-21",
+ "updated": "2026-10-22 17:20",
+ "today": "2026-10-22",
  "counts": {
   "review": 32,
-  "approved": 12,
+  "approved": 11,
   "offering": 30,
-  "listed": 824,
+  "listed": 825,
   "withdrawn": 176
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-10": {
    "KOSPI": 0,
-   "KOSDAQ": 4
+   "KOSDAQ": 5
   }
  },
  "quarterly": [
@@ -374,48 +374,21 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.333,
+   "m3_win": 0.25,
    "temp": "보통"
   },
   {
    "q": "2026Q4",
-   "n": 4,
-   "inst_comp": 952.8,
+   "n": 5,
+   "inst_comp": 981.5,
    "top_ratio": 1.0,
-   "d1_avg": 0.0695,
+   "d1_avg": 0.1907,
    "d1_med": 0.3919,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "C01540903",
-   "name": "크리에이츠",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-20",
-   "end": "2026-10-21",
-   "method": "general"
-  },
-  {
-   "id": "C01965157",
-   "name": "한화플러스제6호스팩",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-20",
-   "end": "2026-10-21",
-   "method": "spac"
-  },
-  {
-   "id": "C01543043",
-   "name": "티앤이코리아",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-20",
-   "end": "2026-10-21",
-   "method": "general"
-  },
   {
    "id": "C01649408",
    "name": "인텔리빅스",
@@ -426,7 +399,7 @@
    "method": "general"
   },
   {
-   "id": "C01749559",
+   "id": "0013Y0",
    "name": "엠에스바이오",
    "market": "KOSDAQ",
    "type": "상장",
@@ -498,8 +471,8 @@
    "method": "spac"
   },
   {
-   "id": "C01543043",
-   "name": "티앤이코리아",
+   "id": "C01540903",
+   "name": "크리에이츠",
    "market": "KOSDAQ",
    "type": "상장",
    "start": "2026-10-29",
@@ -507,12 +480,12 @@
    "method": "general"
   },
   {
-   "id": "C01540903",
-   "name": "크리에이츠",
+   "id": "C01543043",
+   "name": "티앤이코리아",
    "market": "KOSDAQ",
    "type": "상장",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
    "method": "general"
   },
   {
@@ -561,6 +534,15 @@
    "method": "general"
   },
   {
+   "id": "C01956751",
+   "name": "래블업",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "method": "general"
+  },
+  {
    "id": "C01863318",
    "name": "넥스아이",
    "market": "KOSDAQ",
@@ -577,6 +559,15 @@
    "start": "2026-11-04",
    "end": "2026-11-04",
    "method": "general"
+  },
+  {
+   "id": "C02036869",
+   "name": "아이엠스팩1호",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "method": "spac"
   },
   {
    "id": "C00960234",
@@ -631,11 +622,56 @@
    "start": "2026-11-10",
    "end": "2026-11-11",
    "method": "general"
+  },
+  {
+   "id": "C01863318",
+   "name": "넥스아이",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "method": "general"
+  },
+  {
+   "id": "C01705740",
+   "name": "엠비디",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "method": "general"
+  },
+  {
+   "id": "C01403198",
+   "name": "제이앤티지",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "method": "general"
+  },
+  {
+   "id": "C01795859",
+   "name": "엔키화이트햇",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "method": "general"
+  },
+  {
+   "id": "C00618173",
+   "name": "씨앤엠",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "method": "general"
   }
  ],
  "backtest": {
   "n": 122,
-  "brier": 0.2327,
+  "brier": 0.2321,
   "acc": 0.648,
   "base": 0.566
  }

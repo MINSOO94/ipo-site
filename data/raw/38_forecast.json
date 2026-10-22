@@ -1,5 +1,19 @@
 [
  {
+  "name": "아이엠스팩1호",
+  "no": "2329",
+  "forecast_date": "2026-10-19",
+  "band": [
+   2000,
+   2000
+  ],
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "inst_competition": 1266.52,
+  "lockup_pct": null,
+  "underwriter": "아이엠증권"
+ },
+ {
   "name": "한화플러스스팩6호",
   "no": "2330",
   "forecast_date": "2026-10-14",
@@ -10344,19 +10358,5 @@
   "inst_competition": null,
   "lockup_pct": null,
   "underwriter": "하이투자증권"
- },
- {
-  "name": "대신밸런스스팩8호",
-  "no": "1491",
-  "forecast_date": "2019-12-03",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 10000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "대신증권"
  }
 ]

@@ -1,9 +1,25 @@
 [
  {
+  "name": "아이엠스팩1호",
+  "no": "2329",
+  "listing_date": "2026-11-04",
+  "offer_price": 2000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "이에스티",
   "no": "2332",
   "listing_date": "2026-11-04",
   "offer_price": 12400,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "래블업",
+  "no": "2335",
+  "listing_date": "2026-11-03",
+  "offer_price": 19000,
   "open_price": null,
   "first_close": null
  },
@@ -68,8 +84,8 @@
   "no": "2324",
   "listing_date": "2026-10-22",
   "offer_price": 7800,
-  "open_price": null,
-  "first_close": null
+  "open_price": 16000,
+  "first_close": 13070
  },
  {
   "name": "엘리스그룹",
@@ -5902,21 +5918,5 @@
   "offer_price": 60000,
   "open_price": 62400,
   "first_close": 54300
- },
- {
-  "name": "메드팩토",
-  "no": "1488",
-  "listing_date": "2019-12-19",
-  "offer_price": 40000,
-  "open_price": 40000,
-  "first_close": 35900
- },
- {
-  "name": "대신밸런스스팩8호",
-  "no": "1491",
-  "listing_date": "2019-12-19",
-  "offer_price": 2000,
-  "open_price": 2005,
-  "first_close": 2005
  }
 ]

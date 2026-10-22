@@ -78,6 +78,19 @@
   "underwriter": "미래에셋증권,한국투자증권,삼성증권"
  },
  {
+  "name": "유캐스트",
+  "no": "2352",
+  "sub_start": "2026-11-18",
+  "sub_end": "2026-11-19",
+  "offer_price": null,
+  "band": [
+   19000,
+   23000
+  ],
+  "sub_competition": null,
+  "underwriter": "유진투자증권,신영증권"
+ },
+ {
   "name": "엠비디",
   "no": "2321",
   "sub_start": "2026-11-12",
@@ -251,7 +264,7 @@
   "no": "2329",
   "sub_start": "2026-10-26",
   "sub_end": "2026-10-27",
-  "offer_price": null,
+  "offer_price": 2000,
   "band": [
    2000,
    2000
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 1037.31,
   "underwriter": "미래에셋대우"
- },
- {
-  "name": "에스제이그룹",
-  "no": "1469",
-  "sub_start": "2019-11-07",
-  "sub_end": "2019-11-08",
-  "offer_price": 38600,
-  "band": [
-   32000,
-   38600
-  ],
-  "sub_competition": 512.93,
-  "underwriter": "NH투자증권,아이비케이투자증권"
  }
 ]
