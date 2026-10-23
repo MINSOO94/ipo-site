@@ -76,8 +76,8 @@
   "no": "2326",
   "listing_date": "2026-10-23",
   "offer_price": 18500,
-  "open_price": null,
-  "first_close": null
+  "open_price": 32350,
+  "first_close": 25050
  },
  {
   "name": "엠에스바이오",
@@ -696,7 +696,7 @@
   "first_close": 12810
  },
  {
-  "name": "비엔케이스팩3호",
+  "name": "BNK스팩3호",
   "no": "2241",
   "listing_date": "2025-11-21",
   "offer_price": 2000,
@@ -2104,7 +2104,7 @@
   "first_close": 27050
  },
  {
-  "name": "비엔케이스팩2호",
+  "name": "BNK스팩2호",
   "no": "2023",
   "listing_date": "2024-03-05",
   "offer_price": 2000,
@@ -3232,7 +3232,7 @@
   "first_close": 10650
  },
  {
-  "name": "비엔케이스팩1호",
+  "name": "BNK스팩1호",
   "no": "1871",
   "listing_date": "2022-12-22",
   "offer_price": 2000,

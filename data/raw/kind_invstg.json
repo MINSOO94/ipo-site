@@ -11475,7 +11475,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-06-12",
   "result_date": "2026-07-29",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "SK증권(주)",
   "kind_id": "20260608000185"
  },
@@ -11710,6 +11710,16 @@
   "kind_id": "20260527000562"
  },
  {
+  "name": "에버스핀",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-23",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "KB증권(주)",
+  "kind_id": "20260330000141"
+ },
+ {
   "name": "어피닛",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11878,5 +11888,15 @@
   "result": "청구서접수",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260730000114"
+ },
+ {
+  "name": "티카로스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-23",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "키움증권(주)",
+  "kind_id": "20260727000195"
  }
 ]

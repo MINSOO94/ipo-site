@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22 17:20",
- "today": "2026-10-22",
+ "updated": "2026-10-23 17:17",
+ "today": "2026-10-23",
  "counts": {
-  "review": 32,
-  "approved": 11,
+  "review": 34,
+  "approved": 10,
   "offering": 30,
-  "listed": 825,
-  "withdrawn": 176
+  "listed": 826,
+  "withdrawn": 175
  },
  "monthly": {
   "2024-11": {
@@ -103,7 +103,7 @@
   },
   "2026-10": {
    "KOSPI": 0,
-   "KOSDAQ": 5
+   "KOSDAQ": 6
   }
  },
  "quarterly": [
@@ -379,10 +379,10 @@
   },
   {
    "q": "2026Q4",
-   "n": 5,
-   "inst_comp": 981.5,
+   "n": 6,
+   "inst_comp": 981.9,
    "top_ratio": 1.0,
-   "d1_avg": 0.1907,
+   "d1_avg": 0.2193,
    "d1_med": 0.3919,
    "m3_win": null,
    "temp": "보통"
@@ -390,26 +390,17 @@
  ],
  "events": [
   {
-   "id": "C01649408",
-   "name": "인텔리빅스",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-10-21",
-   "end": "2026-10-22",
-   "method": "general"
-  },
-  {
-   "id": "0013Y0",
-   "name": "엠에스바이오",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "method": "general"
-  },
-  {
    "id": "C01863318",
    "name": "넥스아이",
+   "market": "KOSDAQ",
+   "type": "수요예측",
+   "start": "2026-10-22",
+   "end": "2026-10-28",
+   "method": "general"
+  },
+  {
+   "id": "C00784184",
+   "name": "동원파츠",
    "market": "KOSDAQ",
    "type": "수요예측",
    "start": "2026-10-22",
@@ -444,7 +435,7 @@
    "method": "general"
   },
   {
-   "id": "C00534729",
+   "id": "0015M0",
    "name": "디티에스",
    "market": "KOSDAQ",
    "type": "상장",
@@ -633,6 +624,15 @@
    "method": "general"
   },
   {
+   "id": "C00784184",
+   "name": "동원파츠",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "method": "general"
+  },
+  {
    "id": "C01705740",
    "name": "엠비디",
    "market": "KOSDAQ",
@@ -670,9 +670,9 @@
   }
  ],
  "backtest": {
-  "n": 122,
-  "brier": 0.2321,
-  "acc": 0.648,
-  "base": 0.566
+  "n": 121,
+  "brier": 0.2334,
+  "acc": 0.645,
+  "base": 0.57
  }
 }

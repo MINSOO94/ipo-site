@@ -13,6 +13,19 @@
   "underwriter": "KB증권"
  },
  {
+  "name": "인터엑스",
+  "no": "2353",
+  "sub_start": "2026-12-09",
+  "sub_end": "2026-12-10",
+  "offer_price": null,
+  "band": [
+   10000,
+   13000
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권,BNK투자증권"
+ },
+ {
   "name": "이노보테라퓨틱스",
   "no": "2351",
   "sub_start": "2026-12-07",
@@ -282,7 +295,7 @@
    19000,
    22000
   ],
-  "sub_competition": null,
+  "sub_competition": 3.55,
   "underwriter": "NH투자증권"
  },
  {
@@ -295,7 +308,7 @@
    10600,
    12400
   ],
-  "sub_competition": null,
+  "sub_competition": 28.95,
   "underwriter": "대신증권"
  },
  {
@@ -308,7 +321,7 @@
    14000,
    17000
   ],
-  "sub_competition": null,
+  "sub_competition": 684.73,
   "underwriter": "한국투자증권"
  },
  {
@@ -1391,7 +1404,7 @@
   "underwriter": "NH투자증권,교보증권"
  },
  {
-  "name": "비엔케이스팩3호",
+  "name": "BNK스팩3호",
   "no": "2241",
   "sub_start": "2025-11-11",
   "sub_end": "2025-11-12",
@@ -3744,7 +3757,7 @@
   "underwriter": "유진증권"
  },
  {
-  "name": "비엔케이스팩2호",
+  "name": "BNK스팩2호",
   "no": "2023",
   "sub_start": "2024-02-19",
   "sub_end": "2024-02-20",
@@ -5525,7 +5538,7 @@
   "underwriter": "NH투자증권"
  },
  {
-  "name": "비엔케이스팩1호",
+  "name": "BNK스팩1호",
   "no": "1871",
   "sub_start": "2022-12-12",
   "sub_end": "2022-12-13",
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 699.67,
   "underwriter": "한국투자증권"
- },
- {
-  "name": "우양",
-  "no": "1475",
-  "sub_start": "2019-11-11",
-  "sub_end": "2019-11-12",
-  "offer_price": 4200,
-  "band": [
-   3800,
-   4200
-  ],
-  "sub_competition": 1037.31,
-  "underwriter": "미래에셋대우"
  }
 ]
