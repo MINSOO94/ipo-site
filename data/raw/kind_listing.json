@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "이스트엔드",
+  "market": "KONEX",
+  "listing_date": "2026-10-26",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "섬유, 의복, 신발 및 가죽제품 소매업",
+  "country": "대한민국",
+  "underwriter": "교보증권(주)",
+  "par": 500,
+  "offer_price": null,
+  "offer_amount": null,
+  "product": "패션잡화 및 화장품",
+  "listed_shares": 2150800,
+  "code": "0230E0"
+ },
+ {
   "name": "디티에스",
   "market": "KOSDAQ",
   "listing_date": "2026-10-23",

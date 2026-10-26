@@ -570,25 +570,6 @@
   "kind_id": "20250926000682"
  },
  {
-  "name": "영광",
-  "market": "KOSDAQ",
-  "filing_date": "2026-09-21",
-  "forecast": [
-   "2026-10-13",
-   "2026-10-19"
-  ],
-  "subscription": [
-   "2026-10-22",
-   "2026-10-23"
-  ],
-  "payment_date": "2026-10-27",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-11-02",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260127000269"
- },
- {
   "name": "KB제32호스팩",
   "market": "KOSDAQ",
   "filing_date": "2025-05-26",
@@ -2394,6 +2375,25 @@
   "kind_id": "20260129000215"
  },
  {
+  "name": "이에스티",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-21",
+  "forecast": [
+   "2026-10-14",
+   "2026-10-20"
+  ],
+  "subscription": [
+   "2026-10-22",
+   "2026-10-23"
+  ],
+  "payment_date": "2026-10-27",
+  "offer_price": 12400,
+  "offer_amount_mil": 27280,
+  "listing_date": "2026-11-04",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000225"
+ },
+ {
   "name": "에이유브랜즈",
   "market": "KOSDAQ",
   "filing_date": "2025-02-07",
@@ -2541,7 +2541,7 @@
   "payment_date": "2026-11-05",
   "offer_price": null,
   "offer_amount_mil": null,
-  "listing_date": "2026-11-12",
+  "listing_date": "2026-11-10",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260330000002"
  },
@@ -2641,6 +2641,25 @@
   "kind_id": "20250728000549"
  },
  {
+  "name": "영광",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-21",
+  "forecast": [
+   "2026-10-13",
+   "2026-10-19"
+  ],
+  "subscription": [
+   "2026-10-22",
+   "2026-10-23"
+  ],
+  "payment_date": "2026-10-27",
+  "offer_price": 17000,
+  "offer_amount_mil": 38420,
+  "listing_date": "2026-11-02",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000269"
+ },
+ {
   "name": "비츠로넥스텍",
   "market": "KOSDAQ",
   "filing_date": "2025-09-22",
@@ -2734,6 +2753,25 @@
   "listing_date": "2026-10-29",
   "underwriter": "신한투자증권 주식회사",
   "kind_id": "20260128000383"
+ },
+ {
+  "name": "인텔리빅스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-16",
+  "forecast": [
+   "2026-10-12",
+   "2026-10-16"
+  ],
+  "subscription": [
+   "2026-10-21",
+   "2026-10-22"
+  ],
+  "payment_date": "2026-10-26",
+  "offer_price": 9000,
+  "offer_amount_mil": 22500,
+  "listing_date": "2026-10-31",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20251126000238"
  },
  {
   "name": "심플랫폼",
