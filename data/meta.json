@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-26 17:27",
- "today": "2026-10-26",
+ "updated": "2026-10-27 17:22",
+ "today": "2026-10-27",
  "counts": {
-  "review": 33,
+  "review": 34,
   "approved": 9,
-  "offering": 31,
-  "listed": 826,
+  "offering": 30,
+  "listed": 827,
   "withdrawn": 176
  },
  "monthly": {
@@ -417,7 +417,7 @@
    "method": "spac"
   },
   {
-   "id": "C02032951",
+   "id": "0205H0",
    "name": "에스케이증권제14호기업인수목적",
    "market": "KOSDAQ",
    "type": "상장",

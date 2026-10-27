@@ -11670,6 +11670,16 @@
   "kind_id": "20260329000003"
  },
  {
+  "name": "크리오스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-27",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "교보증권(주),KB증권(주)",
+  "kind_id": "20260529000011"
+ },
+ {
   "name": "카카오",
   "market": "KOSPI",
   "list_type": "재상장",
