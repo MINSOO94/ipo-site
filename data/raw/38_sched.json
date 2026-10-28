@@ -1,5 +1,18 @@
 [
  {
+  "name": "KTE",
+  "no": "2355",
+  "sub_start": "2026-12-14",
+  "sub_end": "2026-12-15",
+  "offer_price": null,
+  "band": [
+   19000,
+   23000
+  ],
+  "sub_competition": null,
+  "underwriter": "NH투자증권"
+ },
+ {
   "name": "씨아이에스케미칼",
   "no": "2348",
   "sub_start": "2026-12-10",
@@ -50,6 +63,19 @@
   ],
   "sub_competition": null,
   "underwriter": "우리투자증권"
+ },
+ {
+  "name": "엔키화이트햇",
+  "no": "2343",
+  "sub_start": "2026-12-01",
+  "sub_end": "2026-12-02",
+  "offer_price": null,
+  "band": [
+   13000,
+   16500
+  ],
+  "sub_competition": null,
+  "underwriter": "신영증권"
  },
  {
   "name": "에이엔에이치스트럭쳐",
@@ -154,19 +180,6 @@
   ],
   "sub_competition": null,
   "underwriter": "한국투자증권"
- },
- {
-  "name": "엔키화이트햇",
-  "no": "2343",
-  "sub_start": "2026-11-12",
-  "sub_end": "2026-11-13",
-  "offer_price": null,
-  "band": [
-   13000,
-   16500
-  ],
-  "sub_competition": null,
-  "underwriter": "신영증권"
  },
  {
   "name": "제이앤티지",
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 5.3,
   "underwriter": "키움증권,삼성증권"
- },
- {
-  "name": "코리아에셋투자증권",
-  "no": "1472",
-  "sub_start": "2019-11-11",
-  "sub_end": "2019-11-12",
-  "offer_price": 10000,
-  "band": [
-   8000,
-   10000
-  ],
-  "sub_competition": 231.78,
-  "underwriter": "신영증권"
  }
 ]
