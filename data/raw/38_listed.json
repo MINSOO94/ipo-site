@@ -1,5 +1,13 @@
 [
  {
+  "name": "옵토닉스",
+  "no": "2338",
+  "listing_date": "2026-11-17",
+  "offer_price": 12000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "아이엠스팩1호",
   "no": "2329",
   "listing_date": "2026-11-04",
@@ -60,8 +68,8 @@
   "no": "2322",
   "listing_date": "2026-10-29",
   "offer_price": 15300,
-  "open_price": null,
-  "first_close": null
+  "open_price": 30350,
+  "first_close": 21250
  },
  {
   "name": "SK증권스팩14호",
@@ -5910,13 +5918,5 @@
   "offer_price": 2000,
   "open_price": 2000,
   "first_close": 2005
- },
- {
-  "name": "브릿지바이오테라퓨틱스",
-  "no": "1484",
-  "listing_date": "2019-12-20",
-  "offer_price": 60000,
-  "open_price": 62400,
-  "first_close": 54300
  }
 ]

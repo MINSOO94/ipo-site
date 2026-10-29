@@ -1,5 +1,19 @@
 [
  {
+  "name": "옵토닉스",
+  "no": "2338",
+  "forecast_date": "2026-10-21",
+  "band": [
+   10000,
+   12000
+  ],
+  "offer_price": 12000,
+  "offer_amount_mil": 26400,
+  "inst_competition": 1201.81,
+  "lockup_pct": 5.62,
+  "underwriter": "한국투자증권"
+ },
+ {
   "name": "아이엠스팩1호",
   "no": "2329",
   "forecast_date": "2026-10-19",
@@ -10344,19 +10358,5 @@
   "inst_competition": 86.41,
   "lockup_pct": 13.83,
   "underwriter": "삼성증권"
- },
- {
-  "name": "하이스팩5호",
-  "no": "1496",
-  "forecast_date": "2019-12-05",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 8500,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "하이투자증권"
  }
 ]

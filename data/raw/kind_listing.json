@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "티앤이코리아",
+  "market": "KOSDAQ",
+  "listing_date": "2026-10-29",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "일반 목적용 기계 제조업",
+  "country": "대한민국",
+  "underwriter": "신한투자증권 주식회사",
+  "par": 500,
+  "offer_price": 15300,
+  "offer_amount": 36720000,
+  "product": "친환경 산업용 터보기계, On-site 발전용 터보기계, 친환경 차량용 터보기계",
+  "listed_shares": 11351096,
+  "code": "0053F0"
+ },
+ {
   "name": "에스케이증권제14호기업인수목적",
   "market": "KOSDAQ",
   "listing_date": "2026-10-27",

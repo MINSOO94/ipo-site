@@ -10935,7 +10935,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-03-24",
   "result_date": "2026-09-03",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "미래에셋증권 주식회사",
   "kind_id": "20251126000238"
  },
@@ -11105,7 +11105,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-06-18",
   "result_date": "2026-09-17",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260127000269"
  },
@@ -11148,6 +11148,16 @@
   "result": "심사승인",
   "underwriter": "엔에이치투자증권(주),KB증권(주)",
   "kind_id": "20260128000161"
+ },
+ {
+  "name": "아이벡스메디칼시스템즈",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-05-06",
+  "result_date": "2026-10-29",
+  "result": "심사철회",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20260128000271"
  },
  {
   "name": "티앤이코리아",
@@ -11305,7 +11315,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-04-07",
   "result_date": "2026-08-12",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260205000272"
  },
@@ -11610,6 +11620,16 @@
   "kind_id": "20251127000244"
  },
  {
+  "name": "아테코",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-28",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "미래에셋증권 주식회사,IBK투자증권(주)",
+  "kind_id": "20260529000151"
+ },
+ {
   "name": "엑티브온",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11828,16 +11848,6 @@
   "result": "청구서접수",
   "underwriter": "대신증권(주),미래에셋증권 주식회사,키움증권(주)",
   "kind_id": "20260731000114"
- },
- {
-  "name": "아이벡스메디칼시스템즈",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-05-06",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "엔에이치투자증권(주)",
-  "kind_id": "20260128000271"
  },
  {
   "name": "피지티",

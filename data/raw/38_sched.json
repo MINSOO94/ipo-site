@@ -13,6 +13,19 @@
   "underwriter": "NH투자증권"
  },
  {
+  "name": "데스틴파워",
+  "no": "2356",
+  "sub_start": "2026-12-14",
+  "sub_end": "2026-12-15",
+  "offer_price": null,
+  "band": [
+   8000,
+   11000
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권"
+ },
+ {
   "name": "씨아이에스케미칼",
   "no": "2348",
   "sub_start": "2026-12-10",
@@ -115,6 +128,19 @@
   ],
   "sub_competition": null,
   "underwriter": "IBK투자증권"
+ },
+ {
+  "name": "신영스팩12호",
+  "no": "2357",
+  "sub_start": "2026-11-24",
+  "sub_end": "2026-11-25",
+  "offer_price": null,
+  "band": [
+   2000,
+   2000
+  ],
+  "sub_competition": null,
+  "underwriter": "신영증권"
  },
  {
   "name": "아델",
@@ -238,7 +264,7 @@
   "no": "2338",
   "sub_start": "2026-11-05",
   "sub_end": "2026-11-06",
-  "offer_price": null,
+  "offer_price": 12000,
   "band": [
    10000,
    12000
@@ -10112,31 +10138,5 @@
   ],
   "sub_competition": 22.31,
   "underwriter": "대신증권"
- },
- {
-  "name": "센트랄모텍 (유가)",
-  "no": "1477",
-  "sub_start": "2019-11-13",
-  "sub_end": "2019-11-14",
-  "offer_price": 6000,
-  "band": [
-   5000,
-   6000
-  ],
-  "sub_competition": 580.5,
-  "underwriter": "한국투자증권,BNK투자증권"
- },
- {
-  "name": "티움바이오",
-  "no": "1470",
-  "sub_start": "2019-11-11",
-  "sub_end": "2019-11-12",
-  "offer_price": 12000,
-  "band": [
-   16000,
-   20000
-  ],
-  "sub_competition": 5.3,
-  "underwriter": "키움증권,삼성증권"
  }
 ]

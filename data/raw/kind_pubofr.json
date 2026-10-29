@@ -722,6 +722,25 @@
   "kind_id": "20260130000219"
  },
  {
+  "name": "아이엠스팩1호",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-17",
+  "forecast": [
+   "2026-10-19",
+   "2026-10-20"
+  ],
+  "subscription": [
+   "2026-10-26",
+   "2026-10-27"
+  ],
+  "payment_date": "2026-10-29",
+  "offer_price": 2000,
+  "offer_amount_mil": 10000,
+  "listing_date": "2026-11-04",
+  "underwriter": "iM증권",
+  "kind_id": "20260708000144"
+ },
+ {
   "name": "테라뷰",
   "market": "KOSDAQ",
   "filing_date": "2025-10-14",
@@ -1157,25 +1176,6 @@
   "listing_date": "2026-06-29",
   "underwriter": "삼성증권(주)",
   "kind_id": "20250124000429"
- },
- {
-  "name": "아이엠스팩1호",
-  "market": "KOSDAQ",
-  "filing_date": "2026-09-17",
-  "forecast": [
-   "2026-10-19",
-   "2026-10-20"
-  ],
-  "subscription": [
-   "2026-10-26",
-   "2026-10-27"
-  ],
-  "payment_date": "2026-10-29",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-11-04",
-  "underwriter": "iM증권",
-  "kind_id": "20260708000144"
  },
  {
   "name": "나라스페이스테크놀로지",
