@@ -1,5 +1,47 @@
 [
  {
+  "name": "바로팜",
+  "no": "2325",
+  "forecast_date": "2026-10-22",
+  "band": [
+   16400,
+   20200
+  ],
+  "offer_price": 16400,
+  "offer_amount_mil": 29192,
+  "inst_competition": null,
+  "lockup_pct": 0.03,
+  "underwriter": "미래에셋증권"
+ },
+ {
+  "name": "넥스아이",
+  "no": "2336",
+  "forecast_date": "2026-10-22",
+  "band": [
+   10500,
+   13000
+  ],
+  "offer_price": 8000,
+  "offer_amount_mil": 40000,
+  "inst_competition": null,
+  "lockup_pct": 0.06,
+  "underwriter": "한국투자증권"
+ },
+ {
+  "name": "동원파츠",
+  "no": "2339",
+  "forecast_date": "2026-10-22",
+  "band": [
+   23000,
+   26500
+  ],
+  "offer_price": 26500,
+  "offer_amount_mil": 53795,
+  "inst_competition": 840.86,
+  "lockup_pct": 16.61,
+  "underwriter": "삼성증권"
+ },
+ {
   "name": "옵토닉스",
   "no": "2338",
   "forecast_date": "2026-10-21",
@@ -10316,47 +10358,5 @@
   "inst_competition": 58.85,
   "lockup_pct": 0.06,
   "underwriter": "대신증권,KB증권"
- },
- {
-  "name": "엔에이치스팩15호",
-  "no": "1493",
-  "forecast_date": "2019-12-09",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 12000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "NH투자증권"
- },
- {
-  "name": "메탈라이프",
-  "no": "1495",
-  "forecast_date": "2019-12-09",
-  "band": [
-   10500,
-   13000
-  ],
-  "offer_price": 13000,
-  "offer_amount_mil": 7350,
-  "inst_competition": 1288.21,
-  "lockup_pct": 22.46,
-  "underwriter": "한국투자증권"
- },
- {
-  "name": "메드팩토",
-  "no": "1488",
-  "forecast_date": "2019-12-05",
-  "band": [
-   34000,
-   43000
-  ],
-  "offer_price": 40000,
-  "offer_amount_mil": 51374,
-  "inst_competition": 86.41,
-  "lockup_pct": 13.83,
-  "underwriter": "삼성증권"
  }
 ]

@@ -290,7 +290,7 @@
   "no": "2336",
   "sub_start": "2026-11-03",
   "sub_end": "2026-11-04",
-  "offer_price": null,
+  "offer_price": 8000,
   "band": [
    10500,
    13000
@@ -303,7 +303,7 @@
   "no": "2325",
   "sub_start": "2026-11-02",
   "sub_end": "2026-11-03",
-  "offer_price": null,
+  "offer_price": 16400,
   "band": [
    16400,
    20200
@@ -316,7 +316,7 @@
   "no": "2339",
   "sub_start": "2026-11-02",
   "sub_end": "2026-11-03",
-  "offer_price": null,
+  "offer_price": 26500,
   "band": [
    23000,
    26500

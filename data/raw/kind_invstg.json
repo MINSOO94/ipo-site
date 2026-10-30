@@ -11180,6 +11180,16 @@
   "kind_id": "20260128000400"
  },
  {
+  "name": "싸이몬",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-06-25",
+  "result_date": "2026-10-26",
+  "result": "심사철회",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260129000131"
+ },
+ {
   "name": "기도산업",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11620,6 +11630,26 @@
   "kind_id": "20251127000244"
  },
  {
+  "name": "비엔케이제4호기업인수목적",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-30",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "(주)비엔케이투자증권",
+  "kind_id": "20261022000165"
+ },
+ {
+  "name": "오렌지스퀘어",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-30",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260324000294"
+ },
+ {
   "name": "아테코",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11800,6 +11830,16 @@
   "kind_id": "20260327000123"
  },
  {
+  "name": "슈퍼브에이아이",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-10-30",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260527000842"
+ },
+ {
   "name": "에버온",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11818,16 +11858,6 @@
   "result": "청구서접수",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260720000710"
- },
- {
-  "name": "싸이몬",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-06-25",
-  "result_date": null,
-  "result": "심사철회",
-  "underwriter": "미래에셋증권 주식회사",
-  "kind_id": "20260129000131"
  },
  {
   "name": "에프엠더블유",

@@ -8,6 +8,30 @@
   "first_close": null
  },
  {
+  "name": "넥스아이",
+  "no": "2336",
+  "listing_date": "2026-11-12",
+  "offer_price": 8000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "바로팜",
+  "no": "2325",
+  "listing_date": "2026-11-11",
+  "offer_price": 16400,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "동원파츠",
+  "no": "2339",
+  "listing_date": "2026-11-10",
+  "offer_price": 26500,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "아이엠스팩1호",
   "no": "2329",
   "listing_date": "2026-11-04",
@@ -44,24 +68,24 @@
   "no": "2323",
   "listing_date": "2026-10-30",
   "offer_price": 15000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 12000,
+  "first_close": 9470
  },
  {
   "name": "인텔리빅스",
   "no": "2328",
   "listing_date": "2026-10-30",
   "offer_price": 9000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 19290,
+  "first_close": 31750
  },
  {
   "name": "한화플러스스팩6호",
   "no": "2330",
   "listing_date": "2026-10-30",
   "offer_price": 2000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 2810,
+  "first_close": 1866
  },
  {
   "name": "티앤이코리아",
@@ -5894,29 +5918,5 @@
   "offer_price": 40000,
   "open_price": 42950,
   "first_close": 38500
- },
- {
-  "name": "엔에이치스팩15호",
-  "no": "1493",
-  "listing_date": "2019-12-24",
-  "offer_price": 2000,
-  "open_price": 2000,
-  "first_close": 2000
- },
- {
-  "name": "메탈라이프",
-  "no": "1495",
-  "listing_date": "2019-12-24",
-  "offer_price": 13000,
-  "open_price": 26000,
-  "first_close": 33800
- },
- {
-  "name": "하이스팩5호",
-  "no": "1496",
-  "listing_date": "2019-12-23",
-  "offer_price": 2000,
-  "open_price": 2000,
-  "first_close": 2005
  }
 ]
