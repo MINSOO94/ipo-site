@@ -9,7 +9,7 @@
   ],
   "offer_price": 16400,
   "offer_amount_mil": 29192,
-  "inst_competition": null,
+  "inst_competition": 152.36,
   "lockup_pct": 0.03,
   "underwriter": "미래에셋증권"
  },
@@ -23,7 +23,7 @@
   ],
   "offer_price": 8000,
   "offer_amount_mil": 40000,
-  "inst_competition": null,
+  "inst_competition": 66.58,
   "lockup_pct": 0.06,
   "underwriter": "한국투자증권"
  },

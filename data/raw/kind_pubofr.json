@@ -2558,8 +2558,8 @@
    "2026-11-03"
   ],
   "payment_date": "2026-11-05",
-  "offer_price": null,
-  "offer_amount_mil": null,
+  "offer_price": 26500,
+  "offer_amount_mil": 53795,
   "listing_date": "2026-11-10",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260330000002"

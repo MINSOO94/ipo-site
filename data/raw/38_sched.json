@@ -91,6 +91,19 @@
   "underwriter": "신영증권"
  },
  {
+  "name": "다비오",
+  "no": "2358",
+  "sub_start": "2026-12-01",
+  "sub_end": "2026-12-02",
+  "offer_price": null,
+  "band": [
+   12300,
+   16600
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권"
+ },
+ {
   "name": "에이엔에이치스트럭쳐",
   "no": "2350",
   "sub_start": "2026-11-27",
@@ -232,19 +245,6 @@
   ],
   "sub_competition": null,
   "underwriter": "IBK투자증권"
- },
- {
-  "name": "다비오",
-  "no": "2344",
-  "sub_start": "2026-11-10",
-  "sub_end": "2026-11-11",
-  "offer_price": null,
-  "band": [
-   12300,
-   16600
-  ],
-  "sub_competition": null,
-  "underwriter": "대신증권"
  },
  {
   "name": "에이엘로봇",

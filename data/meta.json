@@ -1,18 +1,14 @@
 {
- "updated": "2026-10-30 17:29",
- "today": "2026-10-30",
+ "updated": "2026-11-02 17:58",
+ "today": "2026-11-02",
  "counts": {
-  "review": 37,
+  "review": 38,
   "approved": 7,
-  "offering": 29,
-  "listed": 831,
+  "offering": 28,
+  "listed": 832,
   "withdrawn": 177
  },
  "monthly": {
-  "2024-11": {
-   "KOSPI": 2,
-   "KOSDAQ": 12
-  },
   "2024-12": {
    "KOSPI": 1,
    "KOSDAQ": 6
@@ -104,6 +100,10 @@
   "2026-10": {
    "KOSPI": 0,
    "KOSDAQ": 9
+  },
+  "2026-11": {
+   "KOSPI": 0,
+   "KOSDAQ": 1
   }
  },
  "quarterly": [
@@ -379,10 +379,10 @@
   },
   {
    "q": "2026Q4",
-   "n": 9,
-   "inst_comp": 934.2,
-   "top_ratio": 0.889,
-   "d1_avg": 0.4266,
+   "n": 10,
+   "inst_comp": 940.7,
+   "top_ratio": 0.9,
+   "d1_avg": 0.4104,
    "d1_med": 0.3725,
    "m3_win": null,
    "temp": "보통"
@@ -390,34 +390,7 @@
  ],
  "events": [
   {
-   "id": "439270",
-   "name": "크리에이츠",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "method": "general"
-  },
-  {
-   "id": "0127E0",
-   "name": "한화플러스제6호스팩",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "method": "spac"
-  },
-  {
-   "id": "420610",
-   "name": "인텔리빅스",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-10-30",
-   "end": "2026-10-30",
-   "method": "general"
-  },
-  {
-   "id": "C00579342",
+   "id": "359410",
    "name": "영광",
    "market": "KOSDAQ",
    "type": "상장",
@@ -516,15 +489,6 @@
    "method": "general"
   },
   {
-   "id": "C01706509",
-   "name": "다비오",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "method": "general"
-  },
-  {
    "id": "C01025617",
    "name": "하나에어로다이내믹스",
    "market": "KOSDAQ",
@@ -604,12 +568,21 @@
    "start": "2026-11-18",
    "end": "2026-11-19",
    "method": "general"
+  },
+  {
+   "id": "C01938746",
+   "name": "아델",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-23",
+   "end": "2026-11-24",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 117,
-  "brier": 0.2362,
+  "n": 114,
+  "brier": 0.2373,
   "acc": 0.632,
-  "base": 0.59
+  "base": 0.605
  }
 }

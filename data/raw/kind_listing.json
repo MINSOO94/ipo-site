@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "영광",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-02",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "구조용 금속제품, 탱크 및 증기발생기 제조업",
+  "country": "대한민국",
+  "underwriter": "한국투자증권(주)",
+  "par": 500,
+  "offer_price": 17000,
+  "offer_amount": 38420000,
+  "product": "조선 기자재, 플랜트 기자재",
+  "listed_shares": 9056463,
+  "code": "359410"
+ },
+ {
   "name": "한화플러스제6호스팩",
   "market": "KOSDAQ",
   "listing_date": "2026-10-30",
