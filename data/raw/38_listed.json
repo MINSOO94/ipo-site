@@ -8,6 +8,14 @@
   "first_close": null
  },
  {
+  "name": "영광와이케이엠씨",
+  "no": "2342",
+  "listing_date": "2026-11-16",
+  "offer_price": 11000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "넥스아이",
   "no": "2336",
   "listing_date": "2026-11-12",
@@ -52,8 +60,8 @@
   "no": "2335",
   "listing_date": "2026-11-03",
   "offer_price": 19000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 19000,
+  "first_close": 14170
  },
  {
   "name": "영광(구.영광공작소)",
@@ -5910,13 +5918,5 @@
   "offer_price": 7000,
   "open_price": 11000,
   "first_close": 9630
- },
- {
-  "name": "천랩",
-  "no": "1497",
-  "listing_date": "2019-12-26",
-  "offer_price": 40000,
-  "open_price": 42950,
-  "first_close": 38500
  }
 ]

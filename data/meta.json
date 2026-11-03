@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02 17:58",
- "today": "2026-11-02",
+ "updated": "2026-11-04 00:31",
+ "today": "2026-11-04",
  "counts": {
   "review": 38,
   "approved": 7,
-  "offering": 28,
-  "listed": 832,
+  "offering": 25,
+  "listed": 835,
   "withdrawn": 177
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 1
+   "KOSDAQ": 3
   }
  },
  "quarterly": [
@@ -379,52 +379,16 @@
   },
   {
    "q": "2026Q4",
-   "n": 10,
-   "inst_comp": 940.7,
-   "top_ratio": 0.9,
-   "d1_avg": 0.4104,
-   "d1_med": 0.3725,
+   "n": 12,
+   "inst_comp": 860.2,
+   "top_ratio": 0.833,
+   "d1_avg": 0.35,
+   "d1_med": 0.3541,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "359410",
-   "name": "영광",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-02",
-   "end": "2026-11-02",
-   "method": "general"
-  },
-  {
-   "id": "C01835829",
-   "name": "바로팜",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "method": "general"
-  },
-  {
-   "id": "C00784184",
-   "name": "동원파츠",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "method": "general"
-  },
-  {
-   "id": "C01956751",
-   "name": "래블업",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "method": "general"
-  },
   {
    "id": "C01863318",
    "name": "넥스아이",
@@ -435,7 +399,7 @@
    "method": "general"
   },
   {
-   "id": "C01378005",
+   "id": "495910",
    "name": "이에스티",
    "market": "KOSDAQ",
    "type": "상장",
@@ -444,7 +408,7 @@
    "method": "general"
   },
   {
-   "id": "C02036869",
+   "id": "0222E0",
    "name": "아이엠스팩1호",
    "market": "KOSDAQ",
    "type": "상장",
@@ -543,12 +507,30 @@
    "method": "general"
   },
   {
+   "id": "C00960234",
+   "name": "영광와이케이엠씨",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "method": "general"
+  },
+  {
    "id": "C01658035",
    "name": "옵토닉스",
    "market": "KOSDAQ",
    "type": "상장",
    "start": "2026-11-17",
    "end": "2026-11-17",
+   "method": "general"
+  },
+  {
+   "id": "C01797635",
+   "name": "에이엘로봇",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
    "method": "general"
   },
   {
@@ -577,6 +559,33 @@
    "start": "2026-11-23",
    "end": "2026-11-24",
    "method": "general"
+  },
+  {
+   "id": "C01880139",
+   "name": "케이엠에프",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-24",
+   "end": "2026-11-25",
+   "method": "general"
+  },
+  {
+   "id": "C01950720",
+   "name": "제논",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-24",
+   "end": "2026-11-25",
+   "method": "general"
+  },
+  {
+   "id": "Nf3ab9dd3",
+   "name": "신영스팩12호",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-24",
+   "end": "2026-11-25",
+   "method": "spac"
   }
  ],
  "backtest": {

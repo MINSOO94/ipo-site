@@ -277,7 +277,7 @@
   "no": "2342",
   "sub_start": "2026-11-04",
   "sub_end": "2026-11-05",
-  "offer_price": null,
+  "offer_price": 11000,
   "band": [
    9400,
    11000
@@ -308,7 +308,7 @@
    16400,
    20200
   ],
-  "sub_competition": null,
+  "sub_competition": 19.27,
   "underwriter": "미래에셋증권"
  },
  {
@@ -321,7 +321,7 @@
    23000,
    26500
   ],
-  "sub_competition": null,
+  "sub_competition": 1219.37,
   "underwriter": "삼성증권"
  },
  {

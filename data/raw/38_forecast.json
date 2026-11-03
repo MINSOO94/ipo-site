@@ -1,5 +1,19 @@
 [
  {
+  "name": "영광와이케이엠씨",
+  "no": "2342",
+  "forecast_date": "2026-10-27",
+  "band": [
+   9400,
+   11000
+  ],
+  "offer_price": 11000,
+  "offer_amount_mil": 25300,
+  "inst_competition": 1163.35,
+  "lockup_pct": 7.21,
+  "underwriter": "대신증권"
+ },
+ {
   "name": "바로팜",
   "no": "2325",
   "forecast_date": "2026-10-22",
@@ -10344,19 +10358,5 @@
   "inst_competition": 997.33,
   "lockup_pct": 2.47,
   "underwriter": "미래에셋대우"
- },
- {
-  "name": "브릿지바이오테라퓨틱스",
-  "no": "1484",
-  "forecast_date": "2019-12-09",
-  "band": [
-   70000,
-   80000
-  ],
-  "offer_price": 60000,
-  "offer_amount_mil": 49000,
-  "inst_competition": 58.85,
-  "lockup_pct": 0.06,
-  "underwriter": "대신증권,KB증권"
  }
 ]

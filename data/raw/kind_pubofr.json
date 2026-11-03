@@ -1482,6 +1482,25 @@
   "kind_id": "20250826000527"
  },
  {
+  "name": "에이엘로봇",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-21",
+  "forecast": [
+   "2026-10-28",
+   "2026-11-03"
+  ],
+  "subscription": [
+   "2026-11-06",
+   "2026-11-09"
+  ],
+  "payment_date": "2026-11-11",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-11-18",
+  "underwriter": "대신증권(주)",
+  "kind_id": "20260130000218"
+ },
+ {
   "name": "엘케이켐",
   "market": "KOSDAQ",
   "filing_date": "2025-01-07",
