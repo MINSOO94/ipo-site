@@ -44,16 +44,16 @@
   "no": "2329",
   "listing_date": "2026-11-04",
   "offer_price": 2000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 2580,
+  "first_close": 1861
  },
  {
   "name": "이에스티",
   "no": "2332",
   "listing_date": "2026-11-04",
   "offer_price": 12400,
-  "open_price": null,
-  "first_close": null
+  "open_price": 15890,
+  "first_close": 9940
  },
  {
   "name": "래블업",

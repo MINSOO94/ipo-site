@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04 00:31",
- "today": "2026-11-04",
+ "updated": "2026-11-05 00:47",
+ "today": "2026-11-05",
  "counts": {
-  "review": 38,
+  "review": 39,
   "approved": 7,
   "offering": 25,
   "listed": 835,
@@ -382,40 +382,13 @@
    "n": 12,
    "inst_comp": 860.2,
    "top_ratio": 0.833,
-   "d1_avg": 0.35,
+   "d1_avg": 0.3038,
    "d1_med": 0.3541,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "C01863318",
-   "name": "넥스아이",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-03",
-   "end": "2026-11-04",
-   "method": "general"
-  },
-  {
-   "id": "495910",
-   "name": "이에스티",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "method": "general"
-  },
-  {
-   "id": "0222E0",
-   "name": "아이엠스팩1호",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-04",
-   "end": "2026-11-04",
-   "method": "spac"
-  },
   {
    "id": "C00960234",
    "name": "영광와이케이엠씨",

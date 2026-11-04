@@ -627,6 +627,25 @@
   "kind_id": "20250124000279"
  },
  {
+  "name": "넥스아이",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-28",
+  "forecast": [
+   "2026-10-22",
+   "2026-10-28"
+  ],
+  "subscription": [
+   "2026-11-03",
+   "2026-11-04"
+  ],
+  "payment_date": "2026-11-06",
+  "offer_price": 8000,
+  "offer_amount_mil": 40000,
+  "listing_date": "2026-11-12",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000307"
+ },
+ {
   "name": "씨케이솔루션",
   "market": "KOSPI",
   "filing_date": "2025-02-04",
@@ -739,6 +758,25 @@
   "listing_date": "2026-11-04",
   "underwriter": "iM증권",
   "kind_id": "20260708000144"
+ },
+ {
+  "name": "바로팜",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-08",
+  "forecast": [
+   "2026-10-22",
+   "2026-10-28"
+  ],
+  "subscription": [
+   "2026-11-02",
+   "2026-11-03"
+  ],
+  "payment_date": "2026-11-05",
+  "offer_price": 16400,
+  "offer_amount_mil": 29192,
+  "listing_date": "2026-11-11",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260127000100"
  },
  {
   "name": "테라뷰",
@@ -2242,25 +2280,6 @@
   "kind_id": "20241129000242"
  },
  {
-  "name": "넥스아이",
-  "market": "KOSDAQ",
-  "filing_date": "2026-09-28",
-  "forecast": [
-   "2026-10-22",
-   "2026-10-28"
-  ],
-  "subscription": [
-   "2026-11-03",
-   "2026-11-04"
-  ],
-  "payment_date": "2026-11-06",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-11-12",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20260127000307"
- },
- {
   "name": "에이치엘지노믹스",
   "market": "KOSDAQ",
   "filing_date": "2026-06-16",
@@ -2470,6 +2489,25 @@
   "kind_id": "20260129000214"
  },
  {
+  "name": "동원파츠",
+  "market": "KOSDAQ",
+  "filing_date": "2026-10-01",
+  "forecast": [
+   "2026-10-22",
+   "2026-10-28"
+  ],
+  "subscription": [
+   "2026-11-02",
+   "2026-11-03"
+  ],
+  "payment_date": "2026-11-05",
+  "offer_price": 26500,
+  "offer_amount_mil": 53795,
+  "listing_date": "2026-11-10",
+  "underwriter": "삼성증권(주)",
+  "kind_id": "20260330000002"
+ },
+ {
   "name": "지씨지놈",
   "market": "KOSDAQ",
   "filing_date": "2025-04-08",
@@ -2563,25 +2601,6 @@
   "listing_date": "2025-07-15",
   "underwriter": "대신증권(주)",
   "kind_id": "20240530000098"
- },
- {
-  "name": "동원파츠",
-  "market": "KOSDAQ",
-  "filing_date": "2026-10-01",
-  "forecast": [
-   "2026-10-22",
-   "2026-10-28"
-  ],
-  "subscription": [
-   "2026-11-02",
-   "2026-11-03"
-  ],
-  "payment_date": "2026-11-05",
-  "offer_price": 26500,
-  "offer_amount_mil": 53795,
-  "listing_date": "2026-11-10",
-  "underwriter": "삼성증권(주)",
-  "kind_id": "20260330000002"
  },
  {
   "name": "엔에이치스팩34호",

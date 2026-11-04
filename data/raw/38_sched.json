@@ -251,7 +251,7 @@
   "no": "2331",
   "sub_start": "2026-11-06",
   "sub_end": "2026-11-09",
-  "offer_price": null,
+  "offer_price": 17600,
   "band": [
    15700,
    17600
@@ -295,7 +295,7 @@
    10500,
    13000
   ],
-  "sub_competition": null,
+  "sub_competition": 13.26,
   "underwriter": "한국투자증권"
  },
  {
