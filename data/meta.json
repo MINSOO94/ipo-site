@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05 00:47",
- "today": "2026-11-05",
+ "updated": "2026-11-06 00:51",
+ "today": "2026-11-06",
  "counts": {
-  "review": 39,
+  "review": 40,
   "approved": 7,
   "offering": 25,
   "listed": 835,
-  "withdrawn": 177
+  "withdrawn": 176
  },
  "monthly": {
   "2024-12": {
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C00960234",
-   "name": "영광와이케이엠씨",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "method": "general"
-  },
-  {
    "id": "C01658035",
    "name": "옵토닉스",
    "market": "KOSDAQ",
@@ -559,12 +550,21 @@
    "start": "2026-11-24",
    "end": "2026-11-25",
    "method": "spac"
+  },
+  {
+   "id": "C01366675",
+   "name": "에이엔에이치스트럭쳐",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-11-27",
+   "end": "2026-11-30",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 114,
-  "brier": 0.2373,
-  "acc": 0.632,
-  "base": 0.605
+  "n": 113,
+  "brier": 0.2383,
+  "acc": 0.628,
+  "base": 0.611
  }
 }
