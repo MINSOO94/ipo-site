@@ -11405,7 +11405,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-08-06",
   "result_date": "2026-09-14",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260330000002"
  },
@@ -11978,5 +11978,15 @@
   "result": "청구서접수",
   "underwriter": "키움증권(주)",
   "kind_id": "20260727000195"
+ },
+ {
+  "name": "카카오페이증권제1호스팩",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-06",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "주식회사 카카오페이증권",
+  "kind_id": "20261026000317"
  }
 ]

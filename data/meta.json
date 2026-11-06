@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06 00:51",
- "today": "2026-11-06",
+ "updated": "2026-11-07 00:25",
+ "today": "2026-11-07",
  "counts": {
-  "review": 40,
+  "review": 41,
   "approved": 7,
   "offering": 25,
   "listed": 835,
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C01658035",
-   "name": "옵토닉스",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "method": "general"
-  },
-  {
    "id": "C01797635",
    "name": "에이엘로봇",
    "market": "KOSDAQ",
@@ -562,9 +553,9 @@
   }
  ],
  "backtest": {
-  "n": 113,
-  "brier": 0.2383,
-  "acc": 0.628,
-  "base": 0.611
+  "n": 112,
+  "brier": 0.2372,
+  "acc": 0.634,
+  "base": 0.616
  }
 }
