@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07 00:25",
- "today": "2026-11-07",
+ "updated": "2026-11-10 02:51",
+ "today": "2026-11-10",
  "counts": {
   "review": 41,
   "approved": 7,
-  "offering": 25,
-  "listed": 835,
+  "offering": 24,
+  "listed": 836,
   "withdrawn": 176
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 3
+   "KOSDAQ": 4
   }
  },
  "quarterly": [
@@ -379,9 +379,9 @@
   },
   {
    "q": "2026Q4",
-   "n": 12,
-   "inst_comp": 860.2,
-   "top_ratio": 0.833,
+   "n": 13,
+   "inst_comp": 858.7,
+   "top_ratio": 0.846,
    "d1_avg": 0.3038,
    "d1_med": 0.3541,
    "m3_win": null,
@@ -390,16 +390,7 @@
  ],
  "events": [
   {
-   "id": "C01797635",
-   "name": "에이엘로봇",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-06",
-   "end": "2026-11-09",
-   "method": "general"
-  },
-  {
-   "id": "C00784184",
+   "id": "0162D0",
    "name": "동원파츠",
    "market": "KOSDAQ",
    "type": "상장",
@@ -507,6 +498,15 @@
    "method": "general"
   },
   {
+   "id": "C01025617",
+   "name": "하나에어로다이내믹스",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "method": "general"
+  },
+  {
    "id": "C01938746",
    "name": "아델",
    "market": "KOSDAQ",
@@ -550,12 +550,39 @@
    "start": "2026-11-27",
    "end": "2026-11-30",
    "method": "general"
+  },
+  {
+   "id": "C01077540",
+   "name": "씨아이에스케미칼",
+   "market": "KOSDAQ",
+   "type": "수요예측",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "method": "general"
+  },
+  {
+   "id": "C01706509",
+   "name": "다비오",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "method": "general"
+  },
+  {
+   "id": "C01795859",
+   "name": "엔키화이트햇",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 112,
-  "brier": 0.2372,
-  "acc": 0.634,
-  "base": 0.616
+  "n": 110,
+  "brier": 0.2369,
+  "acc": 0.636,
+  "base": 0.618
  }
 }

@@ -1,5 +1,21 @@
 [
  {
+  "name": "하나에어로다이내믹스",
+  "no": "2334",
+  "listing_date": "2026-11-20",
+  "offer_price": 5700,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "에이엘로봇",
+  "no": "2331",
+  "listing_date": "2026-11-18",
+  "offer_price": 17600,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "옵토닉스",
   "no": "2338",
   "listing_date": "2026-11-17",
@@ -5918,5 +5934,149 @@
   "offer_price": 7000,
   "open_price": 11000,
   "first_close": 9630
+ },
+ {
+  "name": "천랩",
+  "no": "1497",
+  "listing_date": "2019-12-26",
+  "offer_price": 40000,
+  "open_price": 42950,
+  "first_close": 38500
+ },
+ {
+  "name": "엔에이치스팩15호",
+  "no": "1493",
+  "listing_date": "2019-12-24",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2000
+ },
+ {
+  "name": "메탈라이프",
+  "no": "1495",
+  "listing_date": "2019-12-24",
+  "offer_price": 13000,
+  "open_price": 26000,
+  "first_close": 33800
+ },
+ {
+  "name": "하이스팩5호",
+  "no": "1496",
+  "listing_date": "2019-12-23",
+  "offer_price": 2000,
+  "open_price": 2000,
+  "first_close": 2005
+ },
+ {
+  "name": "브릿지바이오테라퓨틱스",
+  "no": "1484",
+  "listing_date": "2019-12-20",
+  "offer_price": 60000,
+  "open_price": 62400,
+  "first_close": 54300
+ },
+ {
+  "name": "메드팩토",
+  "no": "1488",
+  "listing_date": "2019-12-19",
+  "offer_price": 40000,
+  "open_price": 40000,
+  "first_close": 35900
+ },
+ {
+  "name": "대신밸런스스팩8호",
+  "no": "1491",
+  "listing_date": "2019-12-19",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2005
+ },
+ {
+  "name": "유안타스팩6호",
+  "no": "1492",
+  "listing_date": "2019-12-19",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2000
+ },
+ {
+  "name": "신테카바이오",
+  "no": "1489",
+  "listing_date": "2019-12-17",
+  "offer_price": 12000,
+  "open_price": 14950,
+  "first_close": 16700
+ },
+ {
+  "name": "제이엘케이인스펙션",
+  "no": "1486",
+  "listing_date": "2019-12-11",
+  "offer_price": 9000,
+  "open_price": 8500,
+  "first_close": 9000
+ },
+ {
+  "name": "태웅로직스",
+  "no": "1481",
+  "listing_date": "2019-12-10",
+  "offer_price": 4500,
+  "open_price": 8170,
+  "first_close": 6110
+ },
+ {
+  "name": "IBKS스팩12호",
+  "no": "1483",
+  "listing_date": "2019-12-09",
+  "offer_price": 2000,
+  "open_price": 2040,
+  "first_close": 2050
+ },
+ {
+  "name": "리메드",
+  "no": "1485",
+  "listing_date": "2019-12-06",
+  "offer_price": 13000,
+  "open_price": 14100,
+  "first_close": 13450
+ },
+ {
+  "name": "에스케이스팩5호",
+  "no": "1482",
+  "listing_date": "2019-12-05",
+  "offer_price": 2000,
+  "open_price": 2010,
+  "first_close": 2010
+ },
+ {
+  "name": "엔에이치프라임리츠 (유가)",
+  "no": "1490",
+  "listing_date": "2019-12-05",
+  "offer_price": 5000,
+  "open_price": 5000,
+  "first_close": 6500
+ },
+ {
+  "name": "IBKS스팩11호",
+  "no": "1480",
+  "listing_date": "2019-12-03",
+  "offer_price": 2000,
+  "open_price": 2005,
+  "first_close": 2010
+ },
+ {
+  "name": "코리아센터",
+  "no": "1468",
+  "listing_date": "2019-11-29",
+  "offer_price": 18000,
+  "open_price": 23000,
+  "first_close": 22850
+ },
+ {
+  "name": "유안타스팩5호",
+  "no": "1479",
+  "listing_date": "2019-11-28",
+  "offer_price": 2000,
+  "open_price": 2145,
+  "first_close": 2010
  }
 ]

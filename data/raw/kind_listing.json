@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "동원파츠",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-10",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "특수 목적용 기계 제조업",
+  "country": "대한민국",
+  "underwriter": "삼성증권(주)",
+  "par": 500,
+  "offer_price": 26500,
+  "offer_amount": 53795000,
+  "product": "샤워헤드, 챔버부품 등",
+  "listed_shares": 9271015,
+  "code": "0162D0"
+ },
+ {
   "name": "아이엠스팩1호",
   "market": "KOSDAQ",
   "listing_date": "2026-11-04",

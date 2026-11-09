@@ -1,5 +1,19 @@
 [
  {
+  "name": "하나에어로다이내믹스",
+  "no": "2334",
+  "forecast_date": "2026-11-02",
+  "band": [
+   4700,
+   5700
+  ],
+  "offer_price": 5700,
+  "offer_amount_mil": 25080,
+  "inst_competition": 1051.38,
+  "lockup_pct": 4.16,
+  "underwriter": "IBK투자증권"
+ },
+ {
   "name": "에이엘로봇",
   "no": "2331",
   "forecast_date": "2026-10-28",
@@ -10344,19 +10358,5 @@
   "inst_competition": 51.11,
   "lockup_pct": null,
   "underwriter": "한국투자증권"
- },
- {
-  "name": "한화플러스스팩1호",
-  "no": "1494",
-  "forecast_date": "2019-12-11",
-  "band": [
-   2000,
-   2000
-  ],
-  "offer_price": 2000,
-  "offer_amount_mil": 8000,
-  "inst_competition": null,
-  "lockup_pct": null,
-  "underwriter": "한화투자증권"
  }
 ]

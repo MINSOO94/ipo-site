@@ -238,7 +238,7 @@
   "no": "2334",
   "sub_start": "2026-11-10",
   "sub_end": "2026-11-11",
-  "offer_price": null,
+  "offer_price": 5700,
   "band": [
    4700,
    5700
@@ -256,7 +256,7 @@
    15700,
    17600
   ],
-  "sub_competition": null,
+  "sub_competition": 834.73,
   "underwriter": "대신증권"
  },
  {
