@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "바로팜",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-11",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "기타 정보 서비스업",
+  "country": "대한민국",
+  "underwriter": "미래에셋증권 주식회사",
+  "par": 500,
+  "offer_price": 16400,
+  "offer_amount": 29192000,
+  "product": "약국 통합 플랫폼",
+  "listed_shares": 11965617,
+  "code": "0153R0"
+ },
+ {
   "name": "동원파츠",
   "market": "KOSDAQ",
   "listing_date": "2026-11-10",

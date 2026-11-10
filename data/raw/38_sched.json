@@ -52,6 +52,19 @@
   "underwriter": "한국투자증권,BNK투자증권"
  },
  {
+  "name": "마더스제약",
+  "no": "2359",
+  "sub_start": "2026-12-08",
+  "sub_end": "2026-12-09",
+  "offer_price": null,
+  "band": [
+   11000,
+   14500
+  ],
+  "sub_competition": null,
+  "underwriter": "KB증권,NH투자증권"
+ },
+ {
   "name": "이노보테라퓨틱스",
   "no": "2351",
   "sub_start": "2026-12-07",
@@ -199,7 +212,7 @@
   "no": "2321",
   "sub_start": "2026-11-12",
   "sub_end": "2026-11-13",
-  "offer_price": null,
+  "offer_price": 7000,
   "band": [
    9600,
    11700
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 317.62,
   "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
- },
- {
-  "name": "노터스",
-  "no": "1476",
-  "sub_start": "2019-11-14",
-  "sub_end": "2019-11-15",
-  "offer_price": 20000,
-  "band": [
-   17000,
-   20000
-  ],
-  "sub_competition": 22.31,
-  "underwriter": "대신증권"
  }
 ]

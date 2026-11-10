@@ -1,5 +1,13 @@
 [
  {
+  "name": "엠비디",
+  "no": "2321",
+  "listing_date": "2026-11-24",
+  "offer_price": 7000,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "하나에어로다이내믹스",
   "no": "2334",
   "listing_date": "2026-11-20",
@@ -52,8 +60,8 @@
   "no": "2339",
   "listing_date": "2026-11-10",
   "offer_price": 26500,
-  "open_price": null,
-  "first_close": null
+  "open_price": 51100,
+  "first_close": 29400
  },
  {
   "name": "아이엠스팩1호",
@@ -6070,13 +6078,5 @@
   "offer_price": 18000,
   "open_price": 23000,
   "first_close": 22850
- },
- {
-  "name": "유안타스팩5호",
-  "no": "1479",
-  "listing_date": "2019-11-28",
-  "offer_price": 2000,
-  "open_price": 2145,
-  "first_close": 2010
  }
 ]

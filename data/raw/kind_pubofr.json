@@ -2622,6 +2622,25 @@
   "kind_id": "20240530000098"
  },
  {
+  "name": "옵토닉스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-29",
+  "forecast": [
+   "2026-10-21",
+   "2026-10-27"
+  ],
+  "subscription": [
+   "2026-11-05",
+   "2026-11-06"
+  ],
+  "payment_date": "2026-11-10",
+  "offer_price": 12000,
+  "offer_amount_mil": 26400,
+  "listing_date": "2026-11-17",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260304000284"
+ },
+ {
   "name": "엔에이치스팩34호",
   "market": "KOSDAQ",
   "filing_date": "2026-07-29",

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10 02:51",
- "today": "2026-11-10",
+ "updated": "2026-11-11 00:49",
+ "today": "2026-11-11",
  "counts": {
   "review": 41,
-  "approved": 7,
+  "approved": 6,
   "offering": 24,
-  "listed": 836,
+  "listed": 837,
   "withdrawn": 176
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 4
+   "KOSDAQ": 5
   }
  },
  "quarterly": [
@@ -374,30 +374,21 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.25,
+   "m3_win": 0.2,
    "temp": "보통"
   },
   {
    "q": "2026Q4",
-   "n": 13,
-   "inst_comp": 858.7,
-   "top_ratio": 0.846,
-   "d1_avg": 0.3038,
-   "d1_med": 0.3541,
+   "n": 14,
+   "inst_comp": 808.2,
+   "top_ratio": 0.786,
+   "d1_avg": 0.2889,
+   "d1_med": 0.2647,
    "m3_win": null,
    "temp": "보통"
   }
  ],
  "events": [
-  {
-   "id": "0162D0",
-   "name": "동원파츠",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "method": "general"
-  },
   {
    "id": "C01025617",
    "name": "하나에어로다이내믹스",
@@ -408,7 +399,7 @@
    "method": "general"
   },
   {
-   "id": "C01835829",
+   "id": "0153R0",
    "name": "바로팜",
    "market": "KOSDAQ",
    "type": "상장",
@@ -516,6 +507,15 @@
    "method": "general"
   },
   {
+   "id": "C01705740",
+   "name": "엠비디",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "method": "general"
+  },
+  {
    "id": "C01880139",
    "name": "케이엠에프",
    "market": "KOSDAQ",
@@ -577,12 +577,21 @@
    "start": "2026-12-01",
    "end": "2026-12-02",
    "method": "general"
+  },
+  {
+   "id": "C02040710",
+   "name": "우리투자제1호스팩",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "method": "spac"
   }
  ],
  "backtest": {
-  "n": 110,
-  "brier": 0.2369,
-  "acc": 0.636,
-  "base": 0.618
+  "n": 111,
+  "brier": 0.2352,
+  "acc": 0.64,
+  "base": 0.613
  }
 }
