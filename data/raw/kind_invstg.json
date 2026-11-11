@@ -11125,7 +11125,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-07-21",
   "result_date": "2026-09-17",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260127000307"
  },
@@ -11455,7 +11455,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-06-11",
   "result_date": "2026-10-12",
-  "result": "심사승인",
+  "result": "공모철회",
   "underwriter": "대신증권(주),엔에이치투자증권(주)",
   "kind_id": "20260331000921"
  },
@@ -11525,7 +11525,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-09-08",
   "result_date": "2026-10-08",
-  "result": "심사승인",
+  "result": "공모철회",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260609000245"
  },
@@ -11688,6 +11688,16 @@
   "result": "청구서접수",
   "underwriter": "DB증권주식회사",
   "kind_id": "20260331000257"
+ },
+ {
+  "name": "인텔릭스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-11",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "DB증권주식회사",
+  "kind_id": "20260119000366"
  },
  {
   "name": "유림테크",

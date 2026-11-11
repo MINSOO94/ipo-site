@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11 00:49",
- "today": "2026-11-11",
+ "updated": "2026-11-12 00:39",
+ "today": "2026-11-12",
  "counts": {
-  "review": 41,
+  "review": 42,
   "approved": 6,
-  "offering": 24,
-  "listed": 837,
-  "withdrawn": 176
+  "offering": 21,
+  "listed": 838,
+  "withdrawn": 178
  },
  "monthly": {
   "2024-12": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 5
+   "KOSDAQ": 6
   }
  },
  "quarterly": [
@@ -374,15 +374,15 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.2,
+   "m3_win": 0.167,
    "temp": "보통"
   },
   {
    "q": "2026Q4",
-   "n": 14,
-   "inst_comp": 808.2,
-   "top_ratio": 0.786,
-   "d1_avg": 0.2889,
+   "n": 15,
+   "inst_comp": 758.8,
+   "top_ratio": 0.733,
+   "d1_avg": 0.2479,
    "d1_med": 0.2647,
    "m3_win": null,
    "temp": "보통"
@@ -390,25 +390,7 @@
  ],
  "events": [
   {
-   "id": "C01025617",
-   "name": "하나에어로다이내믹스",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "method": "general"
-  },
-  {
-   "id": "0153R0",
-   "name": "바로팜",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "method": "general"
-  },
-  {
-   "id": "C01863318",
+   "id": "493410",
    "name": "넥스아이",
    "market": "KOSDAQ",
    "type": "상장",
@@ -419,24 +401,6 @@
   {
    "id": "C01705740",
    "name": "엠비디",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "method": "general"
-  },
-  {
-   "id": "C01403198",
-   "name": "제이앤티지",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "method": "general"
-  },
-  {
-   "id": "C00618173",
-   "name": "씨앤엠",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-11-12",
@@ -589,9 +553,9 @@
   }
  ],
  "backtest": {
-  "n": 111,
-  "brier": 0.2352,
-  "acc": 0.64,
-  "base": 0.613
+  "n": 112,
+  "brier": 0.2359,
+  "acc": 0.634,
+  "base": 0.607
  }
 }

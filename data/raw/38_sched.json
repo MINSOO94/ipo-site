@@ -221,32 +221,6 @@
   "underwriter": "하나증권"
  },
  {
-  "name": "씨앤엠",
-  "no": "2346",
-  "sub_start": "2026-11-12",
-  "sub_end": "2026-11-13",
-  "offer_price": null,
-  "band": [
-   10000,
-   13000
-  ],
-  "sub_competition": null,
-  "underwriter": "한국투자증권"
- },
- {
-  "name": "제이앤티지",
-  "no": "2347",
-  "sub_start": "2026-11-12",
-  "sub_end": "2026-11-13",
-  "offer_price": null,
-  "band": [
-   26400,
-   31900
-  ],
-  "sub_competition": null,
-  "underwriter": "대신증권,NH투자증권"
- },
- {
   "name": "하나에어로다이내믹스",
   "no": "2334",
   "sub_start": "2026-11-10",
@@ -256,7 +230,7 @@
    4700,
    5700
   ],
-  "sub_competition": null,
+  "sub_competition": 1851.14,
   "underwriter": "IBK투자증권"
  },
  {
@@ -10138,5 +10112,31 @@
   ],
   "sub_competition": 317.62,
   "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
+ },
+ {
+  "name": "노터스",
+  "no": "1476",
+  "sub_start": "2019-11-14",
+  "sub_end": "2019-11-15",
+  "offer_price": 20000,
+  "band": [
+   17000,
+   20000
+  ],
+  "sub_competition": 22.31,
+  "underwriter": "대신증권"
+ },
+ {
+  "name": "센트랄모텍 (유가)",
+  "no": "1477",
+  "sub_start": "2019-11-13",
+  "sub_end": "2019-11-14",
+  "offer_price": 6000,
+  "band": [
+   5000,
+   6000
+  ],
+  "sub_competition": 580.5,
+  "underwriter": "한국투자증권,BNK투자증권"
  }
 ]

@@ -52,8 +52,8 @@
   "no": "2325",
   "listing_date": "2026-11-11",
   "offer_price": 16400,
-  "open_price": null,
-  "first_close": null
+  "open_price": 16000,
+  "first_close": 11780
  },
  {
   "name": "동원파츠",

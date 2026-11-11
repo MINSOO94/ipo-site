@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "넥스아이",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-12",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "자연과학 및 공학 연구개발업",
+  "country": "대한민국",
+  "underwriter": "한국투자증권(주)",
+  "par": 500,
+  "offer_price": 8000,
+  "offer_amount": 40000000,
+  "product": "면역항암제 불응암 치료제 개발",
+  "listed_shares": 45845239,
+  "code": "493410"
+ },
+ {
   "name": "바로팜",
   "market": "KOSDAQ",
   "listing_date": "2026-11-11",
