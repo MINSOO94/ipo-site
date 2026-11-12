@@ -11000,7 +11000,7 @@
   "kind_id": "20260106001126"
  },
  {
-  "name": "하나에어로다이내믹스",
+  "name": "하나에어로",
   "market": "KOSDAQ",
   "list_type": "신규상장",
   "apply_date": "2026-05-29",
@@ -11240,6 +11240,16 @@
   "kind_id": "20260129000320"
  },
  {
+  "name": "범한메카텍",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-31",
+  "result_date": "2026-11-12",
+  "result": "심사승인",
+  "underwriter": "유진투자증권(주),엔에이치투자증권(주)",
+  "kind_id": "20260130000186"
+ },
+ {
   "name": "에이엘로봇",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11415,7 +11425,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-07-31",
   "result_date": "2026-09-14",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "대신증권(주)",
   "kind_id": "20260330000099"
  },
@@ -11770,16 +11780,6 @@
   "kind_id": "20260820000587"
  },
  {
-  "name": "범한메카텍",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-31",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "유진투자증권(주),엔에이치투자증권(주)",
-  "kind_id": "20260130000186"
- },
- {
   "name": "소노인터내셔널",
   "market": "KOSPI",
   "list_type": "신규상장",
@@ -11825,7 +11825,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-07-03",
   "result_date": null,
-  "result": "청구서접수",
+  "result": "심사승인",
   "underwriter": "미래에셋증권 주식회사",
   "kind_id": "20260127000763"
  },
@@ -11878,6 +11878,16 @@
   "result": "청구서접수",
   "underwriter": "삼성증권(주)",
   "kind_id": "20260720000710"
+ },
+ {
+  "name": "클러쉬",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-12",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20260728000354"
  },
  {
   "name": "그레이스",

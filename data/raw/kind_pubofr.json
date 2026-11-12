@@ -304,25 +304,6 @@
   "kind_id": "20250827000564"
  },
  {
-  "name": "하나에어로다이내믹스",
-  "market": "KOSDAQ",
-  "filing_date": "2026-09-21",
-  "forecast": [
-   "2026-11-02",
-   "2026-11-06"
-  ],
-  "subscription": [
-   "2026-11-10",
-   "2026-11-11"
-  ],
-  "payment_date": "2026-11-13",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-11-20",
-  "underwriter": "IBK투자증권(주)",
-  "kind_id": "20260114000254"
- },
- {
   "name": "삼양컴텍",
   "market": "KOSDAQ",
   "filing_date": "2025-06-16",
@@ -1347,6 +1328,25 @@
   "listing_date": "2026-11-03",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20260129000229"
+ },
+ {
+  "name": "하나에어로다이내믹스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-21",
+  "forecast": [
+   "2026-11-02",
+   "2026-11-06"
+  ],
+  "subscription": [
+   "2026-11-10",
+   "2026-11-11"
+  ],
+  "payment_date": "2026-11-13",
+  "offer_price": 5700,
+  "offer_amount_mil": 25080,
+  "listing_date": "2026-11-20",
+  "underwriter": "IBK투자증권(주)",
+  "kind_id": "20260114000254"
  },
  {
   "name": "아크릴",

@@ -1,5 +1,29 @@
 [
  {
+  "name": "아델",
+  "no": "2345",
+  "listing_date": "2026-12-02",
+  "offer_price": null,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "유캐스트",
+  "no": "2352",
+  "listing_date": "2026-11-30",
+  "offer_price": null,
+  "open_price": null,
+  "first_close": null
+ },
+ {
+  "name": "에스에프씨 (유가)",
+  "no": "2349",
+  "listing_date": "2026-11-27",
+  "offer_price": null,
+  "open_price": null,
+  "first_close": null
+ },
+ {
   "name": "엠비디",
   "no": "2321",
   "listing_date": "2026-11-24",
@@ -44,8 +68,8 @@
   "no": "2336",
   "listing_date": "2026-11-12",
   "offer_price": 8000,
-  "open_price": null,
-  "first_close": null
+  "open_price": 7620,
+  "first_close": 4810
  },
  {
   "name": "바로팜",
@@ -6054,29 +6078,5 @@
   "offer_price": 2000,
   "open_price": 2010,
   "first_close": 2010
- },
- {
-  "name": "엔에이치프라임리츠 (유가)",
-  "no": "1490",
-  "listing_date": "2019-12-05",
-  "offer_price": 5000,
-  "open_price": 5000,
-  "first_close": 6500
- },
- {
-  "name": "IBKS스팩11호",
-  "no": "1480",
-  "listing_date": "2019-12-03",
-  "offer_price": 2000,
-  "open_price": 2005,
-  "first_close": 2010
- },
- {
-  "name": "코리아센터",
-  "no": "1468",
-  "listing_date": "2019-11-29",
-  "offer_price": 18000,
-  "open_price": 23000,
-  "first_close": 22850
  }
 ]

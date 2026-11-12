@@ -52,6 +52,19 @@
   "underwriter": "한국투자증권,BNK투자증권"
  },
  {
+  "name": "다비오",
+  "no": "2358",
+  "sub_start": "2026-12-09",
+  "sub_end": "2026-12-10",
+  "offer_price": null,
+  "band": [
+   12300,
+   16600
+  ],
+  "sub_competition": null,
+  "underwriter": "대신증권"
+ },
+ {
   "name": "마더스제약",
   "no": "2359",
   "sub_start": "2026-12-08",
@@ -102,19 +115,6 @@
   ],
   "sub_competition": null,
   "underwriter": "신영증권"
- },
- {
-  "name": "다비오",
-  "no": "2358",
-  "sub_start": "2026-12-01",
-  "sub_end": "2026-12-02",
-  "offer_price": null,
-  "band": [
-   12300,
-   16600
-  ],
-  "sub_competition": null,
-  "underwriter": "대신증권"
  },
  {
   "name": "에이엔에이치스트럭쳐",

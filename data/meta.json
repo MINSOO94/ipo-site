@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-12 00:39",
- "today": "2026-11-12",
+ "updated": "2026-11-13 01:16",
+ "today": "2026-11-13",
  "counts": {
-  "review": 42,
-  "approved": 6,
+  "review": 41,
+  "approved": 9,
   "offering": 21,
   "listed": 838,
   "withdrawn": 178
@@ -382,22 +382,13 @@
    "n": 15,
    "inst_comp": 758.8,
    "top_ratio": 0.733,
-   "d1_avg": 0.2479,
-   "d1_med": 0.2647,
+   "d1_avg": 0.2047,
+   "d1_med": 0.1094,
    "m3_win": null,
-   "temp": "보통"
+   "temp": "냉각"
   }
  ],
  "events": [
-  {
-   "id": "493410",
-   "name": "넥스아이",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "method": "general"
-  },
   {
    "id": "C01705740",
    "name": "엠비디",
@@ -507,11 +498,29 @@
    "method": "spac"
   },
   {
+   "id": "C00299109",
+   "name": "에스에프씨",
+   "market": "KOSPI",
+   "type": "상장",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "method": "general"
+  },
+  {
    "id": "C01366675",
    "name": "에이엔에이치스트럭쳐",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-11-27",
+   "end": "2026-11-30",
+   "method": "general"
+  },
+  {
+   "id": "C01705573",
+   "name": "유캐스트",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-11-30",
    "end": "2026-11-30",
    "method": "general"
   },
@@ -525,8 +534,8 @@
    "method": "general"
   },
   {
-   "id": "C01706509",
-   "name": "다비오",
+   "id": "C01795859",
+   "name": "엔키화이트햇",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-12-01",
@@ -534,11 +543,11 @@
    "method": "general"
   },
   {
-   "id": "C01795859",
-   "name": "엔키화이트햇",
+   "id": "C01938746",
+   "name": "아델",
    "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-12-01",
+   "type": "상장",
+   "start": "2026-12-02",
    "end": "2026-12-02",
    "method": "general"
   },
@@ -553,9 +562,9 @@
   }
  ],
  "backtest": {
-  "n": 112,
-  "brier": 0.2359,
-  "acc": 0.634,
-  "base": 0.607
+  "n": 111,
+  "brier": 0.2375,
+  "acc": 0.631,
+  "base": 0.613
  }
 }
