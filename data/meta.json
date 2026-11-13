@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13 01:16",
- "today": "2026-11-13",
+ "updated": "2026-11-14 00:44",
+ "today": "2026-11-14",
  "counts": {
   "review": 41,
-  "approved": 9,
-  "offering": 21,
+  "approved": 8,
+  "offering": 22,
   "listed": 838,
   "withdrawn": 178
  },
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "C01705740",
-   "name": "엠비디",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "method": "general"
-  },
-  {
    "id": "C00960234",
    "name": "영광와이케이엠씨",
    "market": "KOSDAQ",
@@ -480,15 +471,6 @@
    "method": "general"
   },
   {
-   "id": "C01950720",
-   "name": "제논",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-24",
-   "end": "2026-11-25",
-   "method": "general"
-  },
-  {
    "id": "Nf3ab9dd3",
    "name": "신영스팩12호",
    "market": "KOSDAQ",
@@ -562,9 +544,9 @@
   }
  ],
  "backtest": {
-  "n": 111,
-  "brier": 0.2375,
-  "acc": 0.631,
-  "base": 0.613
+  "n": 110,
+  "brier": 0.2363,
+  "acc": 0.636,
+  "base": 0.618
  }
 }
