@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14 00:44",
- "today": "2026-11-14",
+ "updated": "2026-11-17 02:28",
+ "today": "2026-11-17",
  "counts": {
-  "review": 41,
+  "review": 42,
   "approved": 8,
-  "offering": 22,
-  "listed": 838,
+  "offering": 20,
+  "listed": 840,
   "withdrawn": 178
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 6
+   "KOSDAQ": 8
   }
  },
  "quarterly": [
@@ -379,10 +379,10 @@
   },
   {
    "q": "2026Q4",
-   "n": 15,
-   "inst_comp": 758.8,
-   "top_ratio": 0.733,
-   "d1_avg": 0.2047,
+   "n": 17,
+   "inst_comp": 808.6,
+   "top_ratio": 0.765,
+   "d1_avg": 0.1817,
    "d1_med": 0.1094,
    "m3_win": null,
    "temp": "냉각"
@@ -390,16 +390,7 @@
  ],
  "events": [
   {
-   "id": "C00960234",
-   "name": "영광와이케이엠씨",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "method": "general"
-  },
-  {
-   "id": "C01658035",
+   "id": "493260",
    "name": "옵토닉스",
    "market": "KOSDAQ",
    "type": "상장",
@@ -541,12 +532,30 @@
    "start": "2026-12-02",
    "end": "2026-12-03",
    "method": "spac"
+  },
+  {
+   "id": "C01783687",
+   "name": "이노보테라퓨틱스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-07",
+   "end": "2026-12-08",
+   "method": "general"
+  },
+  {
+   "id": "C01136597",
+   "name": "마더스제약",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-08",
+   "end": "2026-12-09",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 110,
-  "brier": 0.2363,
-  "acc": 0.636,
-  "base": 0.618
+  "n": 109,
+  "brier": 0.2352,
+  "acc": 0.642,
+  "base": 0.615
  }
 }

@@ -11840,6 +11840,38 @@
   "code": "332190"
  },
  {
+  "name": "옵토닉스",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-17",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외",
+  "country": "대한민국",
+  "underwriter": "한국투자증권(주)",
+  "par": 100,
+  "offer_price": 12000,
+  "offer_amount": 26400000,
+  "product": "링레이저 자이로스코프(RLG) 및 광섬유자이로스코프(FOG) 핵심 부품 제조",
+  "listed_shares": 9566000,
+  "code": "493260"
+ },
+ {
+  "name": "영광와이케이엠씨",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-16",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "기타 금속 가공제품 제조업",
+  "country": "대한민국",
+  "underwriter": "대신증권(주)",
+  "par": 500,
+  "offer_price": 11000,
+  "offer_amount": 25300000,
+  "product": "반도체 장비용 정밀부품, 디스플레이 장비용 정밀부품",
+  "listed_shares": 14482531,
+  "code": "345290"
+ },
+ {
   "name": "넥스아이",
   "market": "KOSDAQ",
   "listing_date": "2026-11-12",

@@ -11140,6 +11140,16 @@
   "kind_id": "20260127000410"
  },
  {
+  "name": "엠디에스코리아",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-07-03",
+  "result_date": "2026-11-12",
+  "result": "심사승인",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260127000763"
+ },
+ {
   "name": "마더스제약",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11255,7 +11265,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-05-22",
   "result_date": "2026-09-11",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "대신증권(주)",
   "kind_id": "20260130000218"
  },
@@ -11365,7 +11375,7 @@
   "list_type": "신규상장",
   "apply_date": "2026-04-08",
   "result_date": "2026-09-21",
-  "result": "심사승인",
+  "result": "상장승인",
   "underwriter": "한국투자증권(주)",
   "kind_id": "20260304000284"
  },
@@ -11630,6 +11640,16 @@
   "kind_id": "20260130000287"
  },
  {
+  "name": "구다이글로벌",
+  "market": "KOSPI",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-13",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260728000100"
+ },
+ {
   "name": "오토핸즈",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11818,16 +11838,6 @@
   "result": "청구서접수",
   "underwriter": "미래에셋증권 주식회사,하나증권주식회사",
   "kind_id": "20260128000276"
- },
- {
-  "name": "엠디에스코리아",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-07-03",
-  "result_date": null,
-  "result": "심사승인",
-  "underwriter": "미래에셋증권 주식회사",
-  "kind_id": "20260127000763"
  },
  {
   "name": "삼홍아크튜리온",
