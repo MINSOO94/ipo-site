@@ -1083,6 +1083,25 @@
   "kind_id": "20250930000130"
  },
  {
+  "name": "엠비디",
+  "market": "KOSDAQ",
+  "filing_date": "2026-08-28",
+  "forecast": [
+   "2026-11-02",
+   "2026-11-06"
+  ],
+  "subscription": [
+   "2026-11-12",
+   "2026-11-13"
+  ],
+  "payment_date": "2026-11-17",
+  "offer_price": 7000,
+  "offer_amount_mil": 14000,
+  "listing_date": "2026-11-24",
+  "underwriter": "하나증권주식회사",
+  "kind_id": "20260128000400"
+ },
+ {
   "name": "미래에셋비전스팩8호",
   "market": "KOSDAQ",
   "filing_date": "2025-10-17",
@@ -2373,6 +2392,25 @@
   "listing_date": "2026-03-27",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20251103000255"
+ },
+ {
+  "name": "유캐스트",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-09",
+  "forecast": [
+   "2026-11-09",
+   "2026-11-13"
+  ],
+  "subscription": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "payment_date": "2026-11-23",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-11-30",
+  "underwriter": "유진투자증권(주)",
+  "kind_id": "20260318000614"
  },
  {
   "name": "피스피스스튜디오",

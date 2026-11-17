@@ -1,5 +1,18 @@
 [
  {
+  "name": "이나인페이",
+  "no": "2361",
+  "sub_start": "2026-12-16",
+  "sub_end": "2026-12-17",
+  "offer_price": null,
+  "band": [
+   7500,
+   10500
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권"
+ },
+ {
   "name": "제논",
   "no": "2341",
   "sub_start": "2026-12-14",
@@ -41,8 +54,8 @@
  {
   "name": "데스틴파워",
   "no": "2356",
-  "sub_start": "2026-12-14",
-  "sub_end": "2026-12-15",
+  "sub_start": "2026-12-11",
+  "sub_end": "2026-12-14",
   "offer_price": null,
   "band": [
    8000,
@@ -195,24 +208,11 @@
   "underwriter": "삼성증권,미래에셋증권"
  },
  {
-  "name": "에스에프씨 (유가)",
-  "no": "2349",
-  "sub_start": "2026-11-18",
-  "sub_end": "2026-11-19",
-  "offer_price": null,
-  "band": [
-   31600,
-   36100
-  ],
-  "sub_competition": null,
-  "underwriter": "미래에셋증권,한국투자증권,삼성증권"
- },
- {
   "name": "유캐스트",
   "no": "2352",
   "sub_start": "2026-11-18",
   "sub_end": "2026-11-19",
-  "offer_price": null,
+  "offer_price": 19000,
   "band": [
    19000,
    23000

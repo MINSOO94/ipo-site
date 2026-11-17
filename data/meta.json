@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17 02:28",
- "today": "2026-11-17",
+ "updated": "2026-11-18 02:07",
+ "today": "2026-11-18",
  "counts": {
   "review": 42,
-  "approved": 8,
-  "offering": 20,
-  "listed": 840,
-  "withdrawn": 178
+  "approved": 7,
+  "offering": 19,
+  "listed": 841,
+  "withdrawn": 179
  },
  "monthly": {
   "2024-12": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 8
+   "KOSDAQ": 9
   }
  },
  "quarterly": [
@@ -379,10 +379,10 @@
   },
   {
    "q": "2026Q4",
-   "n": 17,
-   "inst_comp": 808.6,
-   "top_ratio": 0.765,
-   "d1_avg": 0.1817,
+   "n": 18,
+   "inst_comp": 812.2,
+   "top_ratio": 0.778,
+   "d1_avg": 0.2013,
    "d1_med": 0.1094,
    "m3_win": null,
    "temp": "냉각"
@@ -390,16 +390,7 @@
  ],
  "events": [
   {
-   "id": "493260",
-   "name": "옵토닉스",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "method": "general"
-  },
-  {
-   "id": "C01797635",
+   "id": "471800",
    "name": "에이엘로봇",
    "market": "KOSDAQ",
    "type": "상장",
@@ -411,15 +402,6 @@
    "id": "C01705573",
    "name": "유캐스트",
    "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "method": "general"
-  },
-  {
-   "id": "C00299109",
-   "name": "에스에프씨",
-   "market": "KOSPI",
    "type": "청약",
    "start": "2026-11-18",
    "end": "2026-11-19",
@@ -469,15 +451,6 @@
    "start": "2026-11-24",
    "end": "2026-11-25",
    "method": "spac"
-  },
-  {
-   "id": "C00299109",
-   "name": "에스에프씨",
-   "market": "KOSPI",
-   "type": "상장",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "method": "general"
   },
   {
    "id": "C01366675",
@@ -549,6 +522,24 @@
    "type": "청약",
    "start": "2026-12-08",
    "end": "2026-12-09",
+   "method": "general"
+  },
+  {
+   "id": "C01706509",
+   "name": "다비오",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "method": "general"
+  },
+  {
+   "id": "C01860700",
+   "name": "인터엑스",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
    "method": "general"
   }
  ],

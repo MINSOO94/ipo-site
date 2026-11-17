@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "에이엘로봇",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-18",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "특수 목적용 기계 제조업",
+  "country": "대한민국",
+  "underwriter": "대신증권(주)",
+  "par": 500,
+  "offer_price": 17600,
+  "offer_amount": 42240000,
+  "product": "로봇용 힘/토크센서, 융합 제어장치",
+  "listed_shares": 12065688,
+  "code": "471800"
+ },
+ {
   "name": "옵토닉스",
   "market": "KOSDAQ",
   "listing_date": "2026-11-17",
