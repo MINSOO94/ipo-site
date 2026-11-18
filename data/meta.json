@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18 02:07",
- "today": "2026-11-18",
+ "updated": "2026-11-19 01:45",
+ "today": "2026-11-19",
  "counts": {
   "review": 42,
-  "approved": 7,
-  "offering": 19,
+  "approved": 5,
+  "offering": 20,
   "listed": 841,
   "withdrawn": 179
  },
@@ -374,7 +374,7 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.167,
+   "m3_win": 0.143,
    "temp": "보통"
   },
   {
@@ -382,22 +382,13 @@
    "n": 18,
    "inst_comp": 812.2,
    "top_ratio": 0.778,
-   "d1_avg": 0.2013,
+   "d1_avg": 0.1764,
    "d1_med": 0.1094,
    "m3_win": null,
    "temp": "냉각"
   }
  ],
  "events": [
-  {
-   "id": "471800",
-   "name": "에이엘로봇",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "method": "general"
-  },
   {
    "id": "C01705573",
    "name": "유캐스트",
@@ -408,8 +399,8 @@
    "method": "general"
   },
   {
-   "id": "C01025617",
-   "name": "하나에어로다이내믹스",
+   "id": "N3ddb1ec0",
+   "name": "하나에어로",
    "market": "KOSDAQ",
    "type": "상장",
    "start": "2026-11-20",
@@ -541,12 +532,21 @@
    "start": "2026-12-09",
    "end": "2026-12-10",
    "method": "general"
+  },
+  {
+   "id": "C01077540",
+   "name": "씨아이에스케미칼",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "method": "general"
   }
  ],
  "backtest": {
-  "n": 109,
-  "brier": 0.2352,
-  "acc": 0.642,
-  "base": 0.615
+  "n": 108,
+  "brier": 0.2356,
+  "acc": 0.639,
+  "base": 0.62
  }
 }

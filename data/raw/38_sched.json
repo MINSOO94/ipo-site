@@ -39,6 +39,19 @@
   "underwriter": "신한투자증권,대신증권"
  },
  {
+  "name": "엠디에스코리아",
+  "no": "2362",
+  "sub_start": "2026-12-14",
+  "sub_end": "2026-12-15",
+  "offer_price": null,
+  "band": [
+   9500,
+   11500
+  ],
+  "sub_competition": null,
+  "underwriter": "미래에셋증권"
+ },
+ {
   "name": "KTE",
   "no": "2355",
   "sub_start": "2026-12-14",
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 317.62,
   "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
- },
- {
-  "name": "노터스",
-  "no": "1476",
-  "sub_start": "2019-11-14",
-  "sub_end": "2019-11-15",
-  "offer_price": 20000,
-  "band": [
-   17000,
-   20000
-  ],
-  "sub_competition": 22.31,
-  "underwriter": "대신증권"
  }
 ]
