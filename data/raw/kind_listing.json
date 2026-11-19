@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "하나에어로",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-20",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "항공기,우주선 및 부품 제조업",
+  "country": "대한민국",
+  "underwriter": "IBK투자증권(주)",
+  "par": 100,
+  "offer_price": 5700,
+  "offer_amount": 25080000,
+  "product": "항공기 치공구(39.52%), 항공기 조립(37.41%) 및 항공기부품(22.45%) 등",
+  "listed_shares": 17729964,
+  "code": "271160"
+ },
+ {
   "name": "에이엘로봇",
   "market": "KOSDAQ",
   "listing_date": "2026-11-18",

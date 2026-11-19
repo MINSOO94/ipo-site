@@ -10910,6 +10910,16 @@
   "kind_id": "20251114000430"
  },
  {
+  "name": "피지티",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-02-27",
+  "result_date": "2026-11-19",
+  "result": "심사승인",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20251125000174"
+ },
+ {
   "name": "딜리셔스",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11610,6 +11620,16 @@
   "kind_id": "20260527000844"
  },
  {
+  "name": "브리즈바이오",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-19",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260729000756"
+ },
+ {
   "name": "라이드플럭스",
   "market": "KOSDAQ",
   "list_type": "신규상장",
@@ -11938,16 +11958,6 @@
   "result": "청구서접수",
   "underwriter": "대신증권(주),신한투자증권 주식회사",
   "kind_id": "20260731000117"
- },
- {
-  "name": "피지티",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-02-27",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "한국투자증권(주)",
-  "kind_id": "20251125000174"
  },
  {
   "name": "씨엔티테크",

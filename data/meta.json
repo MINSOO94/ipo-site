@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19 01:45",
- "today": "2026-11-19",
+ "updated": "2026-11-20 01:49",
+ "today": "2026-11-20",
  "counts": {
   "review": 42,
-  "approved": 5,
-  "offering": 20,
-  "listed": 841,
+  "approved": 6,
+  "offering": 19,
+  "listed": 842,
   "withdrawn": 179
  },
  "monthly": {
@@ -103,7 +103,7 @@
   },
   "2026-11": {
    "KOSPI": 0,
-   "KOSDAQ": 9
+   "KOSDAQ": 10
   }
  },
  "quarterly": [
@@ -374,14 +374,14 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.143,
+   "m3_win": 0.125,
    "temp": "보통"
   },
   {
    "q": "2026Q4",
-   "n": 18,
-   "inst_comp": 812.2,
-   "top_ratio": 0.778,
+   "n": 19,
+   "inst_comp": 824.7,
+   "top_ratio": 0.789,
    "d1_avg": 0.1764,
    "d1_med": 0.1094,
    "m3_win": null,
@@ -390,16 +390,7 @@
  ],
  "events": [
   {
-   "id": "C01705573",
-   "name": "유캐스트",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "method": "general"
-  },
-  {
-   "id": "N3ddb1ec0",
+   "id": "271160",
    "name": "하나에어로",
    "market": "KOSDAQ",
    "type": "상장",
@@ -541,12 +532,21 @@
    "start": "2026-12-10",
    "end": "2026-12-11",
    "method": "general"
+  },
+  {
+   "id": "C01135039",
+   "name": "데스틴파워",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-11",
+   "end": "2026-12-14",
+   "method": "general"
   }
  ],
  "backtest": {
   "n": 108,
-  "brier": 0.2356,
-  "acc": 0.639,
+  "brier": 0.2325,
+  "acc": 0.648,
   "base": 0.62
  }
 }
