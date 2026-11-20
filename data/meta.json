@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-20 01:49",
- "today": "2026-11-20",
+ "updated": "2026-11-21 01:24",
+ "today": "2026-11-21",
  "counts": {
-  "review": 42,
-  "approved": 6,
+  "review": 43,
+  "approved": 5,
   "offering": 19,
   "listed": 842,
-  "withdrawn": 179
+  "withdrawn": 180
  },
  "monthly": {
   "2024-12": {
@@ -374,7 +374,7 @@
    "top_ratio": 0.688,
    "d1_avg": 0.4692,
    "d1_med": 0.1527,
-   "m3_win": 0.125,
+   "m3_win": 0.111,
    "temp": "보통"
   },
   {
@@ -382,31 +382,13 @@
    "n": 19,
    "inst_comp": 824.7,
    "top_ratio": 0.789,
-   "d1_avg": 0.1764,
-   "d1_med": 0.1094,
+   "d1_avg": 0.1704,
+   "d1_med": 0.0614,
    "m3_win": null,
    "temp": "냉각"
   }
  ],
  "events": [
-  {
-   "id": "271160",
-   "name": "하나에어로",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "method": "general"
-  },
-  {
-   "id": "C01938746",
-   "name": "아델",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-23",
-   "end": "2026-11-24",
-   "method": "general"
-  },
   {
    "id": "C01705740",
    "name": "엠비디",
@@ -467,15 +449,6 @@
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-12-01",
-   "end": "2026-12-02",
-   "method": "general"
-  },
-  {
-   "id": "C01938746",
-   "name": "아델",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-12-02",
    "end": "2026-12-02",
    "method": "general"
   },
@@ -547,6 +520,6 @@
   "n": 108,
   "brier": 0.2325,
   "acc": 0.648,
-  "base": 0.62
+  "base": 0.611
  }
 }

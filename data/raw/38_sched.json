@@ -1,5 +1,18 @@
 [
  {
+  "name": "피지티",
+  "no": "2363",
+  "sub_start": "2026-12-17",
+  "sub_end": "2026-12-18",
+  "offer_price": null,
+  "band": [
+   18000,
+   20000
+  ],
+  "sub_competition": null,
+  "underwriter": "한국투자증권,유안타증권"
+ },
+ {
   "name": "이나인페이",
   "no": "2361",
   "sub_start": "2026-12-16",
@@ -206,19 +219,6 @@
   ],
   "sub_competition": null,
   "underwriter": "신영증권"
- },
- {
-  "name": "아델",
-  "no": "2345",
-  "sub_start": "2026-11-23",
-  "sub_end": "2026-11-24",
-  "offer_price": null,
-  "band": [
-   18000,
-   25000
-  ],
-  "sub_competition": null,
-  "underwriter": "삼성증권,미래에셋증권"
  },
  {
   "name": "유캐스트",
