@@ -855,6 +855,25 @@
   "kind_id": "20260123000294"
  },
  {
+  "name": "유캐스트",
+  "market": "KOSDAQ",
+  "filing_date": "2026-09-09",
+  "forecast": [
+   "2026-11-09",
+   "2026-11-13"
+  ],
+  "subscription": [
+   "2026-11-18",
+   "2026-11-19"
+  ],
+  "payment_date": "2026-11-23",
+  "offer_price": 19000,
+  "offer_amount_mil": 15200,
+  "listing_date": "2026-11-30",
+  "underwriter": "유진투자증권(주)",
+  "kind_id": "20260318000614"
+ },
+ {
   "name": "인투셀",
   "market": "KOSDAQ",
   "filing_date": "2025-03-24",
@@ -2392,25 +2411,6 @@
   "listing_date": "2026-03-27",
   "underwriter": "엔에이치투자증권(주)",
   "kind_id": "20251103000255"
- },
- {
-  "name": "유캐스트",
-  "market": "KOSDAQ",
-  "filing_date": "2026-09-09",
-  "forecast": [
-   "2026-11-09",
-   "2026-11-13"
-  ],
-  "subscription": [
-   "2026-11-18",
-   "2026-11-19"
-  ],
-  "payment_date": "2026-11-23",
-  "offer_price": null,
-  "offer_amount_mil": null,
-  "listing_date": "2026-11-30",
-  "underwriter": "유진투자증권(주)",
-  "kind_id": "20260318000614"
  },
  {
   "name": "피스피스스튜디오",

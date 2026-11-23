@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "엠비디",
+  "market": "KOSDAQ",
+  "listing_date": "2026-11-24",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "의료용 기기 제조업",
+  "country": "대한민국",
+  "underwriter": "하나증권주식회사",
+  "par": 500,
+  "offer_price": 7000,
+  "offer_amount": 14000000,
+  "product": "3D 세포배양 플랫폼 및 서비스",
+  "listed_shares": 14342238,
+  "code": "498150"
+ },
+ {
   "name": "하나에어로",
   "market": "KOSDAQ",
   "listing_date": "2026-11-20",
