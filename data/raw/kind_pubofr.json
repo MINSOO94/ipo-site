@@ -2375,6 +2375,25 @@
   "kind_id": "20260120000416"
  },
  {
+  "name": "우리투자제1호스팩",
+  "market": "KOSDAQ",
+  "filing_date": "2026-10-26",
+  "forecast": [
+   "2026-11-25",
+   "2026-11-26"
+  ],
+  "subscription": [
+   "2026-12-02",
+   "2026-12-03"
+  ],
+  "payment_date": "2026-12-07",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-12-14",
+  "underwriter": "주식회사 우리투자증권",
+  "kind_id": "20260730000119"
+ },
+ {
   "name": "에스엔시스",
   "market": "KOSDAQ",
   "filing_date": "2025-06-25",

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 04:31",
- "today": "2026-11-24",
+ "updated": "2026-11-25 04:07",
+ "today": "2026-11-25",
  "counts": {
   "review": 43,
   "approved": 5,
@@ -382,7 +382,7 @@
    "n": 20,
    "inst_comp": 792.9,
    "top_ratio": 0.75,
-   "d1_avg": 0.1704,
+   "d1_avg": 0.1419,
    "d1_med": 0.0614,
    "m3_win": null,
    "temp": "냉각"
@@ -390,21 +390,21 @@
  ],
  "events": [
   {
-   "id": "498150",
-   "name": "엠비디",
-   "market": "KOSDAQ",
-   "type": "상장",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "method": "general"
-  },
-  {
    "id": "Nf3ab9dd3",
    "name": "신영스팩12호",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-11-24",
    "end": "2026-11-25",
+   "method": "spac"
+  },
+  {
+   "id": "C02040710",
+   "name": "우리투자제1호스팩",
+   "market": "KOSDAQ",
+   "type": "수요예측",
+   "start": "2026-11-25",
+   "end": "2026-11-26",
    "method": "spac"
   },
   {
@@ -449,6 +449,15 @@
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-12-02",
+   "end": "2026-12-03",
+   "method": "spac"
+  },
+  {
+   "id": "Nf3ab9dd3",
+   "name": "신영스팩12호",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-12-03",
    "end": "2026-12-03",
    "method": "spac"
   },
@@ -507,6 +516,15 @@
    "method": "general"
   },
   {
+   "id": "C02040710",
+   "name": "우리투자제1호스팩",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-12-14",
+   "end": "2026-12-14",
+   "method": "spac"
+  },
+  {
    "id": "C00566418",
    "name": "엠디에스코리아",
    "market": "KOSDAQ",
@@ -540,6 +558,15 @@
    "type": "청약",
    "start": "2026-12-14",
    "end": "2026-12-15",
+   "method": "general"
+  },
+  {
+   "id": "C01044092",
+   "name": "이나인페이",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-16",
+   "end": "2026-12-17",
    "method": "general"
   }
  ],
