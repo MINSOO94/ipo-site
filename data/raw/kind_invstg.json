@@ -11470,6 +11470,16 @@
   "kind_id": "20260331000039"
  },
  {
+  "name": "아이알큐더스",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-06-19",
+  "result_date": "2026-11-25",
+  "result": "심사철회",
+  "underwriter": "DB증권주식회사",
+  "kind_id": "20260331000257"
+ },
+ {
   "name": "에스텍시스템",
   "market": "KOSPI",
   "list_type": "신규상장",
@@ -11710,6 +11720,16 @@
   "kind_id": "20260529000151"
  },
  {
+  "name": "링크플로우",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-25",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "엔에이치투자증권(주)",
+  "kind_id": "20260731000079"
+ },
+ {
   "name": "엑티브온",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",
@@ -11728,16 +11748,6 @@
   "result": "청구서접수",
   "underwriter": "미래에셋증권 주식회사",
   "kind_id": "20260529000153"
- },
- {
-  "name": "아이알큐더스",
-  "market": "KOSDAQ",
-  "list_type": "신규상장",
-  "apply_date": "2026-06-19",
-  "result_date": null,
-  "result": "청구서접수",
-  "underwriter": "DB증권주식회사",
-  "kind_id": "20260331000257"
  },
  {
   "name": "인텔릭스",

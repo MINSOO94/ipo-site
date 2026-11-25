@@ -2565,6 +2565,25 @@
   "kind_id": "20240530000194"
  },
  {
+  "name": "이노보테라퓨틱스",
+  "market": "KOSDAQ",
+  "filing_date": "2026-10-21",
+  "forecast": [
+   "2026-11-26",
+   "2026-12-02"
+  ],
+  "subscription": [
+   "2026-12-07",
+   "2026-12-08"
+  ],
+  "payment_date": "2026-12-10",
+  "offer_price": null,
+  "offer_amount_mil": null,
+  "listing_date": "2026-12-16",
+  "underwriter": "한국투자증권(주)",
+  "kind_id": "20260127000410"
+ },
+ {
   "name": "기도산업",
   "market": "KOSDAQ",
   "filing_date": "2026-06-26",

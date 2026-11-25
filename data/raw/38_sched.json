@@ -1,5 +1,18 @@
 [
  {
+  "name": "범한메카텍(구.두산메카텍)",
+  "no": "2364",
+  "sub_start": "2026-12-17",
+  "sub_end": "2026-12-18",
+  "offer_price": null,
+  "band": [
+   22800,
+   28000
+  ],
+  "sub_competition": null,
+  "underwriter": "NH투자증권,유진투자증권,BNK투자증권"
+ },
+ {
   "name": "피지티",
   "no": "2363",
   "sub_start": "2026-12-17",
@@ -204,7 +217,7 @@
    2000,
    2000
   ],
-  "sub_competition": null,
+  "sub_competition": 253.0,
   "underwriter": "신영증권"
  },
  {
@@ -217,7 +230,7 @@
    19000,
    23000
   ],
-  "sub_competition": null,
+  "sub_competition": 0.49,
   "underwriter": "유진투자증권,신영증권"
  },
  {
@@ -10125,18 +10138,5 @@
   ],
   "sub_competition": 317.62,
   "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
- },
- {
-  "name": "노터스",
-  "no": "1476",
-  "sub_start": "2019-11-14",
-  "sub_end": "2019-11-15",
-  "offer_price": 20000,
-  "band": [
-   17000,
-   20000
-  ],
-  "sub_competition": 22.31,
-  "underwriter": "대신증권"
  }
 ]

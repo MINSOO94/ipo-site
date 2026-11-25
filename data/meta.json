@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25 04:07",
- "today": "2026-11-25",
+ "updated": "2026-11-26 03:13",
+ "today": "2026-11-26",
  "counts": {
   "review": 43,
-  "approved": 5,
-  "offering": 17,
+  "approved": 4,
+  "offering": 18,
   "listed": 843,
-  "withdrawn": 181
+  "withdrawn": 182
  },
  "monthly": {
   "2024-12": {
@@ -390,15 +390,6 @@
  ],
  "events": [
   {
-   "id": "Nf3ab9dd3",
-   "name": "신영스팩12호",
-   "market": "KOSDAQ",
-   "type": "청약",
-   "start": "2026-11-24",
-   "end": "2026-11-25",
-   "method": "spac"
-  },
-  {
    "id": "C02040710",
    "name": "우리투자제1호스팩",
    "market": "KOSDAQ",
@@ -406,6 +397,15 @@
    "start": "2026-11-25",
    "end": "2026-11-26",
    "method": "spac"
+  },
+  {
+   "id": "C01783687",
+   "name": "이노보테라퓨틱스",
+   "market": "KOSDAQ",
+   "type": "수요예측",
+   "start": "2026-11-26",
+   "end": "2026-12-02",
+   "method": "general"
   },
   {
    "id": "C01366675",
@@ -561,12 +561,39 @@
    "method": "general"
   },
   {
+   "id": "C01783687",
+   "name": "이노보테라퓨틱스",
+   "market": "KOSDAQ",
+   "type": "상장",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "method": "general"
+  },
+  {
    "id": "C01044092",
    "name": "이나인페이",
    "market": "KOSDAQ",
    "type": "청약",
    "start": "2026-12-16",
    "end": "2026-12-17",
+   "method": "general"
+  },
+  {
+   "id": "C01013612",
+   "name": "피지티",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-17",
+   "end": "2026-12-18",
+   "method": "general"
+  },
+  {
+   "id": "C01182790",
+   "name": "범한메카텍",
+   "market": "KOSDAQ",
+   "type": "청약",
+   "start": "2026-12-17",
+   "end": "2026-12-18",
    "method": "general"
   }
  ],
