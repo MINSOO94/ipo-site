@@ -11840,6 +11840,22 @@
   "code": "332190"
  },
  {
+  "name": "에이치스틸",
+  "market": "KONEX",
+  "listing_date": "2026-11-27",
+  "list_type": "신규상장",
+  "security": "주권",
+  "industry": "기타 금속 가공제품 제조업",
+  "country": "대한민국",
+  "underwriter": "유안타증권(주)",
+  "par": 1000,
+  "offer_price": null,
+  "offer_amount": null,
+  "product": "컬러강판",
+  "listed_shares": 5093000,
+  "code": "0061P0"
+ },
+ {
   "name": "엠비디",
   "market": "KOSDAQ",
   "listing_date": "2026-11-24",
