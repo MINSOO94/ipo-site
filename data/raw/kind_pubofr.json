@@ -798,6 +798,25 @@
   "kind_id": "20260127000100"
  },
  {
+  "name": "신영스팩12호",
+  "market": "KOSDAQ",
+  "filing_date": "2026-10-28",
+  "forecast": [
+   "2026-11-19",
+   "2026-11-20"
+  ],
+  "subscription": [
+   "2026-11-24",
+   "2026-11-25"
+  ],
+  "payment_date": "2026-11-27",
+  "offer_price": 2000,
+  "offer_amount_mil": 12500,
+  "listing_date": "2026-12-03",
+  "underwriter": "신영증권(주)",
+  "kind_id": "20260806000110"
+ },
+ {
   "name": "테라뷰",
   "market": "KOSDAQ",
   "filing_date": "2025-10-14",

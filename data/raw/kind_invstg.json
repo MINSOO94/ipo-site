@@ -11770,6 +11770,16 @@
   "kind_id": "20260330000001"
  },
  {
+  "name": "트위니",
+  "market": "KOSDAQ",
+  "list_type": "신규상장",
+  "apply_date": "2026-11-27",
+  "result_date": null,
+  "result": "청구서접수",
+  "underwriter": "미래에셋증권 주식회사",
+  "kind_id": "20260528000120"
+ },
+ {
   "name": "이티에스",
   "market": "KOSDAQ",
   "list_type": "스팩 소멸합병",

@@ -1,5 +1,18 @@
 [
  {
+  "name": "씨아이에스케미칼",
+  "no": "2348",
+  "sub_start": "2027-01-21",
+  "sub_end": "2027-01-22",
+  "offer_price": null,
+  "band": [
+   5000,
+   6000
+  ],
+  "sub_competition": null,
+  "underwriter": "KB증권"
+ },
+ {
   "name": "범한메카텍(구.두산메카텍)",
   "no": "2364",
   "sub_start": "2026-12-17",
@@ -104,19 +117,6 @@
   "underwriter": "한국투자증권"
  },
  {
-  "name": "씨아이에스케미칼",
-  "no": "2348",
-  "sub_start": "2026-12-10",
-  "sub_end": "2026-12-11",
-  "offer_price": null,
-  "band": [
-   5400,
-   6800
-  ],
-  "sub_competition": null,
-  "underwriter": "KB증권"
- },
- {
   "name": "인터엑스",
   "no": "2353",
   "sub_start": "2026-12-09",
@@ -193,19 +193,6 @@
   ],
   "sub_competition": null,
   "underwriter": "신영증권"
- },
- {
-  "name": "에이엔에이치스트럭쳐",
-  "no": "2350",
-  "sub_start": "2026-11-27",
-  "sub_end": "2026-11-30",
-  "offer_price": null,
-  "band": [
-   11200,
-   13600
-  ],
-  "sub_competition": null,
-  "underwriter": "NH투자증권"
  },
  {
   "name": "신영스팩12호",
@@ -10138,5 +10125,18 @@
   ],
   "sub_competition": 317.62,
   "underwriter": "NH투자증권,키움증권,하나금융투자,한국투자증권"
+ },
+ {
+  "name": "노터스",
+  "no": "1476",
+  "sub_start": "2019-11-14",
+  "sub_end": "2019-11-15",
+  "offer_price": 20000,
+  "band": [
+   17000,
+   20000
+  ],
+  "sub_competition": 22.31,
+  "underwriter": "대신증권"
  }
 ]
